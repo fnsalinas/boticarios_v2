@@ -112,3 +112,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# keys
+.crt
+.pem
+.key
+private/ca-cert.crt
+private/client-cert.pem
+private/client-key.pem
+private/server-ca.pem
+private/ssl-cert.crt
+private/ssl-key.key
