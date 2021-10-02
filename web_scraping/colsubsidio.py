@@ -32,11 +32,9 @@ class colsubsidioScraper():
     
     def getCategoriesList(self):
         """
-        Navigate through the principal URL and extract the product categories URLs
+        Navigate through the principal URL and extract the category URLs
 
-        Arguments:
-            cd      (String): Path to the chromedriver that match with the chrome browser version installed.
-            url     (String): Path to the Principal URL that contains all the catergorie URLs.
+        Arguments: None
         
         Returns:
             List with strings that contains all the Categories URLs.
@@ -61,87 +59,97 @@ class colsubsidioScraper():
         self.categoryURLs = urls_list
         return urls_list
 
-    def productDataFromCategory(self, catURL, scrollWaitTime=2):
+    def getOneProductData(self, productSoup):
         """
-        PENDING DOCUMENTATION...
-        """
-        def getAllProductData(browser):
-            productSoup = BeautifulSoup(browser.page_source, 'html.parser').find_all('div', {'class':'product-Vitrina-masVendidos js-productVitrineShowcase WishlistModule rendered'})
-            productsDataList = []
-            for prod in productSoup:
-                productURL = prod.find_all('a')[0].get_attribute_list('href')[0]
-                title = prod.find('p', {'class': 'dataproducto-nameProduct'}).text
-                
-                try:
-                    presentation = prod.find('div', {'class': 'dataproducto-info dataproducto-Presentacion'}).text.strip()
-                except:
-                    presentation = 'N/A'
-                
-                try:
-                    fullPrice = float(prod.find('div', {'class': 'precioTachadoVitrina'}).text.replace('Antes: $','').replace('.','').replace(',','.'))
-                except:
-                    fullPrice = 0
-                
-                try:
-                    finalPrice = float(prod.find('p', {'class': 'dataproducto-bestPrice'}).text.replace('$','').replace('.','').replace(',','.'))
-                except:
-                    finalPrice = 0
-                
-                productsDataList.append({
-                    'product_url': productURL,
-                    'scraping_date': self.dateScraping,
-                    'scraping_time': self.timeScraping,
-                    'title': title,
-                    'presentation': presentation,
-                    'full_price': fullPrice,
-                    'final_price': finalPrice
-                })
-            
-            return pd.concat([pd.DataFrame.from_dict(x, orient='index').T for x in productsDataList], axis=0, ignore_index=True)
+        Extract data from one product based on the soup of that product allocated in the category url.
+
+        Arguments:
+            productSoup (BeautifulSoup object): Contains the soup extracted from the caterories url.
         
-        def getProductURLs(browser):
-            soup = BeautifulSoup(browser.page_source, 'html.parser')
-            prodUrls = [x.get_attribute_list('href')[0] for x in soup.find_all('a') if x.get_attribute_list('href')[0]!=None and x.get_attribute_list('href')[0][-2:].lower()=='/p']
-            return list(dict.fromkeys(prodUrls))
-
-        with closing(Chrome(executable_path = self.chromedriver, options=options)) as browser:
-            # Navigate to the category URL and parse the html source
-            browser.get(catURL)
-
-            lastHeight = browser.execute_script("return document.body.scrollHeight")
-            productDataList, scroll_number = [], 1
-            while True:
-                print(f'{dt.now().strftime("%H:%M:%S")} Scroll nro: {scroll_number:,.0f}', end = '\r')
-                # Scroll hasta el final de la pagina
-                browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                
-                # captura las urls de la pagina hasta donde está cargada
-                productDataList.append(getAllProductData(browser))
-
-                # esperar a que la pagina cargue
-                time.sleep(scrollWaitTime)
-
-                # Calcula la nueva altura de la pagina despues de hacer scroll y lo compara con la latura anterior
-                newHeight = browser.execute_script("return document.body.scrollHeight")
-                if newHeight == lastHeight:
-                    break
-                lastHeight = newHeight
-                scroll_number += 1
-
-            productDataList.append(getProductURLs(browser))
-            
-            return (productDataList)
+        Returns (dict): Dictionady with the product data with the structure:
+            {
+                'product_url': productURL,
+                'scraping_date': self.dateScraping,
+                'scraping_time': self.timeScraping,
+                'title': title,
+                'presentation': presentation,
+                'full_price': fullPrice,
+                'final_price': finalPrice
+            }
+        """
+        productURL = productSoup.find_all('a')[0].get_attribute_list('href')[0]
+        title = productSoup.find('p', {'class': 'dataproducto-nameProduct'}).text
+        
+        try:
+            presentation = productSoup.find('div', {'class': 'dataproducto-info dataproducto-Presentacion'}).text.strip()
+        except:
+            presentation = 'N/A'
+        
+        try:
+            fullPrice = float(productSoup.find('div', {'class': 'precioTachadoVitrina'}).text.replace('Antes: $','').replace('.','').replace(',','.'))
+        except:
+            fullPrice = 0
+        
+        try:
+            finalPrice = float(productSoup.find('p', {'class': 'dataproducto-bestPrice'}).text.replace('$','').replace('.','').replace(',','.'))
+        except:
+            finalPrice = 0
+        
+        return {
+            'product_url': productURL,
+            'scraping_date': self.dateScraping,
+            'scraping_time': self.timeScraping,
+            'title': title,
+            'presentation': presentation,
+            'full_price': fullPrice,
+            'final_price': finalPrice
+        }
     
-    def getAllProductData(self):
+    def getAllProductData(self, browser):
+        """
+        Iterate through each product soup on the browser and apply the getOneProductData() method to concatenate all the results.
+
+        Arguments:
+            browser (selenium.webdriver.chrome.webdriver.WebDriver): Browser that have already loaded the categories URL.
+        
+        Returns (pandas.core.frame.DataFrame) with all the products of the category url.
+        """
+        productSoup = BeautifulSoup(browser.page_source, 'html.parser').find_all('div', {'class':'product-Vitrina-masVendidos js-productVitrineShowcase WishlistModule rendered'})
+        productsDataList = []
+        for prod in productSoup:
+            dfOneProduct = pd.DataFrame.from_dict(self.getOneProductData(prod), orient='index').T
+            if len(dfOneProduct)>0: productsDataList.append(dfOneProduct)
+        
+        concatenatedProductData = pd.concat(productsDataList, axis=0, ignore_index=True)
+        return(concatenatedProductData)
+
+    def productDataFromAllCategories(self, scrollWaitTime=2):
         """
         PENDING DOCUMENTATION...
         """
+        self.getCategoriesList()
+        with closing(Chrome(executable_path = self.chromedriver, options=options)) as browser:
+            productDataList = []
+            for catURL in self.categoryURLs:
+                print(f"Working on {catURL}")
+                browser.get(catURL)
 
-        productDataList = []
-        for catURL in self.getCategoriesList():
-            try:
-                productDataList.append(self.productDataFromCategory(catURL=catURL, scrollWaitTime=2))
-            except:
-                continue
-        
-        return(productDataList)
+                lastHeight = browser.execute_script("return document.body.scrollHeight")
+                scroll_number = 1
+                while True:
+                    print(f'{dt.now().strftime("%H:%M:%S")} Scroll nro: {scroll_number:,.0f}', end = '\r')
+                    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                    time.sleep(scrollWaitTime)
+                    newHeight = browser.execute_script("return document.body.scrollHeight")
+                    if newHeight == lastHeight:
+                        break
+                    lastHeight = newHeight
+                    scroll_number += 1
+
+                productDataList.append(self.getAllProductData(browser))
+        print(productDataList)
+        print(f"Lenght of productDataList: {len(productDataList)}")
+        if len(productDataList)>0:
+            #allProductDataFrame = pd.concat([pd.concat(x, axis=0) for x in productDataList], axis=0, ignore_index=True)
+            allProductDataFrame = pd.concat(productDataList, axis=0, ignore_index=True)
+            return (allProductDataFrame)
