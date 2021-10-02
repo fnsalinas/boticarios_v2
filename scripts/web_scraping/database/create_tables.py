@@ -1,7 +1,7 @@
 class colsubsidio():
 
     def getSQLCreate():
-        return """CREATE TABLE colsubsidio (
+        return """CREATE TABLE IF NOT EXISTS web_scraping.colsubsidio (
             id SERIAL PRIMARY KEY,
             product_url TEXT,
             scraping_date DATE,
@@ -13,7 +13,7 @@ class colsubsidio():
             datetime_created DEFAULT NOW());"""
 
     def getSQLInsert():
-        return """INSERT INTO colsubsidio (
+        return """INSERT INTO web_scraping.colsubsidio (
             product_url TEXT,
             scraping_date DATE,
             scraping_time TIME,
@@ -23,7 +23,7 @@ class colsubsidio():
             final_price NUMBER) VALUES {values};"""
 
     def getSQLDelete():
-        return """DELETE FROM colsubsidio WHERE ({condition});"""
+        return """DELETE FROM web_scraping.colsubsidio WHERE ({condition});"""
 
     def getSQLDrop():
-        return """DROP TABLE colsubsidio;"""
+        return """DROP TABLE IF EXISTS web_scraping.colsubsidio;"""

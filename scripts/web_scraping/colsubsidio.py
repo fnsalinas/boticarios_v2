@@ -150,6 +150,5 @@ class colsubsidioScraper():
         print(productDataList)
         print(f"Lenght of productDataList: {len(productDataList)}")
         if len(productDataList)>0:
-            #allProductDataFrame = pd.concat([pd.concat(x, axis=0) for x in productDataList], axis=0, ignore_index=True)
             allProductDataFrame = pd.concat(productDataList, axis=0, ignore_index=True)
             return (allProductDataFrame)
