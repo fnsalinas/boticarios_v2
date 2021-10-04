@@ -22,15 +22,16 @@ def processColsubsidio():
     clsSpider = colsubsidioScraper()
     df = clsSpider.productDataFromAllCategories()
     printLog("Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.", log)
-    df.to_csv("data\colsubsidioData.csv")
+    df.to_csv(f"data\colsubsidioData{dt.now().strftime('%Y%m%d_%H%M%S')}.csv", index=False)
     printLog("Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com", log)
 
 # Run complete process on drogueriascolsubsidio.com
-# processColsubsidio()
+processColsubsidio()
 
 
-sqlcls = sqlColsubsidio()
-sqlcls.createColsubsidio()
+
+# sqlcls = sqlColsubsidio()
+# sqlcls.createColsubsidio()
 
 
 # print(_runTest())

@@ -23,7 +23,7 @@ class colsubsidioScraper():
     def __init__(
         self,
         url=r"https://www.drogueriascolsubsidio.com",
-        chromedriver=r"assets\chromedriver.exe",
+        chromedriver=r"scripts\web_scraping\assets\chromedriver.exe",
         dateScraping=dt.now().strftime("%Y-%m-%d"),
         timeScraping=dt.now().strftime("%H:%M:%S"),
         categoryURLs=[],
@@ -45,25 +45,27 @@ class colsubsidioScraper():
         Returns:
             List with strings that contains all the Categories URLs.
         """
-        
-        with closing(Chrome(executable_path = self.chromedriver, options=options)) as browser:
-            # Navigate to he principal URL and parse the html source
-            browser.get(self.principal_url)
-            soup = BeautifulSoup(browser.page_source, 'html.parser')
+        try:
+            with closing(Chrome(executable_path = self.chromedriver, options=options)) as browser:
+                # Navigate to he principal URL and parse the html source
+                browser.get(self.principal_url)
+                soup = BeautifulSoup(browser.page_source, 'html.parser')
 
-            # Create a dictionary with the Category URLs and <ul> elements
-            categoriesList = soup.find_all('ul',{'class':'categoria-container'})
-            dc_cat_url = {cat.find_all('a')[1].text.lower().replace('ver ', ''):cat for x, cat in enumerate(categoriesList)}
+                # Create a dictionary with the Category URLs and <ul> elements
+                categoriesList = soup.find_all('ul',{'class':'categoria-container'})
+                dc_cat_url = {cat.find_all('a')[1].text.lower().replace('ver ', ''):cat for x, cat in enumerate(categoriesList)}
 
-            # Extract the URL from the <ul> elements
-            urls_list = []
-            for cat in dc_cat_url.keys():
-                urls_list += [x.get_attribute_list('href')[0] for x in dc_cat_url[cat].find_all('a')]
+                # Extract the URL from the <ul> elements
+                urls_list = []
+                for cat in dc_cat_url.keys():
+                    urls_list += [x.get_attribute_list('href')[0] for x in dc_cat_url[cat].find_all('a')]
+                
+                urls_list = [self.principal_url + x for x in list(dict.fromkeys(urls_list))]
             
-            urls_list = [self.principal_url + x for x in list(dict.fromkeys(urls_list))]
-        
-        self.categoryURLs = urls_list
-        return urls_list
+            self.categoryURLs = urls_list
+            return urls_list
+        except:
+            return self.getCategoriesList()
 
     def getOneProductData(self, productSoup):
         """
@@ -102,11 +104,11 @@ class colsubsidioScraper():
             finalPrice = 0
         
         return {
-            'product_url': productURL,
+            'product_url': productURL.replace('"','').replace('\n',''),
             'scraping_date': self.dateScraping,
             'scraping_time': self.timeScraping,
-            'title': title,
-            'presentation': presentation,
+            'title': title.replace('"','').replace('\n',''),
+            'presentation': presentation.replace('"','').replace('\n',''),
             'full_price': fullPrice,
             'final_price': finalPrice
         }
@@ -126,7 +128,10 @@ class colsubsidioScraper():
             dfOneProduct = pd.DataFrame.from_dict(self.getOneProductData(prod), orient='index').T
             if len(dfOneProduct)>0: productsDataList.append(dfOneProduct)
         
-        concatenatedProductData = pd.concat(productsDataList, axis=0, ignore_index=True)
+        try:
+            concatenatedProductData = pd.concat(productsDataList, axis=0, ignore_index=True)
+        except:
+            concatenatedProductData = pd.DataFrame()
         return(concatenatedProductData)
 
     def productDataFromAllCategories(self, scrollWaitTime=2):
