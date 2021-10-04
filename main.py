@@ -1,3 +1,9 @@
+"""
+Created on 28/09/2021
+Author: Fabio Salinas (fabio.salinas1982@gmail.com)
+Version: 1.0
+"""
+
 # External Packages
 import pandas as pd
 from datetime import datetime as dt

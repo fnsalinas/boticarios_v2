@@ -1,3 +1,9 @@
+"""
+Created on 28/09/2021
+Author: Fabio Salinas (fabio.salinas1982@gmail.com)
+Version: 1.0
+"""
+
 from datetime import datetime as dt
 
 def printLog(msg, path_log_file):
