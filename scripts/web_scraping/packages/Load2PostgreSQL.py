@@ -1,10 +1,19 @@
 from scripts.web_scraping.packages.runSQL import runSQL
-from scripts.web_scraping.database.create_tables import colsubsidio
 
 class sqlColsubsidio():
 
-    def createColsubsidio(): 
-        print(colsubsidio.getSQLCreate())
+    def createColsubsidio():
+        sql = """CREATE TABLE IF NOT EXISTS web_scraping.colsubsidio (
+            id SERIAL PRIMARY KEY,
+            product_url TEXT,
+            scraping_date DATE,
+            scraping_time TIME,
+            title TEXT,
+            presentation TEXT,
+            full_price NUMBER,
+            final_price NUMBER,
+            datetime_created DEFAULT NOW());"""
+        runSQL(sql, )
     
     def insertColsubsidio():
         print("Pendiente")
