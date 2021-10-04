@@ -1,3 +1,4 @@
+# External Packages
 import pandas as pd
 import time
 from datetime import datetime as dt
@@ -5,6 +6,11 @@ from contextlib import closing
 from bs4 import BeautifulSoup
 from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options
+
+# Internal packages
+from scripts.web_scraping.packages.CreateLog import printLog
+
+log = "log\log.txt"
 
 options = Options()
 options.add_argument('--ignore-certificate-errors')
@@ -39,7 +45,7 @@ class colsubsidioScraper():
         Returns:
             List with strings that contains all the Categories URLs.
         """
-
+        
         with closing(Chrome(executable_path = self.chromedriver, options=options)) as browser:
             # Navigate to he principal URL and parse the html source
             browser.get(self.principal_url)
@@ -127,17 +133,19 @@ class colsubsidioScraper():
         """
         PENDING DOCUMENTATION...
         """
+        printLog("Creating a list of Category URLs.", log)
         self.getCategoriesList()
+        printLog("Starting process with each URL.", log)
         with closing(Chrome(executable_path = self.chromedriver, options=options)) as browser:
             productDataList = []
             for catURL in self.categoryURLs:
-                print(f"Working on {catURL}")
+                printLog(f"Working on {catURL}", log)
                 browser.get(catURL)
 
                 lastHeight = browser.execute_script("return document.body.scrollHeight")
                 scroll_number = 1
                 while True:
-                    print(f'{dt.now().strftime("%H:%M:%S")} Scroll nro: {scroll_number:,.0f}', end = '\r')
+                    printLog(f"{dt.now().strftime('%H:%M:%S')} Scroll nro: {scroll_number:,.0f}", log)
                     browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                     time.sleep(scrollWaitTime)
                     newHeight = browser.execute_script("return document.body.scrollHeight")
@@ -147,8 +155,8 @@ class colsubsidioScraper():
                     scroll_number += 1
 
                 productDataList.append(self.getAllProductData(browser))
-        print(productDataList)
-        print(f"Lenght of productDataList: {len(productDataList)}")
+        
+        printLog(f"Lenght of productDataList: {len(productDataList)}", log)
         if len(productDataList)>0:
             allProductDataFrame = pd.concat(productDataList, axis=0, ignore_index=True)
             return (allProductDataFrame)

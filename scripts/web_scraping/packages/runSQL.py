@@ -30,6 +30,9 @@ def runSQL(
         host        (String): Data base Host. Default "localhost".
         port        (String): Data base Port. Default "5432".
         database    (String): Data base name. Default "postgres".
+        sslcert     (String): Path to the ssl Cert (.crt).
+        sslkey      (String): Path to the ssl Key (.key).
+        sslrootcert (String): Path to the ssl Root Cert (.crt).
         Select      (Bool):   True for a "SELECT" Query (Default), False to run "INSERT, DELETE, DROP, TRUNCATE, UPDATE, etc"
 
     Returns (dict):
@@ -50,16 +53,17 @@ def runSQL(
         else:
             db = psycopg2.connect(user=user, password=password, host=host, port=port, database=database)
     except psycopg2.DatabaseError as error:
-        return ({"result": "Fail", "msg": "db Error: {error}", "telapsed": dt.now() - start, "DataFrame": pd.DataFrame(), "query": SQL})
+        print(error)
+        return ({"result": "Fail", "msg": f"db Error: {error}", "telapsed": dt.now() - start, "DataFrame": pd.DataFrame(), "query": SQL})
 
     if Select:
         try:
             df = pd.read_sql(SQL, db)
-            telapsed = dt.now() - start
             db.close()
             return ({"result": "Successful", "msg": f"Dataframe shape: {df.shape}", "telapsed": dt.now() - start, "DataFrame": df, "query": SQL})
 
         except psycopg2.DatabaseError as error:
+            print(error)
             msg = f"{error}\n{'|'*25} Start Query {'|'*25}\n{SQL}\s{'|'*25} End Query {'|'*25}"
             return ({"result": "Fail", "msg": msg, "telapsed": dt.now() - start, "DataFrame": pd.DataFrame(), "query": SQL})
 
@@ -73,6 +77,7 @@ def runSQL(
             msg = f"OK, {nrows:,.0f} rows affected."
             return ({"result": "Successful", "msg": msg, "telapsed": dt.now() - start, "DataFrame": pd.DataFrame(), "query": SQL})
         except psycopg2.DatabaseError as error:
+            print(error)
             cr.close()
             msg = f"KO: {error}\n{'|'*25} Start Query {'|'*25}\n{SQL}\n,{'|'*25} End Query {'|'*25}"
             return ({"result": "Fail", "msg": msg, "telapsed": dt.now() - start, "DataFrame": pd.DataFrame(), "query": SQL})

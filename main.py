@@ -6,17 +6,31 @@ import time
 # Internal packages
 from scripts.web_scraping.colsubsidio import colsubsidioScraper
 from scripts.web_scraping.database.create_tables import colsubsidio
-from scripts.web_scraping.packages.runSQL import _runTest, runSQL
+# from scripts.web_scraping.packages import Load2PostgreSQL
+# from scripts.web_scraping.packages.runSQL import _runTest, runSQL
+from scripts.web_scraping.packages import *
+from scripts.web_scraping.packages.Load2PostgreSQL import sqlColsubsidio
 from scripts.web_scraping.packages.CreateLog import printLog
+
+log = "log\log.txt"
 
 def processColsubsidio():
     """
     PENDING DOCUMENTATION...
     """
-    printLog("Starting web crawling and web scraping process with https://www.drogueriascolsubsidio.com", "log\log.txt")
+    printLog("Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com", log)
     clsSpider = colsubsidioScraper()
-    df = cs.productDataFromAllCategories()
-    printLog("Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.", "log\log.txt")
+    df = clsSpider.productDataFromAllCategories()
+    printLog("Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.", log)
+    df.to_csv("data\colsubsidioData.csv")
+    printLog("Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com", log)
+
+# Run complete process on drogueriascolsubsidio.com
+# processColsubsidio()
+
+
+sqlcls = sqlColsubsidio()
+sqlcls.createColsubsidio()
 
 
 # print(_runTest())
@@ -36,11 +50,11 @@ def processColsubsidio():
 #     Select=True
 #     )
 
-print("\n\nBuilding the object...")
-cs = colsubsidioScraper()
-print("-*-"*50)
-print("\n\nGetting products list...")
-cs.productDataFromAllCategories().to_csv(f"./data/colsubsidio_{dt.now().strftime('%Y%m%d_%H%M%S')}.csv")
+# print("\n\nBuilding the object...")
+# cs = colsubsidioScraper()
+# print("-*-"*50)
+# print("\n\nGetting products list...")
+# cs.productDataFromAllCategories().to_csv(f"./data/colsubsidio_{dt.now().strftime('%Y%m%d_%H%M%S')}.csv")
 # with open("data/data.txt", "+w") as file:
 #     file.writelines(str(dataList))
 # print("-*-"*50)

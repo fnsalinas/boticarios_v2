@@ -17,7 +17,8 @@ def printLog(msg, path_log_file):
     '''
     
     logf = path_log_file.replace('.txt','_{d}.txt'.format(d=dt.now().strftime('%Y%m%d')))
-    msg = f"{dt.now().strftime('%Y%m%d_%H%M%S').split('.')[0]}: {msg.replace('\n', ' ')[:255]}"
+    msg = msg.replace('\n', ' ')
+    msg = f"{dt.now().strftime('%Y%m%d_%H%M%S').split('.')[0]}: {msg[:255]}"
     with open(logf, 'a+') as logf:
         print(msg.replace('\n', ' '), file = logf)
     
