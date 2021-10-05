@@ -114,8 +114,8 @@ class colsubsidioScraper():
             'category_url': catURL,
             'scraping_date': dt.now().strftime("%Y-%m-%d"),
             'scraping_time': dt.now().strftime("%H:%M:%S"),
-            'title': title.replace('"','').replace('\n','').replace(',',''),
-            'presentation': presentation.replace('"','').replace('\n','').replace(r'Presentación', '').replace(',',''),
+            'title': title.replace('"','').replace("'","").replace('\n','').replace(',','').decode("utf-8").encode("windows-1252").decode("utf-8"),
+            'presentation': presentation.replace('"','').replace("'","").replace('\n','').replace(r'Presentación', '').replace(',','').decode("utf-8").encode("windows-1252").decode("utf-8"),
             'full_price': fullPrice,
             'final_price': finalPrice
         }
