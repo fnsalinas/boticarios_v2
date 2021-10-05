@@ -7,7 +7,7 @@ Version: 1.0
 class colsubsidio():
 
     def getSQLCreate():
-        return """CREATE TABLE IF NOT EXISTS web_scraping.colsubsidio (
+        return """CREATE TABLE IF NOT EXISTS boticarios_transactional.colsubsidio (
             id SERIAL PRIMARY KEY,
             product_url TEXT,
             scraping_date DATE,

@@ -73,7 +73,7 @@ class colsubsidioScraper():
         except:
             return self.getCategoriesList()
 
-    def getOneProductData(self, productSoup):
+    def getOneProductData(self, productSoup, catURL):
         """
         Extract data from one product based on the soup of that product allocated in the category url.
 
@@ -110,16 +110,17 @@ class colsubsidioScraper():
             finalPrice = 0
         
         return {
-            'product_url': productURL.replace('"','').replace('\n',''),
-            'scraping_date': self.dateScraping,
-            'scraping_time': self.timeScraping,
-            'title': title.replace('"','').replace('\n',''),
-            'presentation': presentation.replace('"','').replace('\n','').replace(r'Presentación', ''),
+            'product_url': productURL.replace('"','').replace('\n','').replace(',',''),
+            'category_url': catURL,
+            'scraping_date': dt.now().strftime("%Y-%m-%d"),
+            'scraping_time': dt.now().strftime("%H:%M:%S"),
+            'title': title.replace('"','').replace('\n','').replace(',',''),
+            'presentation': presentation.replace('"','').replace('\n','').replace(r'Presentación', '').replace(',',''),
             'full_price': fullPrice,
             'final_price': finalPrice
         }
     
-    def getAllProductData(self, browser):
+    def getAllProductData(self, browser, catURL):
         """
         Iterate through each product soup on the browser and apply the getOneProductData() method to concatenate all the results.
 
@@ -131,7 +132,7 @@ class colsubsidioScraper():
         productSoup = BeautifulSoup(browser.page_source, 'html.parser').find_all('div', {'class':'product-Vitrina-masVendidos js-productVitrineShowcase WishlistModule rendered'})
         productsDataList = []
         for prod in productSoup:
-            dfOneProduct = pd.DataFrame.from_dict(self.getOneProductData(prod), orient='index').T
+            dfOneProduct = pd.DataFrame.from_dict(self.getOneProductData(prod, catURL), orient='index').T
             if len(dfOneProduct)>0: productsDataList.append(dfOneProduct)
         
         try:
@@ -165,9 +166,21 @@ class colsubsidioScraper():
                     lastHeight = newHeight
                     scroll_number += 1
 
-                productDataList.append(self.getAllProductData(browser))
+                productDataList.append(self.getAllProductData(browser, catURL))
         
         printLog(f"Lenght of productDataList: {len(productDataList)}", log)
         if len(productDataList)>0:
             allProductDataFrame = pd.concat(productDataList, axis=0, ignore_index=True)
             return (allProductDataFrame)
+
+class colsubsidioPostgres():
+    
+    def __init__(self, values, sqlInsert = ""):
+        with open("scripts/web_scraping/database/sql/insert_colsubsidio.sql", "r") as f:
+            self.sqlInsert = f.read()
+            self.values = values
+    
+    def setSQLInsert(self):
+        self.sqlInsert = self.sqlInsert.replace("{values}", self.values)
+        print(self.sqlInsert)
+        return(self.sqlInsert)
