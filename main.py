@@ -12,11 +12,10 @@ import time
 # Internal packages
 from scripts.web_scraping.colsubsidio import colsubsidioScraper
 from scripts.web_scraping.database.create_tables import colsubsidio
-# from scripts.web_scraping.packages import Load2PostgreSQL
-# from scripts.web_scraping.packages.runSQL import _runTest, runSQL
-from scripts.web_scraping.packages import *
+from scripts.web_scraping.packages.runSQL import runSQL
 from scripts.web_scraping.packages.Load2PostgreSQL import sqlColsubsidio
 from scripts.web_scraping.packages.CreateLog import printLog
+from scripts.web_scraping.packages.GetCredentials import GetCredentials
 
 log = "log\log.txt"
 
@@ -24,46 +23,37 @@ def processColsubsidio():
     """
     PENDING DOCUMENTATION...
     """
+    start = dt.now()
     printLog("Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com", log)
     clsSpider = colsubsidioScraper()
     df = clsSpider.productDataFromAllCategories()
     printLog("Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.", log)
     df.to_csv(f"data\colsubsidioData{dt.now().strftime('%Y%m%d_%H%M%S')}.csv", index=False)
+    telapsed = dt.now() - start
     printLog("Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com", log)
+    printLog(f"Time Elapsed: {telapsed}", log)
+
+
+# Test GetCredentials
+user="fsalinas"
+cr = GetCredentials(user)
+
+# Test query
+sql = "SELECT * FROM dw.dim_trabajadores;"
+data = runSQL(
+    SQL=sql,
+    user=user,
+    password=cr[0],
+    host=cr[1],
+    port=cr[2],
+    database=cr[3],
+    sslcert="scripts/web_scraping/assets/private/gcp_boticarios/convertidos/ssl-cert.crt",
+    sslkey="scripts/web_scraping/assets/private/gcp_boticarios/convertidos/ssl-key.key",
+    sslrootcert="scripts/web_scraping/assets/private/gcp_boticarios/convertidos/ca-cert.crt",
+    Select=True
+)
+print(data)
 
 # Run complete process on drogueriascolsubsidio.com
-processColsubsidio()
+# processColsubsidio()
 
-
-
-# sqlcls = sqlColsubsidio()
-# sqlcls.createColsubsidio()
-
-
-# print(_runTest())
-
-
-
-# runSQL(
-#     SQL,
-#     user="postgres",
-#     password="A123",
-#     host="localhost",
-#     port="5432",
-#     database="postgres",
-#     sslcert=None,
-#     sslkey=None,
-#     sslrootcert=None,
-#     Select=True
-#     )
-
-# print("\n\nBuilding the object...")
-# cs = colsubsidioScraper()
-# print("-*-"*50)
-# print("\n\nGetting products list...")
-# cs.productDataFromAllCategories().to_csv(f"./data/colsubsidio_{dt.now().strftime('%Y%m%d_%H%M%S')}.csv")
-# with open("data/data.txt", "+w") as file:
-#     file.writelines(str(dataList))
-# print("-*-"*50)
-# # print(categoriesList(cd=chromedriver, url=principal_url))
-# # print(productDataFromCategory(r"https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/jabones-y-gel-antibacterial", 2))

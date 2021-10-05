@@ -1,0 +1,29 @@
+{
+  "users": {
+    "hseq_admin": {
+      "user": "hseq_admin",
+      "pass": "A123"
+    },
+    "postgres": {
+      "user": "postgres",
+      "pass": "Aadd4455+"
+    },
+    "cgomez": {
+      "user": "cgomez",
+      "pass": "cgomez4526"
+    },
+    "fsalinas": {
+      "user": "fsalinas",
+      "pass": "fsalinas1547"
+    }
+  },
+  "connections": [
+    {
+      "gcp01": {
+        "host": "34.135.129.146",
+        "port": "5432",
+        "database": "postgres"
+      }
+    }
+  ]
+}

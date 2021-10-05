@@ -114,7 +114,7 @@ class colsubsidioScraper():
             'scraping_date': self.dateScraping,
             'scraping_time': self.timeScraping,
             'title': title.replace('"','').replace('\n',''),
-            'presentation': presentation.replace('"','').replace('\n',''),
+            'presentation': presentation.replace('"','').replace('\n','').replace(r'Presentación', ''),
             'full_price': fullPrice,
             'final_price': finalPrice
         }
