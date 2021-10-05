@@ -81,17 +81,3 @@ def runSQL(
             cr.close()
             msg = f"KO: {error}\n{'|'*25} Start Query {'|'*25}\n{SQL}\n,{'|'*25} End Query {'|'*25}"
             return ({"result": "Fail", "msg": msg, "telapsed": dt.now() - start, "DataFrame": pd.DataFrame(), "query": SQL})
-
-def _runTest(p = r'C:\Users\FABIO\OneDrive\Documentos\GitHub\boticarios_v2\private'):
-    return runSQL(
-        SQL="SELECT * FROM web_scraping.pruebas1 LIMIT 100",
-        user="postgres",
-        password="Aadd4455+",
-        host="34.132.216.225",
-        port="5432",
-        database="boticarios",
-        sslcert=p+"ssl-cert.crt",
-        sslkey=p+"ssl-key.key",
-        sslrootcert=p+"ca-cert.crt",
-        Select = True
-        )
