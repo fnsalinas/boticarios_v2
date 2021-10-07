@@ -70,10 +70,15 @@ def processColsubsidio():
     printLog(f"Time Elapsed: {telapsed}", log)
     printLog(f"Total Time Elapsed: {totalTElapsed}", log)
 
+process = input("Procesar ahora? (Si/No): ").lower()=="si"
 while True:
     t = int(dt.now().strftime("%H%M"))
-    if t in (800, 1100, 1400, 1700, 2000, 2300):
-        processColsubsidio()
+    if t in (800, 1100, 1400, 1700, 2000, 2300) or process:
+        try:
+            processColsubsidio()
+            process=False
+        except:
+            print("Error al procesar...")
     for s in range(0, 60, 1):
         msg = f"Waiting until the next review... ({60-s}) Seconds remaining..."
         print(msg, end="\r")

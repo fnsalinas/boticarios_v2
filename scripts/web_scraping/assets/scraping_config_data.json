@@ -1,0 +1,28 @@
+{
+    "chromedriver": "scripts/web_scraping/assets/chromedriver.exe",
+    "urls": 
+    {
+        "colsubsidio": "https://www.drogueriascolsubsidio.com",
+        "cafam": "https://www.drogueriascafam.com.co",
+        "cruzverde": "https://www.cruzverde.com.co",
+        "farmatodo": "https://www.farmatodo.com.co",
+        "locatel": "https://www.locatelcolombia.com",
+        "pasteur": "https://www.farmaciaspasteur.com.co/",
+        "farmalisto": "https://www.farmalisto.com.co/",
+        "olimpica": "https://www.olimpica.com/medicamentos",
+        "tudrogueriavirtual": "https://www.tudrogueriavirtual.com/",
+        "farmacenter": "https://www.farmacenter.com.co/",
+        "drogueriaAlemana": "https://drogueriasalemana.com/",
+        "sanJorge": "https://www.drogueriasanjorge.com/",
+        "saanafarma": "https://www.saanafarma.com/",
+        "carulla": "https://www.carulla.com/salud-y-belleza/drogueria",
+        "euroSupermercados": "https://www.eurosupermercados.com.co/",
+        "tiendasJumbo": "https://www.tiendasjumbo.co/",
+        "drogaselestero": "https://www.drogaselestero.com",
+        "septifarma": "https://www.septifarma.com",
+        "sfarmadroguerias": "https://sfarmadroguerias.com/",
+        "tododrogas": "https://tododrogas.com.co/",
+        "distribucionesaxa": "https://distribucionesaxa.com.co/",
+        "heel": "https://www.heel.com.co/"
+    }
+}

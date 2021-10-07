@@ -1,5 +1,5 @@
 """
-Created on 28/09/2021
+Created on 06/10/2021
 Author: Fabio Salinas (fabio.salinas1982@gmail.com)
 Version: 1.0
 """
@@ -24,9 +24,9 @@ options.add_argument('--ignore-certificate-errors')
 options.add_argument('--headless')
 options.add_argument('--disable-dev-shm-usage')
 options.add_experimental_option('prefs',{'profile.managed_default_content_setings.images':2})
-scrapingConfigData = GetScrapingConfig("colsubsidio")
+scrapingConfigData = GetScrapingConfig("cafam")
 
-class colsubsidioScraper():
+class cafamScraper():
 
     def __init__(
         self,
