@@ -17,8 +17,6 @@ from selenium.webdriver.chrome.options import Options
 from scripts.web_scraping.packages.CreateLog import printLog
 from scripts.web_scraping.packages.GetScrapingConfig import GetScrapingConfig
 
-log = "log\log.txt"
-
 options = Options()
 options.add_argument('--ignore-certificate-errors')
 options.add_argument('--headless')
@@ -28,6 +26,8 @@ scrapingConfigData = GetScrapingConfig("colsubsidio")
 
 class colsubsidioScraper():
 
+    log = "log\log_colsubsidio.txt"
+
     def __init__(
         self,
         url=scrapingConfigData[1],
@@ -35,7 +35,8 @@ class colsubsidioScraper():
         dateScraping=dt.now().strftime("%Y-%m-%d"),
         timeScraping=dt.now().strftime("%H:%M:%S"),
         categoryURLs=[],
-        productURLs=[]
+        productURLs=[],
+        log = "log\log_cafam.txt"
         ):
         self.principal_url = url
         self.chromedriver = chromedriver
@@ -43,6 +44,7 @@ class colsubsidioScraper():
         self.timeScraping = timeScraping
         self.categoryURLs = categoryURLs
         self.productURLs = productURLs
+        self.log = log
     
     def getCategoriesList(self):
         """
@@ -147,19 +149,19 @@ class colsubsidioScraper():
         """
         PENDING DOCUMENTATION...
         """
-        printLog("Creating a list of Category URLs.", log)
+        printLog("Creating a list of Category URLs.", self.log)
         self.getCategoriesList()
-        printLog("Starting process with each URL.", log)
+        printLog("Starting process with each URL.", self.log)
         with closing(Chrome(executable_path = self.chromedriver, options=options)) as browser:
             productDataList = []
             for catURL in self.categoryURLs:
-                printLog(f"Working on {catURL}", log)
+                printLog(f"Working on {catURL}", self.log)
                 browser.get(catURL)
 
                 lastHeight = browser.execute_script("return document.body.scrollHeight")
                 scroll_number = 1
                 while True:
-                    printLog(f"{dt.now().strftime('%H:%M:%S')} Scroll nro: {scroll_number:,.0f}", log)
+                    printLog(f"{dt.now().strftime('%H:%M:%S')} Scroll nro: {scroll_number:,.0f}", self.log)
                     browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                     time.sleep(scrollWaitTime)
                     newHeight = browser.execute_script("return document.body.scrollHeight")
@@ -170,7 +172,7 @@ class colsubsidioScraper():
 
                 productDataList.append(self.getAllProductData(browser, catURL))
         
-        printLog(f"Lenght of productDataList: {len(productDataList)}", log)
+        printLog(f"Lenght of productDataList: {len(productDataList)}", self.log)
         if len(productDataList)>0:
             allProductDataFrame = pd.concat(productDataList, axis=0, ignore_index=True)
             return (allProductDataFrame)

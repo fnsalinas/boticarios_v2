@@ -1,4 +1,4 @@
-CREATE SCHEMA boticarios_transactional AUTHORIZATION postgres;
+CREATE SCHEMA boticarios_transactional AUTHORIZATION hseq_admin;
 
 GRANT ALL ON SCHEMA boticarios_transactional TO cloudsqlsuperuser WITH GRANT OPTION;
 

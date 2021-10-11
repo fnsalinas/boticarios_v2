@@ -1,0 +1,1018 @@
+20211011_001156: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_002705: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_002705: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_002705: Time Elapsed: 0:15:09.060232
+20211011_002705: Starting process of loading data to PostgreSQL...
+20211011_002705: Working on interval [0, 500] last Interval: [12000, 12361]
+20211011_002707: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.551185
+20211011_002707: Working on interval [500, 1000] last Interval: [12000, 12361]
+20211011_002708: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.451066
+20211011_002708: Working on interval [1000, 1500] last Interval: [12000, 12361]
+20211011_002710: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.657120
+20211011_002710: Working on interval [1500, 2000] last Interval: [12000, 12361]
+20211011_002712: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.588791
+20211011_002712: Working on interval [2000, 2500] last Interval: [12000, 12361]
+20211011_002713: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.467251
+20211011_002713: Working on interval [2500, 3000] last Interval: [12000, 12361]
+20211011_002715: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.605884
+20211011_002715: Working on interval [3000, 3500] last Interval: [12000, 12361]
+20211011_002716: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.544282
+20211011_002716: Working on interval [3500, 4000] last Interval: [12000, 12361]
+20211011_002718: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.486292
+20211011_002718: Working on interval [4000, 4500] last Interval: [12000, 12361]
+20211011_002719: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.463085
+20211011_002719: Working on interval [4500, 5000] last Interval: [12000, 12361]
+20211011_002722: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:02.550644
+20211011_002722: Working on interval [5000, 5500] last Interval: [12000, 12361]
+20211011_002724: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.945640
+20211011_002724: Working on interval [5500, 6000] last Interval: [12000, 12361]
+20211011_002726: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.730208
+20211011_002726: Working on interval [6000, 6500] last Interval: [12000, 12361]
+20211011_002727: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.521273
+20211011_002727: Working on interval [6500, 7000] last Interval: [12000, 12361]
+20211011_002729: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.585956
+20211011_002729: Working on interval [7000, 7500] last Interval: [12000, 12361]
+20211011_002732: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:02.625657
+20211011_002732: Working on interval [7500, 8000] last Interval: [12000, 12361]
+20211011_002733: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.455473
+20211011_002733: Working on interval [8000, 8500] last Interval: [12000, 12361]
+20211011_002735: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.551026
+20211011_002735: Working on interval [8500, 9000] last Interval: [12000, 12361]
+20211011_002737: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:02.492078
+20211011_002737: Working on interval [9000, 9500] last Interval: [12000, 12361]
+20211011_002739: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.621506
+20211011_002739: Working on interval [9500, 10000] last Interval: [12000, 12361]
+20211011_002740: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.635359
+20211011_002740: Working on interval [10000, 10500] last Interval: [12000, 12361]
+20211011_002742: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.536893
+20211011_002742: Working on interval [10500, 11000] last Interval: [12000, 12361]
+20211011_002744: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.556937
+20211011_002744: Working on interval [11000, 11500] last Interval: [12000, 12361]
+20211011_002745: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.512890
+20211011_002745: Working on interval [11500, 12000] last Interval: [12000, 12361]
+20211011_002747: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.476454
+20211011_002747: Working on interval [12000, 12361] last Interval: [12000, 12361]
+20211011_002748: Results of interval [12000, 12361]: Successful - OK, 361 rows affected. - 0:00:01.456264
+20211011_002748: Finshed process loading data to PostgreSQL
+20211011_002748: Time Elapsed: 0:00:42.776150
+20211011_002748: Total Time Elapsed: 0:15:51.852007
+20211011_010634: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_012156: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_012156: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_012156: Time Elapsed: 0:15:21.875815
+20211011_012156: Starting process of loading data to PostgreSQL...
+20211011_012156: Working on interval [0, 500] last Interval: [12500, 12607]
+20211011_012158: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.555558
+20211011_012158: Working on interval [500, 1000] last Interval: [12500, 12607]
+20211011_012159: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.575562
+20211011_012159: Working on interval [1000, 1500] last Interval: [12500, 12607]
+20211011_012201: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.616071
+20211011_012201: Working on interval [1500, 2000] last Interval: [12500, 12607]
+20211011_012202: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.486082
+20211011_012202: Working on interval [2000, 2500] last Interval: [12500, 12607]
+20211011_012204: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.465751
+20211011_012204: Working on interval [2500, 3000] last Interval: [12500, 12607]
+20211011_012205: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.474982
+20211011_012205: Working on interval [3000, 3500] last Interval: [12500, 12607]
+20211011_012207: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.559365
+20211011_012207: Working on interval [3500, 4000] last Interval: [12500, 12607]
+20211011_012208: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.485026
+20211011_012208: Working on interval [4000, 4500] last Interval: [12500, 12607]
+20211011_012210: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.505234
+20211011_012210: Working on interval [4500, 5000] last Interval: [12500, 12607]
+20211011_012211: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.497806
+20211011_012211: Working on interval [5000, 5500] last Interval: [12500, 12607]
+20211011_012213: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.536301
+20211011_012213: Working on interval [5500, 6000] last Interval: [12500, 12607]
+20211011_012215: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.484693
+20211011_012215: Working on interval [6000, 6500] last Interval: [12500, 12607]
+20211011_012216: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.541140
+20211011_012216: Working on interval [6500, 7000] last Interval: [12500, 12607]
+20211011_012218: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.461181
+20211011_012218: Working on interval [7000, 7500] last Interval: [12500, 12607]
+20211011_012220: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.924954
+20211011_012220: Working on interval [7500, 8000] last Interval: [12500, 12607]
+20211011_012221: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.528192
+20211011_012221: Working on interval [8000, 8500] last Interval: [12500, 12607]
+20211011_012223: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.604587
+20211011_012223: Working on interval [8500, 9000] last Interval: [12500, 12607]
+20211011_012224: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.568209
+20211011_012224: Working on interval [9000, 9500] last Interval: [12500, 12607]
+20211011_012226: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.416862
+20211011_012226: Working on interval [9500, 10000] last Interval: [12500, 12607]
+20211011_012227: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.519681
+20211011_012227: Working on interval [10000, 10500] last Interval: [12500, 12607]
+20211011_012229: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.580552
+20211011_012229: Working on interval [10500, 11000] last Interval: [12500, 12607]
+20211011_012231: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:02.101199
+20211011_012231: Working on interval [11000, 11500] last Interval: [12500, 12607]
+20211011_012233: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.491389
+20211011_012233: Working on interval [11500, 12000] last Interval: [12500, 12607]
+20211011_012234: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.529928
+20211011_012234: Working on interval [12000, 12500] last Interval: [12500, 12607]
+20211011_012236: Results of interval [12000, 12500]: Successful - OK, 500 rows affected. - 0:00:01.986429
+20211011_012236: Working on interval [12500, 12607] last Interval: [12500, 12607]
+20211011_012237: Results of interval [12500, 12607]: Successful - OK, 107 rows affected. - 0:00:01.219180
+20211011_012237: Finshed process loading data to PostgreSQL
+20211011_012237: Time Elapsed: 0:00:41.515418
+20211011_012237: Total Time Elapsed: 0:16:03.403235
+20211011_014719: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_020127: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_020127: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_020127: Time Elapsed: 0:14:08.420722
+20211011_020127: Starting process of loading data to PostgreSQL...
+20211011_020128: Working on interval [0, 500] last Interval: [11000, 11456]
+20211011_020129: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.553575
+20211011_020129: Working on interval [500, 1000] last Interval: [11000, 11456]
+20211011_020131: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.404304
+20211011_020131: Working on interval [1000, 1500] last Interval: [11000, 11456]
+20211011_020132: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.524207
+20211011_020132: Working on interval [1500, 2000] last Interval: [11000, 11456]
+20211011_020134: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:02.049520
+20211011_020134: Working on interval [2000, 2500] last Interval: [11000, 11456]
+20211011_020136: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.537911
+20211011_020136: Working on interval [2500, 3000] last Interval: [11000, 11456]
+20211011_020138: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.822919
+20211011_020138: Working on interval [3000, 3500] last Interval: [11000, 11456]
+20211011_020139: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.509165
+20211011_020139: Working on interval [3500, 4000] last Interval: [11000, 11456]
+20211011_020141: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.492508
+20211011_020141: Working on interval [4000, 4500] last Interval: [11000, 11456]
+20211011_020142: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.507500
+20211011_020142: Working on interval [4500, 5000] last Interval: [11000, 11456]
+20211011_020144: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.491840
+20211011_020144: Working on interval [5000, 5500] last Interval: [11000, 11456]
+20211011_020145: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.487784
+20211011_020145: Working on interval [5500, 6000] last Interval: [11000, 11456]
+20211011_020147: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.485393
+20211011_020147: Working on interval [6000, 6500] last Interval: [11000, 11456]
+20211011_020148: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.660102
+20211011_020148: Working on interval [6500, 7000] last Interval: [11000, 11456]
+20211011_020150: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.991941
+20211011_020150: Working on interval [7000, 7500] last Interval: [11000, 11456]
+20211011_020152: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.967721
+20211011_020152: Working on interval [7500, 8000] last Interval: [11000, 11456]
+20211011_020154: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.602694
+20211011_020154: Working on interval [8000, 8500] last Interval: [11000, 11456]
+20211011_020156: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.814700
+20211011_020156: Working on interval [8500, 9000] last Interval: [11000, 11456]
+20211011_020158: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:02.328730
+20211011_020158: Working on interval [9000, 9500] last Interval: [11000, 11456]
+20211011_020200: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.897687
+20211011_020200: Working on interval [9500, 10000] last Interval: [11000, 11456]
+20211011_020204: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:03.646086
+20211011_020204: Working on interval [10000, 10500] last Interval: [11000, 11456]
+20211011_020206: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.868452
+20211011_020206: Working on interval [10500, 11000] last Interval: [11000, 11456]
+20211011_020208: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:02.010642
+20211011_020208: Working on interval [11000, 11456] last Interval: [11000, 11456]
+20211011_020209: Results of interval [11000, 11456]: Successful - OK, 456 rows affected. - 0:00:01.662512
+20211011_020209: Finshed process loading data to PostgreSQL
+20211011_020209: Time Elapsed: 0:00:41.899395
+20211011_020209: Total Time Elapsed: 0:14:50.332119
+20211011_024543: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_030115: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_030116: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_030116: Time Elapsed: 0:15:32.845536
+20211011_030116: Starting process of loading data to PostgreSQL...
+20211011_030116: Working on interval [0, 500] last Interval: [12500, 12538]
+20211011_030117: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.604569
+20211011_030117: Working on interval [500, 1000] last Interval: [12500, 12538]
+20211011_030119: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.536080
+20211011_030119: Working on interval [1000, 1500] last Interval: [12500, 12538]
+20211011_030121: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.588811
+20211011_030121: Working on interval [1500, 2000] last Interval: [12500, 12538]
+20211011_030122: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.657298
+20211011_030122: Working on interval [2000, 2500] last Interval: [12500, 12538]
+20211011_030124: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.606931
+20211011_030124: Working on interval [2500, 3000] last Interval: [12500, 12538]
+20211011_030125: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.459610
+20211011_030125: Working on interval [3000, 3500] last Interval: [12500, 12538]
+20211011_030127: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.441104
+20211011_030127: Working on interval [3500, 4000] last Interval: [12500, 12538]
+20211011_030128: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.502670
+20211011_030128: Working on interval [4000, 4500] last Interval: [12500, 12538]
+20211011_030130: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.547437
+20211011_030130: Working on interval [4500, 5000] last Interval: [12500, 12538]
+20211011_030131: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.482691
+20211011_030131: Working on interval [5000, 5500] last Interval: [12500, 12538]
+20211011_030133: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.446692
+20211011_030133: Working on interval [5500, 6000] last Interval: [12500, 12538]
+20211011_030134: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.435762
+20211011_030134: Working on interval [6000, 6500] last Interval: [12500, 12538]
+20211011_030136: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.427772
+20211011_030136: Working on interval [6500, 7000] last Interval: [12500, 12538]
+20211011_030137: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.456005
+20211011_030137: Working on interval [7000, 7500] last Interval: [12500, 12538]
+20211011_030139: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.575593
+20211011_030139: Working on interval [7500, 8000] last Interval: [12500, 12538]
+20211011_030140: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.519424
+20211011_030140: Working on interval [8000, 8500] last Interval: [12500, 12538]
+20211011_030142: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.620344
+20211011_030142: Working on interval [8500, 9000] last Interval: [12500, 12538]
+20211011_030144: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.576569
+20211011_030144: Working on interval [9000, 9500] last Interval: [12500, 12538]
+20211011_030145: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.613568
+20211011_030145: Working on interval [9500, 10000] last Interval: [12500, 12538]
+20211011_030147: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.582467
+20211011_030147: Working on interval [10000, 10500] last Interval: [12500, 12538]
+20211011_030149: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.741928
+20211011_030149: Working on interval [10500, 11000] last Interval: [12500, 12538]
+20211011_030150: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.646347
+20211011_030150: Working on interval [11000, 11500] last Interval: [12500, 12538]
+20211011_030152: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.835560
+20211011_030152: Working on interval [11500, 12000] last Interval: [12500, 12538]
+20211011_030154: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.520495
+20211011_030154: Working on interval [12000, 12500] last Interval: [12500, 12538]
+20211011_030155: Results of interval [12000, 12500]: Successful - OK, 500 rows affected. - 0:00:01.683246
+20211011_030155: Working on interval [12500, 12538] last Interval: [12500, 12538]
+20211011_030157: Results of interval [12500, 12538]: Successful - OK, 38 rows affected. - 0:00:01.133593
+20211011_030157: Finshed process loading data to PostgreSQL
+20211011_030157: Time Elapsed: 0:00:40.963968
+20211011_030157: Total Time Elapsed: 0:16:13.825131
+20211011_032923: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_034459: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_034459: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_034459: Time Elapsed: 0:15:36.360356
+20211011_034459: Starting process of loading data to PostgreSQL...
+20211011_034459: Working on interval [0, 500] last Interval: [12000, 12322]
+20211011_034501: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.525844
+20211011_034501: Working on interval [500, 1000] last Interval: [12000, 12322]
+20211011_034502: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.498435
+20211011_034502: Working on interval [1000, 1500] last Interval: [12000, 12322]
+20211011_034504: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.662080
+20211011_034504: Working on interval [1500, 2000] last Interval: [12000, 12322]
+20211011_034506: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.600909
+20211011_034506: Working on interval [2000, 2500] last Interval: [12000, 12322]
+20211011_034507: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.493647
+20211011_034507: Working on interval [2500, 3000] last Interval: [12000, 12322]
+20211011_034509: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.523189
+20211011_034509: Working on interval [3000, 3500] last Interval: [12000, 12322]
+20211011_034510: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.560306
+20211011_034510: Working on interval [3500, 4000] last Interval: [12000, 12322]
+20211011_034512: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.451976
+20211011_034512: Working on interval [4000, 4500] last Interval: [12000, 12322]
+20211011_034513: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.500548
+20211011_034513: Working on interval [4500, 5000] last Interval: [12000, 12322]
+20211011_034515: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.509057
+20211011_034515: Working on interval [5000, 5500] last Interval: [12000, 12322]
+20211011_034516: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.476137
+20211011_034516: Working on interval [5500, 6000] last Interval: [12000, 12322]
+20211011_034518: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.480538
+20211011_034518: Working on interval [6000, 6500] last Interval: [12000, 12322]
+20211011_034519: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.498694
+20211011_034519: Working on interval [6500, 7000] last Interval: [12000, 12322]
+20211011_034521: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.852817
+20211011_034521: Working on interval [7000, 7500] last Interval: [12000, 12322]
+20211011_034523: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.475134
+20211011_034523: Working on interval [7500, 8000] last Interval: [12000, 12322]
+20211011_034525: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.703363
+20211011_034525: Working on interval [8000, 8500] last Interval: [12000, 12322]
+20211011_034526: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.536640
+20211011_034526: Working on interval [8500, 9000] last Interval: [12000, 12322]
+20211011_034528: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.476250
+20211011_034528: Working on interval [9000, 9500] last Interval: [12000, 12322]
+20211011_034529: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.530065
+20211011_034529: Working on interval [9500, 10000] last Interval: [12000, 12322]
+20211011_034531: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.647192
+20211011_034531: Working on interval [10000, 10500] last Interval: [12000, 12322]
+20211011_034532: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.609293
+20211011_034532: Working on interval [10500, 11000] last Interval: [12000, 12322]
+20211011_034534: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.650902
+20211011_034534: Working on interval [11000, 11500] last Interval: [12000, 12322]
+20211011_034536: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.561898
+20211011_034536: Working on interval [11500, 12000] last Interval: [12000, 12322]
+20211011_034537: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.525521
+20211011_034537: Working on interval [12000, 12322] last Interval: [12000, 12322]
+20211011_034540: Results of interval [12000, 12322]: Successful - OK, 322 rows affected. - 0:00:02.472805
+20211011_034540: Finshed process loading data to PostgreSQL
+20211011_034540: Time Elapsed: 0:00:40.633218
+20211011_034540: Total Time Elapsed: 0:16:17.010573
+20211011_040204: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_041836: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_041836: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_041836: Time Elapsed: 0:16:32.539627
+20211011_041836: Starting process of loading data to PostgreSQL...
+20211011_041836: Working on interval [0, 500] last Interval: [12000, 12226]
+20211011_041838: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.479971
+20211011_041838: Working on interval [500, 1000] last Interval: [12000, 12226]
+20211011_041839: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.500165
+20211011_041839: Working on interval [1000, 1500] last Interval: [12000, 12226]
+20211011_041841: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.578860
+20211011_041841: Working on interval [1500, 2000] last Interval: [12000, 12226]
+20211011_041842: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.622435
+20211011_041842: Working on interval [2000, 2500] last Interval: [12000, 12226]
+20211011_041844: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.480521
+20211011_041844: Working on interval [2500, 3000] last Interval: [12000, 12226]
+20211011_041846: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.500322
+20211011_041846: Working on interval [3000, 3500] last Interval: [12000, 12226]
+20211011_041847: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.482485
+20211011_041847: Working on interval [3500, 4000] last Interval: [12000, 12226]
+20211011_041848: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.441989
+20211011_041848: Working on interval [4000, 4500] last Interval: [12000, 12226]
+20211011_041850: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.423182
+20211011_041850: Working on interval [4500, 5000] last Interval: [12000, 12226]
+20211011_041851: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.438429
+20211011_041851: Working on interval [5000, 5500] last Interval: [12000, 12226]
+20211011_041853: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.504756
+20211011_041853: Working on interval [5500, 6000] last Interval: [12000, 12226]
+20211011_041855: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.605201
+20211011_041855: Working on interval [6000, 6500] last Interval: [12000, 12226]
+20211011_041856: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.583297
+20211011_041856: Working on interval [6500, 7000] last Interval: [12000, 12226]
+20211011_041858: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.828922
+20211011_041858: Working on interval [7000, 7500] last Interval: [12000, 12226]
+20211011_041900: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.860803
+20211011_041900: Working on interval [7500, 8000] last Interval: [12000, 12226]
+20211011_041901: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.459460
+20211011_041901: Working on interval [8000, 8500] last Interval: [12000, 12226]
+20211011_041903: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.536261
+20211011_041903: Working on interval [8500, 9000] last Interval: [12000, 12226]
+20211011_041904: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.531402
+20211011_041904: Working on interval [9000, 9500] last Interval: [12000, 12226]
+20211011_041906: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.429742
+20211011_041906: Working on interval [9500, 10000] last Interval: [12000, 12226]
+20211011_041908: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.627162
+20211011_041908: Working on interval [10000, 10500] last Interval: [12000, 12226]
+20211011_041909: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.565804
+20211011_041909: Working on interval [10500, 11000] last Interval: [12000, 12226]
+20211011_041911: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.721902
+20211011_041911: Working on interval [11000, 11500] last Interval: [12000, 12226]
+20211011_041912: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.414976
+20211011_041912: Working on interval [11500, 12000] last Interval: [12000, 12226]
+20211011_041914: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.584886
+20211011_041914: Working on interval [12000, 12226] last Interval: [12000, 12226]
+20211011_041915: Results of interval [12000, 12226]: Successful - OK, 226 rows affected. - 0:00:01.363036
+20211011_041915: Finshed process loading data to PostgreSQL
+20211011_041915: Time Elapsed: 0:00:39.260420
+20211011_041915: Total Time Elapsed: 0:17:11.815670
+20211011_043027: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_044645: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_044645: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_044645: Time Elapsed: 0:16:18.432725
+20211011_044645: Starting process of loading data to PostgreSQL...
+20211011_044645: Working on interval [0, 500] last Interval: [12500, 12591]
+20211011_044647: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.550219
+20211011_044647: Working on interval [500, 1000] last Interval: [12500, 12591]
+20211011_044649: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.481064
+20211011_044649: Working on interval [1000, 1500] last Interval: [12500, 12591]
+20211011_044650: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.538897
+20211011_044650: Working on interval [1500, 2000] last Interval: [12500, 12591]
+20211011_044652: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.436322
+20211011_044652: Working on interval [2000, 2500] last Interval: [12500, 12591]
+20211011_044653: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.550853
+20211011_044653: Working on interval [2500, 3000] last Interval: [12500, 12591]
+20211011_044655: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.509908
+20211011_044655: Working on interval [3000, 3500] last Interval: [12500, 12591]
+20211011_044656: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.393880
+20211011_044656: Working on interval [3500, 4000] last Interval: [12500, 12591]
+20211011_044658: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.441714
+20211011_044658: Working on interval [4000, 4500] last Interval: [12500, 12591]
+20211011_044659: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.450728
+20211011_044659: Working on interval [4500, 5000] last Interval: [12500, 12591]
+20211011_044701: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.536967
+20211011_044701: Working on interval [5000, 5500] last Interval: [12500, 12591]
+20211011_044702: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.503943
+20211011_044702: Working on interval [5500, 6000] last Interval: [12500, 12591]
+20211011_044704: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.504819
+20211011_044704: Working on interval [6000, 6500] last Interval: [12500, 12591]
+20211011_044705: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.458961
+20211011_044705: Working on interval [6500, 7000] last Interval: [12500, 12591]
+20211011_044707: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.499585
+20211011_044707: Working on interval [7000, 7500] last Interval: [12500, 12591]
+20211011_044708: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.399958
+20211011_044708: Working on interval [7500, 8000] last Interval: [12500, 12591]
+20211011_044710: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.491032
+20211011_044710: Working on interval [8000, 8500] last Interval: [12500, 12591]
+20211011_044711: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.584194
+20211011_044711: Working on interval [8500, 9000] last Interval: [12500, 12591]
+20211011_044713: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.560867
+20211011_044713: Working on interval [9000, 9500] last Interval: [12500, 12591]
+20211011_044715: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.621192
+20211011_044715: Working on interval [9500, 10000] last Interval: [12500, 12591]
+20211011_044716: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.550525
+20211011_044716: Working on interval [10000, 10500] last Interval: [12500, 12591]
+20211011_044718: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.618779
+20211011_044718: Working on interval [10500, 11000] last Interval: [12500, 12591]
+20211011_044719: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.582217
+20211011_044719: Working on interval [11000, 11500] last Interval: [12500, 12591]
+20211011_044721: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.638753
+20211011_044721: Working on interval [11500, 12000] last Interval: [12500, 12591]
+20211011_044723: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.566388
+20211011_044723: Working on interval [12000, 12500] last Interval: [12500, 12591]
+20211011_044724: Results of interval [12000, 12500]: Successful - OK, 500 rows affected. - 0:00:01.638519
+20211011_044724: Working on interval [12500, 12591] last Interval: [12500, 12591]
+20211011_044726: Results of interval [12500, 12591]: Successful - OK, 91 rows affected. - 0:00:01.257443
+20211011_044726: Finshed process loading data to PostgreSQL
+20211011_044726: Time Elapsed: 0:00:40.223770
+20211011_044726: Total Time Elapsed: 0:16:58.672121
+20211011_052749: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_061826: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_063454: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_063454: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_063454: Time Elapsed: 0:16:28.190034
+20211011_063454: Starting process of loading data to PostgreSQL...
+20211011_063455: Working on interval [0, 500] last Interval: [12000, 12407]
+20211011_063457: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:02.876309
+20211011_063457: Working on interval [500, 1000] last Interval: [12000, 12407]
+20211011_063459: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.757337
+20211011_063459: Working on interval [1000, 1500] last Interval: [12000, 12407]
+20211011_063504: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:04.243042
+20211011_063504: Working on interval [1500, 2000] last Interval: [12000, 12407]
+20211011_063505: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.971519
+20211011_063505: Working on interval [2000, 2500] last Interval: [12000, 12407]
+20211011_063508: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:02.159367
+20211011_063508: Working on interval [2500, 3000] last Interval: [12000, 12407]
+20211011_063509: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.552970
+20211011_063509: Working on interval [3000, 3500] last Interval: [12000, 12407]
+20211011_063511: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.457338
+20211011_063511: Working on interval [3500, 4000] last Interval: [12000, 12407]
+20211011_063512: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.503756
+20211011_063512: Working on interval [4000, 4500] last Interval: [12000, 12407]
+20211011_063515: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:02.994614
+20211011_063515: Working on interval [4500, 5000] last Interval: [12000, 12407]
+20211011_063517: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.997236
+20211011_063517: Working on interval [5000, 5500] last Interval: [12000, 12407]
+20211011_063519: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.573992
+20211011_063519: Working on interval [5500, 6000] last Interval: [12000, 12407]
+20211011_063521: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.593819
+20211011_063521: Working on interval [6000, 6500] last Interval: [12000, 12407]
+20211011_063523: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:02.185025
+20211011_063523: Working on interval [6500, 7000] last Interval: [12000, 12407]
+20211011_063524: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.585200
+20211011_063524: Working on interval [7000, 7500] last Interval: [12000, 12407]
+20211011_063526: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.673637
+20211011_063526: Working on interval [7500, 8000] last Interval: [12000, 12407]
+20211011_063528: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.870045
+20211011_063528: Working on interval [8000, 8500] last Interval: [12000, 12407]
+20211011_063530: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.605570
+20211011_063530: Working on interval [8500, 9000] last Interval: [12000, 12407]
+20211011_063531: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.805351
+20211011_063531: Working on interval [9000, 9500] last Interval: [12000, 12407]
+20211011_063533: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.877040
+20211011_063533: Working on interval [9500, 10000] last Interval: [12000, 12407]
+20211011_063537: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:03.252054
+20211011_063537: Working on interval [10000, 10500] last Interval: [12000, 12407]
+20211011_063539: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:02.458246
+20211011_063539: Working on interval [10500, 11000] last Interval: [12000, 12407]
+20211011_063542: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:02.566206
+20211011_063542: Working on interval [11000, 11500] last Interval: [12000, 12407]
+20211011_063544: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.883775
+20211011_063544: Working on interval [11500, 12000] last Interval: [12000, 12407]
+20211011_063546: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:02.673697
+20211011_063546: Working on interval [12000, 12407] last Interval: [12000, 12407]
+20211011_063548: Results of interval [12000, 12407]: Successful - OK, 407 rows affected. - 0:00:01.632523
+20211011_063548: Finshed process loading data to PostgreSQL
+20211011_063548: Time Elapsed: 0:00:53.480633
+20211011_063548: Total Time Elapsed: 0:17:21.683665
+20211011_071255: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_073020: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_073020: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_073020: Time Elapsed: 0:17:25.357421
+20211011_073020: Starting process of loading data to PostgreSQL...
+20211011_073020: Working on interval [0, 500] last Interval: [12000, 12182]
+20211011_073023: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:02.983745
+20211011_073023: Working on interval [500, 1000] last Interval: [12000, 12182]
+20211011_073025: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.528492
+20211011_073025: Working on interval [1000, 1500] last Interval: [12000, 12182]
+20211011_073027: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.585872
+20211011_073027: Working on interval [1500, 2000] last Interval: [12000, 12182]
+20211011_073028: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.519296
+20211011_073028: Working on interval [2000, 2500] last Interval: [12000, 12182]
+20211011_073030: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.518123
+20211011_073030: Working on interval [2500, 3000] last Interval: [12000, 12182]
+20211011_073031: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.577555
+20211011_073031: Working on interval [3000, 3500] last Interval: [12000, 12182]
+20211011_073033: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.626396
+20211011_073033: Working on interval [3500, 4000] last Interval: [12000, 12182]
+20211011_073035: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.581074
+20211011_073035: Working on interval [4000, 4500] last Interval: [12000, 12182]
+20211011_073036: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.561107
+20211011_073036: Working on interval [4500, 5000] last Interval: [12000, 12182]
+20211011_073038: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.771550
+20211011_073038: Working on interval [5000, 5500] last Interval: [12000, 12182]
+20211011_073040: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.669447
+20211011_073040: Working on interval [5500, 6000] last Interval: [12000, 12182]
+20211011_073043: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:03.257108
+20211011_073043: Working on interval [6000, 6500] last Interval: [12000, 12182]
+20211011_073046: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:03.379194
+20211011_073046: Working on interval [6500, 7000] last Interval: [12000, 12182]
+20211011_073048: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.865694
+20211011_073048: Working on interval [7000, 7500] last Interval: [12000, 12182]
+20211011_073050: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.620031
+20211011_073050: Working on interval [7500, 8000] last Interval: [12000, 12182]
+20211011_073052: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.600278
+20211011_073052: Working on interval [8000, 8500] last Interval: [12000, 12182]
+20211011_073053: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.455339
+20211011_073053: Working on interval [8500, 9000] last Interval: [12000, 12182]
+20211011_073055: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.909998
+20211011_073055: Working on interval [9000, 9500] last Interval: [12000, 12182]
+20211011_073057: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.747341
+20211011_073057: Working on interval [9500, 10000] last Interval: [12000, 12182]
+20211011_073059: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:02.159031
+20211011_073059: Working on interval [10000, 10500] last Interval: [12000, 12182]
+20211011_073101: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:02.325684
+20211011_073101: Working on interval [10500, 11000] last Interval: [12000, 12182]
+20211011_073104: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:02.244353
+20211011_073104: Working on interval [11000, 11500] last Interval: [12000, 12182]
+20211011_073105: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.429073
+20211011_073105: Working on interval [11500, 12000] last Interval: [12000, 12182]
+20211011_073107: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.614981
+20211011_073107: Working on interval [12000, 12182] last Interval: [12000, 12182]
+20211011_073109: Results of interval [12000, 12182]: Successful - OK, 182 rows affected. - 0:00:02.012338
+20211011_073109: Finshed process loading data to PostgreSQL
+20211011_073109: Time Elapsed: 0:00:48.270444
+20211011_073109: Total Time Elapsed: 0:18:13.650843
+20211011_075648: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_081340: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_081340: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_081340: Time Elapsed: 0:16:51.546756
+20211011_081340: Starting process of loading data to PostgreSQL...
+20211011_081340: Working on interval [0, 500] last Interval: [11500, 11976]
+20211011_081342: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.556598
+20211011_081342: Working on interval [500, 1000] last Interval: [11500, 11976]
+20211011_081344: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:02.223194
+20211011_081344: Working on interval [1000, 1500] last Interval: [11500, 11976]
+20211011_081346: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:02.007417
+20211011_081346: Working on interval [1500, 2000] last Interval: [11500, 11976]
+20211011_081348: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.719845
+20211011_081348: Working on interval [2000, 2500] last Interval: [11500, 11976]
+20211011_081349: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.474929
+20211011_081349: Working on interval [2500, 3000] last Interval: [11500, 11976]
+20211011_081351: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.659105
+20211011_081351: Working on interval [3000, 3500] last Interval: [11500, 11976]
+20211011_081353: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:02.060962
+20211011_081353: Working on interval [3500, 4000] last Interval: [11500, 11976]
+20211011_081354: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.590506
+20211011_081354: Working on interval [4000, 4500] last Interval: [11500, 11976]
+20211011_081356: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.505562
+20211011_081356: Working on interval [4500, 5000] last Interval: [11500, 11976]
+20211011_081358: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.627791
+20211011_081358: Working on interval [5000, 5500] last Interval: [11500, 11976]
+20211011_081400: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:02.177941
+20211011_081400: Working on interval [5500, 6000] last Interval: [11500, 11976]
+20211011_081402: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:02.506804
+20211011_081402: Working on interval [6000, 6500] last Interval: [11500, 11976]
+20211011_081404: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.959108
+20211011_081404: Working on interval [6500, 7000] last Interval: [11500, 11976]
+20211011_081406: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.922082
+20211011_081406: Working on interval [7000, 7500] last Interval: [11500, 11976]
+20211011_081409: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:02.677916
+20211011_081409: Working on interval [7500, 8000] last Interval: [11500, 11976]
+20211011_081411: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.721824
+20211011_081411: Working on interval [8000, 8500] last Interval: [11500, 11976]
+20211011_081412: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.653849
+20211011_081412: Working on interval [8500, 9000] last Interval: [11500, 11976]
+20211011_081415: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:02.410240
+20211011_081415: Working on interval [9000, 9500] last Interval: [11500, 11976]
+20211011_081417: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:02.261829
+20211011_081417: Working on interval [9500, 10000] last Interval: [11500, 11976]
+20211011_081419: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.729345
+20211011_081419: Working on interval [10000, 10500] last Interval: [11500, 11976]
+20211011_081421: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:02.192302
+20211011_081421: Working on interval [10500, 11000] last Interval: [11500, 11976]
+20211011_081423: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.921855
+20211011_081423: Working on interval [11000, 11500] last Interval: [11500, 11976]
+20211011_081425: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.542456
+20211011_081425: Working on interval [11500, 11976] last Interval: [11500, 11976]
+20211011_081427: Results of interval [11500, 11976]: Successful - OK, 476 rows affected. - 0:00:02.646604
+20211011_081427: Finshed process loading data to PostgreSQL
+20211011_081427: Time Elapsed: 0:00:47.444426
+20211011_081427: Total Time Elapsed: 0:17:38.997690
+20211011_084942: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_090608: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_090608: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_090608: Time Elapsed: 0:16:26.323332
+20211011_090608: Starting process of loading data to PostgreSQL...
+20211011_090608: Working on interval [0, 500] last Interval: [12000, 12201]
+20211011_090610: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.611179
+20211011_090610: Working on interval [500, 1000] last Interval: [12000, 12201]
+20211011_090611: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.603292
+20211011_090611: Working on interval [1000, 1500] last Interval: [12000, 12201]
+20211011_090613: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.651639
+20211011_090613: Working on interval [1500, 2000] last Interval: [12000, 12201]
+20211011_090615: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.513109
+20211011_090615: Working on interval [2000, 2500] last Interval: [12000, 12201]
+20211011_090617: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:02.552266
+20211011_090617: Working on interval [2500, 3000] last Interval: [12000, 12201]
+20211011_090620: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:02.534039
+20211011_090620: Working on interval [3000, 3500] last Interval: [12000, 12201]
+20211011_090622: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.915699
+20211011_090622: Working on interval [3500, 4000] last Interval: [12000, 12201]
+20211011_090623: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.521200
+20211011_090623: Working on interval [4000, 4500] last Interval: [12000, 12201]
+20211011_090625: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.534948
+20211011_090625: Working on interval [4500, 5000] last Interval: [12000, 12201]
+20211011_090626: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.571035
+20211011_090626: Working on interval [5000, 5500] last Interval: [12000, 12201]
+20211011_090628: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.475001
+20211011_090628: Working on interval [5500, 6000] last Interval: [12000, 12201]
+20211011_090629: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.573715
+20211011_090629: Working on interval [6000, 6500] last Interval: [12000, 12201]
+20211011_090631: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.444384
+20211011_090631: Working on interval [6500, 7000] last Interval: [12000, 12201]
+20211011_090632: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.467935
+20211011_090632: Working on interval [7000, 7500] last Interval: [12000, 12201]
+20211011_090634: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.510377
+20211011_090634: Working on interval [7500, 8000] last Interval: [12000, 12201]
+20211011_090636: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.623356
+20211011_090636: Working on interval [8000, 8500] last Interval: [12000, 12201]
+20211011_090637: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.527709
+20211011_090637: Working on interval [8500, 9000] last Interval: [12000, 12201]
+20211011_090639: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.661605
+20211011_090639: Working on interval [9000, 9500] last Interval: [12000, 12201]
+20211011_090641: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.827056
+20211011_090641: Working on interval [9500, 10000] last Interval: [12000, 12201]
+20211011_090642: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.660117
+20211011_090642: Working on interval [10000, 10500] last Interval: [12000, 12201]
+20211011_090644: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.649951
+20211011_090644: Working on interval [10500, 11000] last Interval: [12000, 12201]
+20211011_090646: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.598959
+20211011_090646: Working on interval [11000, 11500] last Interval: [12000, 12201]
+20211011_090647: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.663534
+20211011_090647: Working on interval [11500, 12000] last Interval: [12000, 12201]
+20211011_090649: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.577041
+20211011_090649: Working on interval [12000, 12201] last Interval: [12000, 12201]
+20211011_090651: Results of interval [12000, 12201]: Successful - OK, 201 rows affected. - 0:00:01.664113
+20211011_090651: Finshed process loading data to PostgreSQL
+20211011_090651: Time Elapsed: 0:00:42.586997
+20211011_090651: Total Time Elapsed: 0:17:08.920328
+20211011_094006: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_112424: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_113941: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_113941: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_113941: Time Elapsed: 0:15:16.753791
+20211011_113941: Starting process of loading data to PostgreSQL...
+20211011_113941: Working on interval [0, 500] last Interval: [12000, 12289]
+20211011_113943: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.718376
+20211011_113943: Working on interval [500, 1000] last Interval: [12000, 12289]
+20211011_113944: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.570504
+20211011_113944: Working on interval [1000, 1500] last Interval: [12000, 12289]
+20211011_113946: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.601254
+20211011_113946: Working on interval [1500, 2000] last Interval: [12000, 12289]
+20211011_113948: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.511514
+20211011_113948: Working on interval [2000, 2500] last Interval: [12000, 12289]
+20211011_113949: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.621134
+20211011_113949: Working on interval [2500, 3000] last Interval: [12000, 12289]
+20211011_113951: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.553935
+20211011_113951: Working on interval [3000, 3500] last Interval: [12000, 12289]
+20211011_113952: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.485417
+20211011_113952: Working on interval [3500, 4000] last Interval: [12000, 12289]
+20211011_113954: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.466598
+20211011_113954: Working on interval [4000, 4500] last Interval: [12000, 12289]
+20211011_113955: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.520702
+20211011_113955: Working on interval [4500, 5000] last Interval: [12000, 12289]
+20211011_113957: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.552605
+20211011_113957: Working on interval [5000, 5500] last Interval: [12000, 12289]
+20211011_114000: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:02.685822
+20211011_114000: Working on interval [5500, 6000] last Interval: [12000, 12289]
+20211011_114002: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:02.093480
+20211011_114002: Working on interval [6000, 6500] last Interval: [12000, 12289]
+20211011_114003: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.505141
+20211011_114003: Working on interval [6500, 7000] last Interval: [12000, 12289]
+20211011_114005: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.443068
+20211011_114005: Working on interval [7000, 7500] last Interval: [12000, 12289]
+20211011_114006: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.490438
+20211011_114006: Working on interval [7500, 8000] last Interval: [12000, 12289]
+20211011_114008: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.642469
+20211011_114008: Working on interval [8000, 8500] last Interval: [12000, 12289]
+20211011_114011: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:02.456051
+20211011_114011: Working on interval [8500, 9000] last Interval: [12000, 12289]
+20211011_114012: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.527304
+20211011_114012: Working on interval [9000, 9500] last Interval: [12000, 12289]
+20211011_114014: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.509596
+20211011_114014: Working on interval [9500, 10000] last Interval: [12000, 12289]
+20211011_114015: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.636485
+20211011_114015: Working on interval [10000, 10500] last Interval: [12000, 12289]
+20211011_114017: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.731332
+20211011_114017: Working on interval [10500, 11000] last Interval: [12000, 12289]
+20211011_114019: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.649983
+20211011_114019: Working on interval [11000, 11500] last Interval: [12000, 12289]
+20211011_114021: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:02.580823
+20211011_114021: Working on interval [11500, 12000] last Interval: [12000, 12289]
+20211011_114023: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.605293
+20211011_114023: Working on interval [12000, 12289] last Interval: [12000, 12289]
+20211011_114025: Results of interval [12000, 12289]: Successful - OK, 289 rows affected. - 0:00:01.568072
+20211011_114025: Finshed process loading data to PostgreSQL
+20211011_114025: Time Elapsed: 0:00:43.510922
+20211011_114025: Total Time Elapsed: 0:16:00.280340
+20211011_122211: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_123744: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_123744: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_123744: Time Elapsed: 0:15:33.297982
+20211011_123744: Starting process of loading data to PostgreSQL...
+20211011_123744: Working on interval [0, 500] last Interval: [12000, 12203]
+20211011_123746: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.460221
+20211011_123746: Working on interval [500, 1000] last Interval: [12000, 12203]
+20211011_123747: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.430222
+20211011_123747: Working on interval [1000, 1500] last Interval: [12000, 12203]
+20211011_123749: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.653686
+20211011_123749: Working on interval [1500, 2000] last Interval: [12000, 12203]
+20211011_123750: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.485398
+20211011_123750: Working on interval [2000, 2500] last Interval: [12000, 12203]
+20211011_123752: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.447276
+20211011_123752: Working on interval [2500, 3000] last Interval: [12000, 12203]
+20211011_123753: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.545129
+20211011_123753: Working on interval [3000, 3500] last Interval: [12000, 12203]
+20211011_123755: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.505252
+20211011_123755: Working on interval [3500, 4000] last Interval: [12000, 12203]
+20211011_123756: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.456671
+20211011_123756: Working on interval [4000, 4500] last Interval: [12000, 12203]
+20211011_123758: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.471524
+20211011_123758: Working on interval [4500, 5000] last Interval: [12000, 12203]
+20211011_123800: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.941696
+20211011_123800: Working on interval [5000, 5500] last Interval: [12000, 12203]
+20211011_123802: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.820450
+20211011_123802: Working on interval [5500, 6000] last Interval: [12000, 12203]
+20211011_123803: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.423684
+20211011_123803: Working on interval [6000, 6500] last Interval: [12000, 12203]
+20211011_123805: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.521073
+20211011_123805: Working on interval [6500, 7000] last Interval: [12000, 12203]
+20211011_123806: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.458816
+20211011_123806: Working on interval [7000, 7500] last Interval: [12000, 12203]
+20211011_123808: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.430520
+20211011_123808: Working on interval [7500, 8000] last Interval: [12000, 12203]
+20211011_123810: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.907259
+20211011_123810: Working on interval [8000, 8500] last Interval: [12000, 12203]
+20211011_123811: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.493569
+20211011_123811: Working on interval [8500, 9000] last Interval: [12000, 12203]
+20211011_123813: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.511941
+20211011_123813: Working on interval [9000, 9500] last Interval: [12000, 12203]
+20211011_123814: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.499334
+20211011_123814: Working on interval [9500, 10000] last Interval: [12000, 12203]
+20211011_123816: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.581759
+20211011_123816: Working on interval [10000, 10500] last Interval: [12000, 12203]
+20211011_123817: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.625399
+20211011_123817: Working on interval [10500, 11000] last Interval: [12000, 12203]
+20211011_123819: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.552505
+20211011_123819: Working on interval [11000, 11500] last Interval: [12000, 12203]
+20211011_123820: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.443005
+20211011_123820: Working on interval [11500, 12000] last Interval: [12000, 12203]
+20211011_123822: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.588388
+20211011_123822: Working on interval [12000, 12203] last Interval: [12000, 12203]
+20211011_123823: Results of interval [12000, 12203]: Successful - OK, 203 rows affected. - 0:00:01.399720
+20211011_123823: Finshed process loading data to PostgreSQL
+20211011_123823: Time Elapsed: 0:00:39.371960
+20211011_123823: Total Time Elapsed: 0:16:12.688940
+20211011_130917: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_132317: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_132317: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_132317: Time Elapsed: 0:14:00.155049
+20211011_132317: Starting process of loading data to PostgreSQL...
+20211011_132317: Working on interval [0, 500] last Interval: [10000, 10201]
+20211011_132319: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.553937
+20211011_132319: Working on interval [500, 1000] last Interval: [10000, 10201]
+20211011_132321: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.502975
+20211011_132321: Working on interval [1000, 1500] last Interval: [10000, 10201]
+20211011_132322: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.668613
+20211011_132322: Working on interval [1500, 2000] last Interval: [10000, 10201]
+20211011_132324: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.571993
+20211011_132324: Working on interval [2000, 2500] last Interval: [10000, 10201]
+20211011_132325: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.506078
+20211011_132325: Working on interval [2500, 3000] last Interval: [10000, 10201]
+20211011_132327: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.487807
+20211011_132327: Working on interval [3000, 3500] last Interval: [10000, 10201]
+20211011_132328: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.493328
+20211011_132328: Working on interval [3500, 4000] last Interval: [10000, 10201]
+20211011_132330: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.524484
+20211011_132330: Working on interval [4000, 4500] last Interval: [10000, 10201]
+20211011_132331: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.477708
+20211011_132331: Working on interval [4500, 5000] last Interval: [10000, 10201]
+20211011_132333: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.502973
+20211011_132333: Working on interval [5000, 5500] last Interval: [10000, 10201]
+20211011_132334: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.446544
+20211011_132334: Working on interval [5500, 6000] last Interval: [10000, 10201]
+20211011_132336: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.541638
+20211011_132336: Working on interval [6000, 6500] last Interval: [10000, 10201]
+20211011_132338: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.631218
+20211011_132338: Working on interval [6500, 7000] last Interval: [10000, 10201]
+20211011_132339: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.659330
+20211011_132339: Working on interval [7000, 7500] last Interval: [10000, 10201]
+20211011_132341: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.527615
+20211011_132341: Working on interval [7500, 8000] last Interval: [10000, 10201]
+20211011_132342: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.543058
+20211011_132342: Working on interval [8000, 8500] last Interval: [10000, 10201]
+20211011_132344: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.602096
+20211011_132344: Working on interval [8500, 9000] last Interval: [10000, 10201]
+20211011_132346: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:02.058329
+20211011_132346: Working on interval [9000, 9500] last Interval: [10000, 10201]
+20211011_132348: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.657841
+20211011_132348: Working on interval [9500, 10000] last Interval: [10000, 10201]
+20211011_132349: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.587353
+20211011_132349: Working on interval [10000, 10201] last Interval: [10000, 10201]
+20211011_132351: Results of interval [10000, 10201]: Successful - OK, 201 rows affected. - 0:00:01.347034
+20211011_132351: Finshed process loading data to PostgreSQL
+20211011_132351: Time Elapsed: 0:00:33.440052
+20211011_132351: Total Time Elapsed: 0:14:33.605100
+20211011_141238: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_142712: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_142712: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_142712: Time Elapsed: 0:14:33.969819
+20211011_142712: Starting process of loading data to PostgreSQL...
+20211011_142712: Working on interval [0, 500] last Interval: [10500, 10885]
+20211011_142714: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.654216
+20211011_142714: Working on interval [500, 1000] last Interval: [10500, 10885]
+20211011_142715: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.525190
+20211011_142715: Working on interval [1000, 1500] last Interval: [10500, 10885]
+20211011_142717: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.592540
+20211011_142717: Working on interval [1500, 2000] last Interval: [10500, 10885]
+20211011_142719: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.847077
+20211011_142719: Working on interval [2000, 2500] last Interval: [10500, 10885]
+20211011_142720: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.424146
+20211011_142720: Working on interval [2500, 3000] last Interval: [10500, 10885]
+20211011_142722: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.477586
+20211011_142722: Working on interval [3000, 3500] last Interval: [10500, 10885]
+20211011_142723: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.508970
+20211011_142723: Working on interval [3500, 4000] last Interval: [10500, 10885]
+20211011_142725: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.535975
+20211011_142725: Working on interval [4000, 4500] last Interval: [10500, 10885]
+20211011_142726: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.467079
+20211011_142726: Working on interval [4500, 5000] last Interval: [10500, 10885]
+20211011_142728: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.436383
+20211011_142728: Working on interval [5000, 5500] last Interval: [10500, 10885]
+20211011_142729: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.549623
+20211011_142729: Working on interval [5500, 6000] last Interval: [10500, 10885]
+20211011_142731: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.456938
+20211011_142731: Working on interval [6000, 6500] last Interval: [10500, 10885]
+20211011_142732: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.495542
+20211011_142732: Working on interval [6500, 7000] last Interval: [10500, 10885]
+20211011_142734: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.608160
+20211011_142734: Working on interval [7000, 7500] last Interval: [10500, 10885]
+20211011_142735: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.463735
+20211011_142735: Working on interval [7500, 8000] last Interval: [10500, 10885]
+20211011_142737: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.462446
+20211011_142737: Working on interval [8000, 8500] last Interval: [10500, 10885]
+20211011_142738: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.627615
+20211011_142739: Working on interval [8500, 9000] last Interval: [10500, 10885]
+20211011_142740: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.610539
+20211011_142740: Working on interval [9000, 9500] last Interval: [10500, 10885]
+20211011_142742: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.534014
+20211011_142742: Working on interval [9500, 10000] last Interval: [10500, 10885]
+20211011_142743: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.489373
+20211011_142743: Working on interval [10000, 10500] last Interval: [10500, 10885]
+20211011_142745: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.505653
+20211011_142745: Working on interval [10500, 10885] last Interval: [10500, 10885]
+20211011_142746: Results of interval [10500, 10885]: Successful - OK, 385 rows affected. - 0:00:01.473712
+20211011_142746: Finshed process loading data to PostgreSQL
+20211011_142746: Time Elapsed: 0:00:34.310307
+20211011_142746: Total Time Elapsed: 0:15:08.290126
+20211011_145708: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_153027: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_154428: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_154428: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_154428: Time Elapsed: 0:14:00.330975
+20211011_154428: Starting process of loading data to PostgreSQL...
+20211011_154428: Working on interval [0, 500] last Interval: [10000, 10375]
+20211011_154429: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.473245
+20211011_154429: Working on interval [500, 1000] last Interval: [10000, 10375]
+20211011_154431: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.904358
+20211011_154431: Working on interval [1000, 1500] last Interval: [10000, 10375]
+20211011_154433: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.631702
+20211011_154433: Working on interval [1500, 2000] last Interval: [10000, 10375]
+20211011_154434: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.583264
+20211011_154434: Working on interval [2000, 2500] last Interval: [10000, 10375]
+20211011_154436: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.568430
+20211011_154436: Working on interval [2500, 3000] last Interval: [10000, 10375]
+20211011_154437: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.521111
+20211011_154437: Working on interval [3000, 3500] last Interval: [10000, 10375]
+20211011_154439: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.583030
+20211011_154439: Working on interval [3500, 4000] last Interval: [10000, 10375]
+20211011_154441: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.616477
+20211011_154441: Working on interval [4000, 4500] last Interval: [10000, 10375]
+20211011_154443: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.868924
+20211011_154443: Working on interval [4500, 5000] last Interval: [10000, 10375]
+20211011_154444: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.421122
+20211011_154444: Working on interval [5000, 5500] last Interval: [10000, 10375]
+20211011_154446: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.580377
+20211011_154446: Working on interval [5500, 6000] last Interval: [10000, 10375]
+20211011_154447: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.445791
+20211011_154447: Working on interval [6000, 6500] last Interval: [10000, 10375]
+20211011_154449: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.627442
+20211011_154449: Working on interval [6500, 7000] last Interval: [10000, 10375]
+20211011_154450: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.483095
+20211011_154450: Working on interval [7000, 7500] last Interval: [10000, 10375]
+20211011_154452: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.784376
+20211011_154452: Working on interval [7500, 8000] last Interval: [10000, 10375]
+20211011_154454: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:02.033004
+20211011_154454: Working on interval [8000, 8500] last Interval: [10000, 10375]
+20211011_154456: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.612664
+20211011_154456: Working on interval [8500, 9000] last Interval: [10000, 10375]
+20211011_154457: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.675034
+20211011_154457: Working on interval [9000, 9500] last Interval: [10000, 10375]
+20211011_154459: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.590997
+20211011_154459: Working on interval [9500, 10000] last Interval: [10000, 10375]
+20211011_154501: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.773883
+20211011_154501: Working on interval [10000, 10375] last Interval: [10000, 10375]
+20211011_154502: Results of interval [10000, 10375]: Successful - OK, 375 rows affected. - 0:00:01.548983
+20211011_154502: Finshed process loading data to PostgreSQL
+20211011_154502: Time Elapsed: 0:00:34.883580
+20211011_154502: Total Time Elapsed: 0:14:35.230182
+20211011_161921: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_163401: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_163401: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_163401: Time Elapsed: 0:14:40.143995
+20211011_163401: Starting process of loading data to PostgreSQL...
+20211011_163401: Working on interval [0, 500] last Interval: [10500, 10606]
+20211011_163402: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.524941
+20211011_163402: Working on interval [500, 1000] last Interval: [10500, 10606]
+20211011_163404: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.501734
+20211011_163404: Working on interval [1000, 1500] last Interval: [10500, 10606]
+20211011_163405: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.584149
+20211011_163405: Working on interval [1500, 2000] last Interval: [10500, 10606]
+20211011_163407: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.617226
+20211011_163407: Working on interval [2000, 2500] last Interval: [10500, 10606]
+20211011_163409: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.543311
+20211011_163409: Working on interval [2500, 3000] last Interval: [10500, 10606]
+20211011_163410: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.525842
+20211011_163410: Working on interval [3000, 3500] last Interval: [10500, 10606]
+20211011_163412: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.471301
+20211011_163412: Working on interval [3500, 4000] last Interval: [10500, 10606]
+20211011_163413: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.533549
+20211011_163413: Working on interval [4000, 4500] last Interval: [10500, 10606]
+20211011_163415: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.593308
+20211011_163415: Working on interval [4500, 5000] last Interval: [10500, 10606]
+20211011_163416: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.487356
+20211011_163416: Working on interval [5000, 5500] last Interval: [10500, 10606]
+20211011_163418: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.538532
+20211011_163418: Working on interval [5500, 6000] last Interval: [10500, 10606]
+20211011_163420: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.849451
+20211011_163420: Working on interval [6000, 6500] last Interval: [10500, 10606]
+20211011_163421: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.530581
+20211011_163421: Working on interval [6500, 7000] last Interval: [10500, 10606]
+20211011_163423: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.470393
+20211011_163423: Working on interval [7000, 7500] last Interval: [10500, 10606]
+20211011_163424: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.599939
+20211011_163424: Working on interval [7500, 8000] last Interval: [10500, 10606]
+20211011_163426: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.577310
+20211011_163426: Working on interval [8000, 8500] last Interval: [10500, 10606]
+20211011_163428: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.583298
+20211011_163428: Working on interval [8500, 9000] last Interval: [10500, 10606]
+20211011_163429: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.578040
+20211011_163429: Working on interval [9000, 9500] last Interval: [10500, 10606]
+20211011_163432: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:02.459129
+20211011_163432: Working on interval [9500, 10000] last Interval: [10500, 10606]
+20211011_163433: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.464291
+20211011_163433: Working on interval [10000, 10500] last Interval: [10500, 10606]
+20211011_163435: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.905341
+20211011_163435: Working on interval [10500, 10606] last Interval: [10500, 10606]
+20211011_163437: Results of interval [10500, 10606]: Successful - OK, 106 rows affected. - 0:00:01.423056
+20211011_163437: Finshed process loading data to PostgreSQL
+20211011_163437: Time Elapsed: 0:00:35.916403
+20211011_163437: Total Time Elapsed: 0:15:16.071396
+20211011_173142: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211011_174659: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211011_174659: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211011_174659: Time Elapsed: 0:15:17.086826
+20211011_174659: Starting process of loading data to PostgreSQL...
+20211011_174659: Working on interval [0, 500] last Interval: [11500, 11749]
+20211011_174701: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.470042
+20211011_174701: Working on interval [500, 1000] last Interval: [11500, 11749]
+20211011_174702: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.400755
+20211011_174702: Working on interval [1000, 1500] last Interval: [11500, 11749]
+20211011_174704: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.576599
+20211011_174704: Working on interval [1500, 2000] last Interval: [11500, 11749]
+20211011_174705: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.795593
+20211011_174705: Working on interval [2000, 2500] last Interval: [11500, 11749]
+20211011_174707: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.409279
+20211011_174707: Working on interval [2500, 3000] last Interval: [11500, 11749]
+20211011_174708: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.484835
+20211011_174708: Working on interval [3000, 3500] last Interval: [11500, 11749]
+20211011_174710: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.405194
+20211011_174710: Working on interval [3500, 4000] last Interval: [11500, 11749]
+20211011_174711: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.414901
+20211011_174711: Working on interval [4000, 4500] last Interval: [11500, 11749]
+20211011_174713: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.530858
+20211011_174713: Working on interval [4500, 5000] last Interval: [11500, 11749]
+20211011_174714: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.481324
+20211011_174714: Working on interval [5000, 5500] last Interval: [11500, 11749]
+20211011_174716: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.440766
+20211011_174716: Working on interval [5500, 6000] last Interval: [11500, 11749]
+20211011_174717: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.403047
+20211011_174717: Working on interval [6000, 6500] last Interval: [11500, 11749]
+20211011_174719: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.443000
+20211011_174719: Working on interval [6500, 7000] last Interval: [11500, 11749]
+20211011_174720: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.545972
+20211011_174720: Working on interval [7000, 7500] last Interval: [11500, 11749]
+20211011_174722: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.554498
+20211011_174722: Working on interval [7500, 8000] last Interval: [11500, 11749]
+20211011_174723: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.545528
+20211011_174723: Working on interval [8000, 8500] last Interval: [11500, 11749]
+20211011_174725: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.459004
+20211011_174725: Working on interval [8500, 9000] last Interval: [11500, 11749]
+20211011_174726: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.505142
+20211011_174726: Working on interval [9000, 9500] last Interval: [11500, 11749]
+20211011_174728: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.568057
+20211011_174728: Working on interval [9500, 10000] last Interval: [11500, 11749]
+20211011_174730: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.514094
+20211011_174730: Working on interval [10000, 10500] last Interval: [11500, 11749]
+20211011_174731: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.620963
+20211011_174731: Working on interval [10500, 11000] last Interval: [11500, 11749]
+20211011_174733: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.502960
+20211011_174733: Working on interval [11000, 11500] last Interval: [11500, 11749]
+20211011_174734: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.522656
+20211011_174734: Working on interval [11500, 11749] last Interval: [11500, 11749]
+20211011_174736: Results of interval [11500, 11749]: Successful - OK, 249 rows affected. - 0:00:01.459309
+20211011_174736: Finshed process loading data to PostgreSQL
+20211011_174736: Time Elapsed: 0:00:36.690755
+20211011_174736: Total Time Elapsed: 0:15:53.787580
+20211011_181254: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com

@@ -1,0 +1,1585 @@
+20211010_080005: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_080005: Creating a list of Category URLs.
+20211010_080013: Starting process with each URL.
+20211010_080014: Working on https://www.drogueriascolsubsidio.com/medicamentos
+20211010_080017: 08:00:17 Scroll nro: 1
+20211010_080019: 08:00:19 Scroll nro: 2
+20211010_080026: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre
+20211010_080027: 08:00:27 Scroll nro: 1
+20211010_080029: 08:00:29 Scroll nro: 2
+20211010_080031: 08:00:31 Scroll nro: 3
+20211010_080033: 08:00:33 Scroll nro: 4
+20211010_080035: 08:00:35 Scroll nro: 5
+20211010_080037: 08:00:37 Scroll nro: 6
+20211010_080039: 08:00:39 Scroll nro: 7
+20211010_080041: 08:00:41 Scroll nro: 8
+20211010_080043: 08:00:43 Scroll nro: 9
+20211010_080046: 08:00:46 Scroll nro: 10
+20211010_080048: 08:00:48 Scroll nro: 11
+20211010_080050: 08:00:50 Scroll nro: 12
+20211010_080052: 08:00:52 Scroll nro: 13
+20211010_080054: 08:00:54 Scroll nro: 14
+20211010_080056: 08:00:56 Scroll nro: 15
+20211010_080059: 08:00:59 Scroll nro: 16
+20211010_080101: 08:01:01 Scroll nro: 17
+20211010_080106: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor
+20211010_080107: 08:01:07 Scroll nro: 1
+20211010_080109: 08:01:09 Scroll nro: 2
+20211010_080111: 08:01:11 Scroll nro: 3
+20211010_080113: 08:01:13 Scroll nro: 4
+20211010_080115: 08:01:15 Scroll nro: 5
+20211010_080117: 08:01:17 Scroll nro: 6
+20211010_080119: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-fuerte
+20211010_080120: 08:01:20 Scroll nro: 1
+20211010_080123: 08:01:23 Scroll nro: 2
+20211010_080125: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-general
+20211010_080126: 08:01:26 Scroll nro: 1
+20211010_080128: 08:01:28 Scroll nro: 2
+20211010_080130: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/abdominal-y-colico
+20211010_080131: 08:01:31 Scroll nro: 1
+20211010_080133: 08:01:33 Scroll nro: 2
+20211010_080135: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-ninos
+20211010_080136: 08:01:36 Scroll nro: 1
+20211010_080138: 08:01:38 Scroll nro: 2
+20211010_080140: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios
+20211010_080140: 08:01:40 Scroll nro: 1
+20211010_080142: 08:01:42 Scroll nro: 2
+20211010_080144: 08:01:44 Scroll nro: 3
+20211010_080146: 08:01:46 Scroll nro: 4
+20211010_080148: 08:01:48 Scroll nro: 5
+20211010_080150: 08:01:50 Scroll nro: 6
+20211010_080153: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/algodon-curas-gasas-y-vendas
+20211010_080154: 08:01:54 Scroll nro: 1
+20211010_080156: 08:01:56 Scroll nro: 2
+20211010_080158: 08:01:58 Scroll nro: 3
+20211010_080200: 08:02:00 Scroll nro: 4
+20211010_080202: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/antisepticos
+20211010_080203: 08:02:03 Scroll nro: 1
+20211010_080205: 08:02:05 Scroll nro: 2
+20211010_080207: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal
+20211010_080208: 08:02:08 Scroll nro: 1
+20211010_080210: 08:02:10 Scroll nro: 2
+20211010_080212: 08:02:12 Scroll nro: 3
+20211010_080214: 08:02:14 Scroll nro: 4
+20211010_080216: 08:02:16 Scroll nro: 5
+20211010_080218: 08:02:18 Scroll nro: 6
+20211010_080221: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/descongestionantes
+20211010_080221: 08:02:21 Scroll nro: 1
+20211010_080223: 08:02:23 Scroll nro: 2
+20211010_080226: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/garganta
+20211010_080226: 08:02:26 Scroll nro: 1
+20211010_080228: 08:02:28 Scroll nro: 2
+20211010_080231: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/gripa
+20211010_080232: 08:02:32 Scroll nro: 1
+20211010_080234: 08:02:34 Scroll nro: 2
+20211010_080236: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/tos
+20211010_080236: 08:02:36 Scroll nro: 1
+20211010_080238: 08:02:38 Scroll nro: 2
+20211010_080240: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/bienestar-digestivo
+20211010_080242: 08:02:42 Scroll nro: 1
+20211010_080244: 08:02:44 Scroll nro: 2
+20211010_080246: 08:02:46 Scroll nro: 3
+20211010_080248: 08:02:48 Scroll nro: 4
+20211010_080250: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual
+20211010_080251: 08:02:51 Scroll nro: 1
+20211010_080253: 08:02:53 Scroll nro: 2
+20211010_080255: 08:02:55 Scroll nro: 3
+20211010_080257: 08:02:57 Scroll nro: 4
+20211010_080259: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/lubricantes-y-dispositivos
+20211010_080259: 08:02:59 Scroll nro: 1
+20211010_080302: 08:03:02 Scroll nro: 2
+20211010_080304: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/preservativos
+20211010_080304: 08:03:04 Scroll nro: 1
+20211010_080306: 08:03:06 Scroll nro: 2
+20211010_080308: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/pruebas-de-embarazo
+20211010_080309: 08:03:09 Scroll nro: 1
+20211010_080311: 08:03:11 Scroll nro: 2
+20211010_080313: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/cremas-y-ovulos
+20211010_080314: 08:03:14 Scroll nro: 1
+20211010_080316: 08:03:16 Scroll nro: 2
+20211010_080318: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa
+20211010_080318: 08:03:18 Scroll nro: 1
+20211010_080320: 08:03:20 Scroll nro: 2
+20211010_080322: 08:03:22 Scroll nro: 3
+20211010_080324: 08:03:24 Scroll nro: 4
+20211010_080326: 08:03:26 Scroll nro: 5
+20211010_080328: 08:03:28 Scroll nro: 6
+20211010_080331: 08:03:31 Scroll nro: 7
+20211010_080333: 08:03:33 Scroll nro: 8
+20211010_080336: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/naturales
+20211010_080336: 08:03:36 Scroll nro: 1
+20211010_080338: 08:03:38 Scroll nro: 2
+20211010_080340: 08:03:40 Scroll nro: 3
+20211010_080343: 08:03:43 Scroll nro: 4
+20211010_080345: 08:03:45 Scroll nro: 5
+20211010_080347: 08:03:47 Scroll nro: 6
+20211010_080350: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/homeopaticos
+20211010_080350: 08:03:50 Scroll nro: 1
+20211010_080352: 08:03:52 Scroll nro: 2
+20211010_080355: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos
+20211010_080355: 08:03:55 Scroll nro: 1
+20211010_080357: 08:03:57 Scroll nro: 2
+20211010_080359: 08:03:59 Scroll nro: 3
+20211010_080401: 08:04:01 Scroll nro: 4
+20211010_080403: 08:04:03 Scroll nro: 5
+20211010_080405: 08:04:05 Scroll nro: 6
+20211010_080407: 08:04:07 Scroll nro: 7
+20211010_080409: 08:04:09 Scroll nro: 8
+20211010_080411: 08:04:11 Scroll nro: 9
+20211010_080414: 08:04:14 Scroll nro: 10
+20211010_080416: 08:04:16 Scroll nro: 11
+20211010_080418: 08:04:18 Scroll nro: 12
+20211010_080421: 08:04:21 Scroll nro: 13
+20211010_080424: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-corporal
+20211010_080426: 08:04:26 Scroll nro: 1
+20211010_080428: 08:04:28 Scroll nro: 2
+20211010_080430: 08:04:30 Scroll nro: 3
+20211010_080432: 08:04:32 Scroll nro: 4
+20211010_080434: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-capilar
+20211010_080435: 08:04:35 Scroll nro: 1
+20211010_080437: 08:04:37 Scroll nro: 2
+20211010_080439: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-facial
+20211010_080439: 08:04:39 Scroll nro: 1
+20211010_080441: 08:04:41 Scroll nro: 2
+20211010_080443: 08:04:43 Scroll nro: 3
+20211010_080445: 08:04:45 Scroll nro: 4
+20211010_080448: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/proteccion-solar
+20211010_080448: 08:04:48 Scroll nro: 1
+20211010_080451: 08:04:51 Scroll nro: 2
+20211010_080453: 08:04:53 Scroll nro: 3
+20211010_080455: Working on https://www.drogueriascolsubsidio.com/medicamentos/formulados
+20211010_080456: 08:04:56 Scroll nro: 1
+20211010_080458: 08:04:58 Scroll nro: 2
+20211010_080500: 08:05:00 Scroll nro: 3
+20211010_080502: 08:05:02 Scroll nro: 4
+20211010_080504: 08:05:04 Scroll nro: 5
+20211010_080506: 08:05:06 Scroll nro: 6
+20211010_080508: 08:05:08 Scroll nro: 7
+20211010_080510: 08:05:10 Scroll nro: 8
+20211010_080512: 08:05:12 Scroll nro: 9
+20211010_080514: 08:05:14 Scroll nro: 10
+20211010_080517: 08:05:17 Scroll nro: 11
+20211010_080519: 08:05:19 Scroll nro: 12
+20211010_080521: 08:05:21 Scroll nro: 13
+20211010_080523: 08:05:23 Scroll nro: 14
+20211010_080525: 08:05:25 Scroll nro: 15
+20211010_080527: 08:05:27 Scroll nro: 16
+20211010_080529: 08:05:29 Scroll nro: 17
+20211010_080531: 08:05:31 Scroll nro: 18
+20211010_080534: 08:05:34 Scroll nro: 19
+20211010_080536: 08:05:36 Scroll nro: 20
+20211010_080538: 08:05:38 Scroll nro: 21
+20211010_080540: 08:05:40 Scroll nro: 22
+20211010_080543: 08:05:43 Scroll nro: 23
+20211010_080546: 08:05:46 Scroll nro: 24
+20211010_080548: 08:05:48 Scroll nro: 25
+20211010_080551: 08:05:51 Scroll nro: 26
+20211010_080553: 08:05:53 Scroll nro: 27
+20211010_080555: 08:05:55 Scroll nro: 28
+20211010_080559: 08:05:59 Scroll nro: 29
+20211010_080601: 08:06:01 Scroll nro: 30
+20211010_080604: 08:06:04 Scroll nro: 31
+20211010_080608: 08:06:08 Scroll nro: 32
+20211010_080610: 08:06:10 Scroll nro: 33
+20211010_140010: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_140010: Creating a list of Category URLs.
+20211010_140021: Starting process with each URL.
+20211010_140022: Working on https://www.drogueriascolsubsidio.com/medicamentos
+20211010_140025: 14:00:25 Scroll nro: 1
+20211010_140027: 14:00:27 Scroll nro: 2
+20211010_140029: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre
+20211010_140030: 14:00:30 Scroll nro: 1
+20211010_140032: 14:00:32 Scroll nro: 2
+20211010_140034: 14:00:34 Scroll nro: 3
+20211010_140036: 14:00:36 Scroll nro: 4
+20211010_140038: 14:00:38 Scroll nro: 5
+20211010_140040: 14:00:40 Scroll nro: 6
+20211010_140042: 14:00:42 Scroll nro: 7
+20211010_140045: 14:00:45 Scroll nro: 8
+20211010_140047: 14:00:47 Scroll nro: 9
+20211010_140049: 14:00:49 Scroll nro: 10
+20211010_140051: 14:00:51 Scroll nro: 11
+20211010_140053: 14:00:53 Scroll nro: 12
+20211010_140055: 14:00:55 Scroll nro: 13
+20211010_140057: 14:00:57 Scroll nro: 14
+20211010_140059: 14:00:59 Scroll nro: 15
+20211010_140101: 14:01:01 Scroll nro: 16
+20211010_140103: 14:01:03 Scroll nro: 17
+20211010_140105: 14:01:05 Scroll nro: 18
+20211010_140111: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor
+20211010_140112: 14:01:12 Scroll nro: 1
+20211010_140114: 14:01:14 Scroll nro: 2
+20211010_140116: 14:01:16 Scroll nro: 3
+20211010_140118: 14:01:18 Scroll nro: 4
+20211010_140121: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-fuerte
+20211010_140122: 14:01:22 Scroll nro: 1
+20211010_140124: 14:01:24 Scroll nro: 2
+20211010_140126: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-general
+20211010_140127: 14:01:27 Scroll nro: 1
+20211010_140129: 14:01:29 Scroll nro: 2
+20211010_140131: 14:01:31 Scroll nro: 3
+20211010_140133: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/abdominal-y-colico
+20211010_140133: 14:01:33 Scroll nro: 1
+20211010_140135: 14:01:35 Scroll nro: 2
+20211010_140137: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-ninos
+20211010_140138: 14:01:38 Scroll nro: 1
+20211010_140140: 14:01:40 Scroll nro: 2
+20211010_140142: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios
+20211010_140143: 14:01:43 Scroll nro: 1
+20211010_140145: 14:01:45 Scroll nro: 2
+20211010_140147: 14:01:47 Scroll nro: 3
+20211010_140149: 14:01:49 Scroll nro: 4
+20211010_140151: 14:01:51 Scroll nro: 5
+20211010_140153: 14:01:53 Scroll nro: 6
+20211010_140156: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/algodon-curas-gasas-y-vendas
+20211010_140156: 14:01:56 Scroll nro: 1
+20211010_140158: 14:01:58 Scroll nro: 2
+20211010_140200: 14:02:00 Scroll nro: 3
+20211010_140202: 14:02:02 Scroll nro: 4
+20211010_140205: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/antisepticos
+20211010_140205: 14:02:05 Scroll nro: 1
+20211010_140207: 14:02:07 Scroll nro: 2
+20211010_140209: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal
+20211010_140210: 14:02:10 Scroll nro: 1
+20211010_140212: 14:02:12 Scroll nro: 2
+20211010_140214: 14:02:14 Scroll nro: 3
+20211010_140216: 14:02:16 Scroll nro: 4
+20211010_140218: 14:02:18 Scroll nro: 5
+20211010_140220: 14:02:20 Scroll nro: 6
+20211010_140223: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/descongestionantes
+20211010_140224: 14:02:24 Scroll nro: 1
+20211010_140226: 14:02:26 Scroll nro: 2
+20211010_140228: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/garganta
+20211010_140228: 14:02:28 Scroll nro: 1
+20211010_140230: 14:02:30 Scroll nro: 2
+20211010_140232: 14:02:32 Scroll nro: 3
+20211010_140235: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/gripa
+20211010_140236: 14:02:36 Scroll nro: 1
+20211010_140238: 14:02:38 Scroll nro: 2
+20211010_140240: 14:02:40 Scroll nro: 3
+20211010_140242: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/tos
+20211010_140243: 14:02:43 Scroll nro: 1
+20211010_140245: 14:02:45 Scroll nro: 2
+20211010_140247: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/bienestar-digestivo
+20211010_140247: 14:02:47 Scroll nro: 1
+20211010_140249: 14:02:49 Scroll nro: 2
+20211010_140252: 14:02:52 Scroll nro: 3
+20211010_140254: 14:02:54 Scroll nro: 4
+20211010_140256: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual
+20211010_140257: 14:02:57 Scroll nro: 1
+20211010_140259: 14:02:59 Scroll nro: 2
+20211010_140301: 14:03:01 Scroll nro: 3
+20211010_140304: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/lubricantes-y-dispositivos
+20211010_140304: 14:03:04 Scroll nro: 1
+20211010_140306: 14:03:06 Scroll nro: 2
+20211010_140309: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/preservativos
+20211010_140309: 14:03:09 Scroll nro: 1
+20211010_140311: 14:03:11 Scroll nro: 2
+20211010_140313: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/pruebas-de-embarazo
+20211010_140314: 14:03:14 Scroll nro: 1
+20211010_140316: 14:03:16 Scroll nro: 2
+20211010_140318: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/cremas-y-ovulos
+20211010_140319: 14:03:19 Scroll nro: 1
+20211010_140321: 14:03:21 Scroll nro: 2
+20211010_140323: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa
+20211010_140324: 14:03:24 Scroll nro: 1
+20211010_140326: 14:03:26 Scroll nro: 2
+20211010_140328: 14:03:28 Scroll nro: 3
+20211010_140330: 14:03:30 Scroll nro: 4
+20211010_140332: 14:03:32 Scroll nro: 5
+20211010_140334: 14:03:34 Scroll nro: 6
+20211010_140336: 14:03:36 Scroll nro: 7
+20211010_140338: 14:03:38 Scroll nro: 8
+20211010_140341: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/naturales
+20211010_140341: 14:03:41 Scroll nro: 1
+20211010_140343: 14:03:43 Scroll nro: 2
+20211010_140345: 14:03:45 Scroll nro: 3
+20211010_140348: 14:03:48 Scroll nro: 4
+20211010_140350: 14:03:50 Scroll nro: 5
+20211010_140352: 14:03:52 Scroll nro: 6
+20211010_140354: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/homeopaticos
+20211010_140355: 14:03:55 Scroll nro: 1
+20211010_140357: 14:03:57 Scroll nro: 2
+20211010_140359: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos
+20211010_140400: 14:04:00 Scroll nro: 1
+20211010_140402: 14:04:02 Scroll nro: 2
+20211010_140404: 14:04:04 Scroll nro: 3
+20211010_140406: 14:04:06 Scroll nro: 4
+20211010_140408: 14:04:08 Scroll nro: 5
+20211010_140410: 14:04:10 Scroll nro: 6
+20211010_140412: 14:04:12 Scroll nro: 7
+20211010_140414: 14:04:14 Scroll nro: 8
+20211010_140416: 14:04:16 Scroll nro: 9
+20211010_140419: 14:04:19 Scroll nro: 10
+20211010_140421: 14:04:21 Scroll nro: 11
+20211010_140423: 14:04:23 Scroll nro: 12
+20211010_140426: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-corporal
+20211010_140427: 14:04:27 Scroll nro: 1
+20211010_140429: 14:04:29 Scroll nro: 2
+20211010_140431: 14:04:31 Scroll nro: 3
+20211010_140433: 14:04:33 Scroll nro: 4
+20211010_140435: 14:04:35 Scroll nro: 5
+20211010_140437: 14:04:37 Scroll nro: 6
+20211010_140440: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-capilar
+20211010_140440: 14:04:40 Scroll nro: 1
+20211010_140442: 14:04:42 Scroll nro: 2
+20211010_140444: 14:04:44 Scroll nro: 3
+20211010_140447: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-facial
+20211010_140447: 14:04:47 Scroll nro: 1
+20211010_140449: 14:04:49 Scroll nro: 2
+20211010_140451: 14:04:51 Scroll nro: 3
+20211010_140453: 14:04:53 Scroll nro: 4
+20211010_140456: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/proteccion-solar
+20211010_140456: 14:04:56 Scroll nro: 1
+20211010_140458: 14:04:58 Scroll nro: 2
+20211010_140500: 14:05:00 Scroll nro: 3
+20211010_140502: 14:05:02 Scroll nro: 4
+20211010_140505: Working on https://www.drogueriascolsubsidio.com/medicamentos/formulados
+20211010_140506: 14:05:06 Scroll nro: 1
+20211010_140508: 14:05:08 Scroll nro: 2
+20211010_140510: 14:05:10 Scroll nro: 3
+20211010_140512: Working on https://www.drogueriascolsubsidio.com/activacion/la-sante
+20211010_140513: 14:05:13 Scroll nro: 1
+20211010_140515: 14:05:15 Scroll nro: 2
+20211010_140517: 14:05:17 Scroll nro: 3
+20211010_140520: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable
+20211010_140523: 14:05:23 Scroll nro: 1
+20211010_140525: 14:05:25 Scroll nro: 2
+20211010_140527: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/vitaminas
+20211010_140528: 14:05:28 Scroll nro: 1
+20211010_140530: 14:05:30 Scroll nro: 2
+20211010_140532: 14:05:32 Scroll nro: 3
+20211010_140534: 14:05:34 Scroll nro: 4
+20211010_140536: 14:05:36 Scroll nro: 5
+20211010_140538: 14:05:38 Scroll nro: 6
+20211010_140540: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/suplementos
+20211010_140541: 14:05:41 Scroll nro: 1
+20211010_140543: 14:05:43 Scroll nro: 2
+20211010_140545: 14:05:45 Scroll nro: 3
+20211010_140547: 14:05:47 Scroll nro: 4
+20211010_140549: 14:05:49 Scroll nro: 5
+20211010_140551: 14:05:51 Scroll nro: 6
+20211010_140554: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/nutricion-deportiva
+20211010_140555: 14:05:55 Scroll nro: 1
+20211010_140557: 14:05:57 Scroll nro: 2
+20211010_140559: 14:05:59 Scroll nro: 3
+20211010_140601: Working on https://www.drogueriascolsubsidio.com/activacion/vitamina-c
+20211010_140602: 14:06:02 Scroll nro: 1
+20211010_140604: 14:06:04 Scroll nro: 2
+20211010_140606: 14:06:06 Scroll nro: 3
+20211010_140608: Working on https://www.drogueriascolsubsidio.com/belleza
+20211010_140610: 14:06:10 Scroll nro: 1
+20211010_140612: 14:06:12 Scroll nro: 2
+20211010_140615: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos
+20211010_140616: 14:06:16 Scroll nro: 1
+20211010_140618: 14:06:18 Scroll nro: 2
+20211010_140620: 14:06:20 Scroll nro: 3
+20211010_140622: 14:06:22 Scroll nro: 4
+20211010_140624: 14:06:24 Scroll nro: 5
+20211010_140626: 14:06:26 Scroll nro: 6
+20211010_140628: 14:06:28 Scroll nro: 7
+20211010_140630: 14:06:30 Scroll nro: 8
+20211010_140632: 14:06:32 Scroll nro: 9
+20211010_140634: 14:06:34 Scroll nro: 10
+20211010_140636: 14:06:36 Scroll nro: 11
+20211010_140638: 14:06:38 Scroll nro: 12
+20211010_140641: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/ojos
+20211010_140642: 14:06:42 Scroll nro: 1
+20211010_140644: 14:06:44 Scroll nro: 2
+20211010_140646: 14:06:46 Scroll nro: 3
+20211010_140648: 14:06:48 Scroll nro: 4
+20211010_140650: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/labios
+20211010_140656: 14:06:56 Scroll nro: 1
+20211010_140658: 14:06:58 Scroll nro: 2
+20211010_140700: 14:07:00 Scroll nro: 3
+20211010_140702: 14:07:02 Scroll nro: 4
+20211010_140704: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/rostro
+20211010_140705: 14:07:05 Scroll nro: 1
+20211010_140707: 14:07:07 Scroll nro: 2
+20211010_140709: 14:07:09 Scroll nro: 3
+20211010_140711: 14:07:11 Scroll nro: 4
+20211010_140713: 14:07:13 Scroll nro: 5
+20211010_140715: 14:07:15 Scroll nro: 6
+20211010_140718: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/unas
+20211010_140718: 14:07:18 Scroll nro: 1
+20211010_140720: 14:07:20 Scroll nro: 2
+20211010_140723: Working on https://www.drogueriascolsubsidio.com/belleza/dermocosmetica
+20211010_140723: 14:07:23 Scroll nro: 1
+20211010_140725: 14:07:25 Scroll nro: 2
+20211010_140727: 14:07:27 Scroll nro: 3
+20211010_140729: 14:07:29 Scroll nro: 4
+20211010_140731: 14:07:31 Scroll nro: 5
+20211010_140733: 14:07:33 Scroll nro: 6
+20211010_140736: Working on https://www.drogueriascolsubsidio.com/activacion/isdin-fotoproteccion
+20211010_140737: 14:07:37 Scroll nro: 1
+20211010_140739: 14:07:39 Scroll nro: 2
+20211010_140741: 14:07:41 Scroll nro: 3
+20211010_140743: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes
+20211010_140745: 14:07:45 Scroll nro: 1
+20211010_140747: 14:07:47 Scroll nro: 2
+20211010_140749: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion
+20211010_140751: 14:07:51 Scroll nro: 1
+20211010_140753: 14:07:53 Scroll nro: 2
+20211010_140755: 14:07:55 Scroll nro: 3
+20211010_140757: 14:07:57 Scroll nro: 4
+20211010_140759: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/formulas-infantiles
+20211010_140800: 14:08:00 Scroll nro: 1
+20211010_140802: 14:08:02 Scroll nro: 2
+20211010_140804: 14:08:04 Scroll nro: 3
+20211010_140807: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/compotas-y-cerales
+20211010_140807: 14:08:07 Scroll nro: 1
+20211010_140809: 14:08:09 Scroll nro: 2
+20211010_140812: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/accesorios
+20211010_140812: 14:08:12 Scroll nro: 1
+20211010_140814: 14:08:14 Scroll nro: 2
+20211010_140816: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-de-la-mama
+20211010_140817: 14:08:17 Scroll nro: 1
+20211010_140819: 14:08:19 Scroll nro: 2
+20211010_140821: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-del-bebe
+20211010_140822: 14:08:22 Scroll nro: 1
+20211010_140824: 14:08:24 Scroll nro: 2
+20211010_140826: 14:08:26 Scroll nro: 3
+20211010_140828: 14:08:28 Scroll nro: 4
+20211010_140831: 14:08:31 Scroll nro: 5
+20211010_140833: 14:08:33 Scroll nro: 6
+20211010_140835: Working on https://www.drogueriascolsubsidio.com/activacion/winny
+20211010_140836: 14:08:36 Scroll nro: 1
+20211010_140838: 14:08:38 Scroll nro: 2
+20211010_140840: 14:08:40 Scroll nro: 3
+20211010_140842: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal
+20211010_140844: 14:08:44 Scroll nro: 1
+20211010_140846: 14:08:46 Scroll nro: 2
+20211010_140848: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral
+20211010_140849: 14:08:49 Scroll nro: 1
+20211010_140851: 14:08:51 Scroll nro: 2
+20211010_140853: 14:08:53 Scroll nro: 3
+20211010_140855: 14:08:55 Scroll nro: 4
+20211010_140857: 14:08:57 Scroll nro: 5
+20211010_140859: 14:08:59 Scroll nro: 6
+20211010_140901: 14:09:01 Scroll nro: 7
+20211010_140904: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cremas-dentales
+20211010_140905: 14:09:05 Scroll nro: 1
+20211010_140907: 14:09:07 Scroll nro: 2
+20211010_140909: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cepillos-dentales
+20211010_140910: 14:09:10 Scroll nro: 1
+20211010_140912: 14:09:12 Scroll nro: 2
+20211010_140914: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/enjuagues-bucales
+20211010_140916: 14:09:16 Scroll nro: 1
+20211010_140918: 14:09:18 Scroll nro: 2
+20211010_140920: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/sedas-dentales
+20211010_140922: 14:09:22 Scroll nro: 1
+20211010_140924: 14:09:24 Scroll nro: 2
+20211010_140927: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/especializados
+20211010_140927: 14:09:27 Scroll nro: 1
+20211010_140929: 14:09:29 Scroll nro: 2
+20211010_140931: 14:09:31 Scroll nro: 3
+20211010_140934: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel
+20211010_140935: 14:09:35 Scroll nro: 1
+20211010_140937: 14:09:37 Scroll nro: 2
+20211010_140939: 14:09:39 Scroll nro: 3
+20211010_140941: 14:09:41 Scroll nro: 4
+20211010_140943: 14:09:43 Scroll nro: 5
+20211010_140945: 14:09:45 Scroll nro: 6
+20211010_140947: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/proteccion-solar
+20211010_140948: 14:09:48 Scroll nro: 1
+20211010_140950: 14:09:50 Scroll nro: 2
+20211010_140952: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-corporal-repelentes-e-insecticidas
+20211010_140953: 14:09:53 Scroll nro: 1
+20211010_140955: 14:09:55 Scroll nro: 2
+20211010_140957: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-facial
+20211010_140958: 14:09:58 Scroll nro: 1
+20211010_141000: 14:10:00 Scroll nro: 2
+20211010_141002: 14:10:02 Scroll nro: 3
+20211010_141004: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal
+20211010_141005: 14:10:05 Scroll nro: 1
+20211010_141007: 14:10:07 Scroll nro: 2
+20211010_141009: 14:10:09 Scroll nro: 3
+20211010_141011: 14:10:11 Scroll nro: 4
+20211010_141013: 14:10:13 Scroll nro: 5
+20211010_141015: 14:10:15 Scroll nro: 6
+20211010_141018: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/desodorantes
+20211010_141019: 14:10:19 Scroll nro: 1
+20211010_141021: 14:10:21 Scroll nro: 2
+20211010_141023: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/jabones-y-gel-antibacterial
+20211010_141024: 14:10:24 Scroll nro: 1
+20211010_141026: 14:10:26 Scroll nro: 2
+20211010_141028: 14:10:28 Scroll nro: 3
+20211010_141030: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/afeitada-y-depilacion
+20211010_141030: 14:10:30 Scroll nro: 1
+20211010_141032: 14:10:32 Scroll nro: 2
+20211010_141035: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/cuidado-para-pies
+20211010_141035: 14:10:35 Scroll nro: 1
+20211010_141037: 14:10:37 Scroll nro: 2
+20211010_141039: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/panuelos-faciales
+20211010_141040: 14:10:40 Scroll nro: 1
+20211010_141042: 14:10:42 Scroll nro: 2
+20211010_141044: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina
+20211010_141045: 14:10:45 Scroll nro: 1
+20211010_141047: 14:10:47 Scroll nro: 2
+20211010_141049: 14:10:49 Scroll nro: 3
+20211010_141051: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/higiene-intima
+20211010_141052: 14:10:52 Scroll nro: 1
+20211010_141054: 14:10:54 Scroll nro: 2
+20211010_141056: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/protectores
+20211010_141056: 14:10:56 Scroll nro: 1
+20211010_141058: 14:10:58 Scroll nro: 2
+20211010_141100: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/tampones
+20211010_141101: 14:11:01 Scroll nro: 1
+20211010_141103: 14:11:03 Scroll nro: 2
+20211010_141105: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/toallas
+20211010_141106: 14:11:06 Scroll nro: 1
+20211010_141108: 14:11:08 Scroll nro: 2
+20211010_141110: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-del-cabello
+20211010_141111: 14:11:11 Scroll nro: 1
+20211010_141113: 14:11:13 Scroll nro: 2
+20211010_141115: 14:11:15 Scroll nro: 3
+20211010_141117: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/incontinencia
+20211010_141118: 14:11:18 Scroll nro: 1
+20211010_141120: 14:11:20 Scroll nro: 2
+20211010_141122: Working on https://www.drogueriascolsubsidio.com/activacion/PnG
+20211010_141123: 14:11:23 Scroll nro: 1
+20211010_141125: 14:11:25 Scroll nro: 2
+20211010_141127: 14:11:27 Scroll nro: 3
+20211010_141129: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa
+20211010_141131: 14:11:31 Scroll nro: 1
+20211010_141133: 14:11:33 Scroll nro: 2
+20211010_141135: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/terapia-respiratoria
+20211010_141136: 14:11:36 Scroll nro: 1
+20211010_141138: 14:11:38 Scroll nro: 2
+20211010_141140: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/ortopedia-y-movilidad
+20211010_141141: 14:11:41 Scroll nro: 1
+20211010_141143: 14:11:43 Scroll nro: 2
+20211010_141145: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/fisioterapia-y-rehabilitacion
+20211010_141147: 14:11:47 Scroll nro: 1
+20211010_141149: 14:11:49 Scroll nro: 2
+20211010_141151: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/medicion-y-diagnostico
+20211010_141152: 14:11:52 Scroll nro: 1
+20211010_141154: 14:11:54 Scroll nro: 2
+20211010_141156: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/accesorios-medicos
+20211010_141157: 14:11:57 Scroll nro: 1
+20211010_141159: 14:11:59 Scroll nro: 2
+20211010_141201: 14:12:01 Scroll nro: 3
+20211010_141203: 14:12:03 Scroll nro: 4
+20211010_141205: 14:12:05 Scroll nro: 5
+20211010_141207: 14:12:07 Scroll nro: 6
+20211010_141210: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas
+20211010_141212: 14:12:12 Scroll nro: 1
+20211010_141214: 14:12:14 Scroll nro: 2
+20211010_141216: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/snacks
+20211010_141217: 14:12:17 Scroll nro: 1
+20211010_141220: 14:12:20 Scroll nro: 2
+20211010_141222: 14:12:22 Scroll nro: 3
+20211010_141224: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/dulces-y-chocolates
+20211010_141225: 14:12:25 Scroll nro: 1
+20211010_141227: 14:12:27 Scroll nro: 2
+20211010_141229: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/helados
+20211010_141230: 14:12:30 Scroll nro: 1
+20211010_141232: 14:12:32 Scroll nro: 2
+20211010_141234: 14:12:34 Scroll nro: 3
+20211010_141236: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/lacteos
+20211010_141236: 14:12:36 Scroll nro: 1
+20211010_141238: 14:12:38 Scroll nro: 2
+20211010_141240: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/bebidas
+20211010_141241: 14:12:41 Scroll nro: 1
+20211010_141243: 14:12:43 Scroll nro: 2
+20211010_141245: 14:12:45 Scroll nro: 3
+20211010_141247: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-de-la-piel
+20211010_141249: 14:12:49 Scroll nro: 1
+20211010_141251: 14:12:51 Scroll nro: 2
+20211010_141253: 14:12:53 Scroll nro: 3
+20211010_141255: Working on https://www.drogueriascolsubsidio.com/loreal/productos/cuidado-facial
+20211010_141255: 14:12:55 Scroll nro: 1
+20211010_141258: 14:12:58 Scroll nro: 2
+20211010_141300: 14:13:00 Scroll nro: 3
+20211010_141302: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar
+20211010_141305: 14:13:05 Scroll nro: 1
+20211010_141307: 14:13:07 Scroll nro: 2
+20211010_141309: Working on https://www.drogueriascolsubsidio.com/loreal/maquillaje
+20211010_141310: 14:13:10 Scroll nro: 1
+20211010_141312: 14:13:12 Scroll nro: 2
+20211010_141314: 14:13:14 Scroll nro: 3
+20211010_141316: 14:13:16 Scroll nro: 4
+20211010_141318: 14:13:18 Scroll nro: 5
+20211010_141320: 14:13:20 Scroll nro: 6
+20211010_141322: Working on https://www.drogueriascolsubsidio.com/loreal/productos/rostro
+20211010_141323: 14:13:23 Scroll nro: 1
+20211010_141325: 14:13:25 Scroll nro: 2
+20211010_141327: 14:13:27 Scroll nro: 3
+20211010_141329: 14:13:29 Scroll nro: 4
+20211010_141332: Working on https://www.drogueriascolsubsidio.com/loreal/productos/ojos
+20211010_141333: 14:13:33 Scroll nro: 1
+20211010_141335: 14:13:35 Scroll nro: 2
+20211010_141337: 14:13:37 Scroll nro: 3
+20211010_141339: Working on https://www.drogueriascolsubsidio.com/loreal/productos/labios
+20211010_141339: 14:13:39 Scroll nro: 1
+20211010_141342: 14:13:42 Scroll nro: 2
+20211010_141344: 14:13:44 Scroll nro: 3
+20211010_141346: Working on https://www.drogueriascolsubsidio.com/loreal/productos/unas
+20211010_141347: 14:13:47 Scroll nro: 1
+20211010_141349: 14:13:49 Scroll nro: 2
+20211010_141351: 14:13:51 Scroll nro: 3
+20211010_141353: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/shampoo-acondicionadores
+20211010_141354: 14:13:54 Scroll nro: 1
+20211010_141356: 14:13:56 Scroll nro: 2
+20211010_141358: 14:13:58 Scroll nro: 3
+20211010_141400: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/tratamientos
+20211010_141400: 14:14:00 Scroll nro: 1
+20211010_141402: 14:14:02 Scroll nro: 2
+20211010_141404: 14:14:04 Scroll nro: 3
+20211010_141407: Working on https://www.drogueriascolsubsidio.com/loreal/dermocosmetica
+20211010_141407: 14:14:07 Scroll nro: 1
+20211010_141409: 14:14:09 Scroll nro: 2
+20211010_141411: 14:14:11 Scroll nro: 3
+20211010_141414: Lenght of productDataList: 100
+20211010_141414: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211010_141414: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211010_141414: Time Elapsed: 0:14:03.664487
+20211010_141414: Starting process of loading data to PostgreSQL...
+20211010_141414: Working on interval [0, 500] last Interval: [9500, 9852]
+20211010_141415: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.409809
+20211010_141415: Working on interval [500, 1000] last Interval: [9500, 9852]
+20211010_141417: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.525930
+20211010_141417: Working on interval [1000, 1500] last Interval: [9500, 9852]
+20211010_141419: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.740917
+20211010_141419: Working on interval [1500, 2000] last Interval: [9500, 9852]
+20211010_141420: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.565032
+20211010_141420: Working on interval [2000, 2500] last Interval: [9500, 9852]
+20211010_141422: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.511767
+20211010_141422: Working on interval [2500, 3000] last Interval: [9500, 9852]
+20211010_141423: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.456576
+20211010_141423: Working on interval [3000, 3500] last Interval: [9500, 9852]
+20211010_141425: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.629259
+20211010_141425: Working on interval [3500, 4000] last Interval: [9500, 9852]
+20211010_141427: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:02.119747
+20211010_141427: Working on interval [4000, 4500] last Interval: [9500, 9852]
+20211010_141429: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.595753
+20211010_141429: Working on interval [4500, 5000] last Interval: [9500, 9852]
+20211010_141430: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.537454
+20211010_141430: Working on interval [5000, 5500] last Interval: [9500, 9852]
+20211010_141432: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.613460
+20211010_141432: Working on interval [5500, 6000] last Interval: [9500, 9852]
+20211010_141433: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.488035
+20211010_141433: Working on interval [6000, 6500] last Interval: [9500, 9852]
+20211010_141435: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.587208
+20211010_141435: Working on interval [6500, 7000] last Interval: [9500, 9852]
+20211010_141437: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.862115
+20211010_141437: Working on interval [7000, 7500] last Interval: [9500, 9852]
+20211010_141439: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:02.434829
+20211010_141439: Working on interval [7500, 8000] last Interval: [9500, 9852]
+20211010_141441: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.613851
+20211010_141441: Working on interval [8000, 8500] last Interval: [9500, 9852]
+20211010_141443: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.942847
+20211010_141443: Working on interval [8500, 9000] last Interval: [9500, 9852]
+20211010_141444: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.564806
+20211010_141444: Working on interval [9000, 9500] last Interval: [9500, 9852]
+20211010_141447: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:02.770649
+20211010_141447: Working on interval [9500, 9852] last Interval: [9500, 9852]
+20211010_141450: Results of interval [9500, 9852]: Successful - OK, 352 rows affected. - 0:00:02.717834
+20211010_141450: Finshed process loading data to PostgreSQL
+20211010_141450: Time Elapsed: 0:00:36.298450
+20211010_141450: Total Time Elapsed: 0:14:39.973936
+20211010_170010: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_170010: Creating a list of Category URLs.
+20211010_170019: Starting process with each URL.
+20211010_170020: Working on https://www.drogueriascolsubsidio.com/medicamentos
+20211010_170023: 17:00:23 Scroll nro: 1
+20211010_170025: 17:00:25 Scroll nro: 2
+20211010_170028: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre
+20211010_170029: 17:00:29 Scroll nro: 1
+20211010_170031: 17:00:31 Scroll nro: 2
+20211010_170033: 17:00:33 Scroll nro: 3
+20211010_170035: 17:00:35 Scroll nro: 4
+20211010_170037: 17:00:37 Scroll nro: 5
+20211010_170039: 17:00:39 Scroll nro: 6
+20211010_170041: 17:00:41 Scroll nro: 7
+20211010_170043: 17:00:43 Scroll nro: 8
+20211010_170045: 17:00:45 Scroll nro: 9
+20211010_170047: 17:00:47 Scroll nro: 10
+20211010_170049: 17:00:49 Scroll nro: 11
+20211010_170057: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor
+20211010_170057: 17:00:57 Scroll nro: 1
+20211010_170059: 17:00:59 Scroll nro: 2
+20211010_170101: 17:01:01 Scroll nro: 3
+20211010_170103: 17:01:03 Scroll nro: 4
+20211010_170105: 17:01:05 Scroll nro: 5
+20211010_170107: 17:01:07 Scroll nro: 6
+20211010_170110: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-fuerte
+20211010_170110: 17:01:10 Scroll nro: 1
+20211010_170112: 17:01:12 Scroll nro: 2
+20211010_170114: 17:01:14 Scroll nro: 3
+20211010_170117: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-general
+20211010_170117: 17:01:17 Scroll nro: 1
+20211010_170119: 17:01:19 Scroll nro: 2
+20211010_170121: 17:01:21 Scroll nro: 3
+20211010_170123: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/abdominal-y-colico
+20211010_170125: 17:01:25 Scroll nro: 1
+20211010_170127: 17:01:27 Scroll nro: 2
+20211010_170129: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-ninos
+20211010_170129: 17:01:29 Scroll nro: 1
+20211010_170131: 17:01:31 Scroll nro: 2
+20211010_170134: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios
+20211010_170134: 17:01:34 Scroll nro: 1
+20211010_170136: 17:01:36 Scroll nro: 2
+20211010_170138: 17:01:38 Scroll nro: 3
+20211010_170140: 17:01:40 Scroll nro: 4
+20211010_170142: 17:01:42 Scroll nro: 5
+20211010_170144: 17:01:44 Scroll nro: 6
+20211010_170147: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/algodon-curas-gasas-y-vendas
+20211010_170148: 17:01:48 Scroll nro: 1
+20211010_170150: 17:01:50 Scroll nro: 2
+20211010_170152: 17:01:52 Scroll nro: 3
+20211010_170154: 17:01:54 Scroll nro: 4
+20211010_170156: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/antisepticos
+20211010_170157: 17:01:57 Scroll nro: 1
+20211010_170159: 17:01:59 Scroll nro: 2
+20211010_170201: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal
+20211010_170201: 17:02:01 Scroll nro: 1
+20211010_170204: 17:02:04 Scroll nro: 2
+20211010_170206: 17:02:06 Scroll nro: 3
+20211010_170208: 17:02:08 Scroll nro: 4
+20211010_170210: 17:02:10 Scroll nro: 5
+20211010_170212: 17:02:12 Scroll nro: 6
+20211010_170214: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/descongestionantes
+20211010_170217: 17:02:17 Scroll nro: 1
+20211010_170219: 17:02:19 Scroll nro: 2
+20211010_170221: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/garganta
+20211010_170222: 17:02:22 Scroll nro: 1
+20211010_170224: 17:02:24 Scroll nro: 2
+20211010_170227: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/gripa
+20211010_170227: 17:02:27 Scroll nro: 1
+20211010_170229: 17:02:29 Scroll nro: 2
+20211010_170231: 17:02:31 Scroll nro: 3
+20211010_170233: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/tos
+20211010_170234: 17:02:34 Scroll nro: 1
+20211010_170236: 17:02:36 Scroll nro: 2
+20211010_170238: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/bienestar-digestivo
+20211010_170239: 17:02:39 Scroll nro: 1
+20211010_170241: 17:02:41 Scroll nro: 2
+20211010_170243: 17:02:43 Scroll nro: 3
+20211010_170245: 17:02:45 Scroll nro: 4
+20211010_170247: 17:02:47 Scroll nro: 5
+20211010_170249: 17:02:49 Scroll nro: 6
+20211010_170252: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual
+20211010_170252: 17:02:52 Scroll nro: 1
+20211010_170255: 17:02:55 Scroll nro: 2
+20211010_170257: 17:02:57 Scroll nro: 3
+20211010_170259: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/lubricantes-y-dispositivos
+20211010_170259: 17:02:59 Scroll nro: 1
+20211010_170301: 17:03:01 Scroll nro: 2
+20211010_170304: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/preservativos
+20211010_170304: 17:03:04 Scroll nro: 1
+20211010_170306: 17:03:06 Scroll nro: 2
+20211010_170308: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/pruebas-de-embarazo
+20211010_170309: 17:03:09 Scroll nro: 1
+20211010_170311: 17:03:11 Scroll nro: 2
+20211010_170313: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/cremas-y-ovulos
+20211010_170313: 17:03:13 Scroll nro: 1
+20211010_170315: 17:03:15 Scroll nro: 2
+20211010_170317: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa
+20211010_170318: 17:03:18 Scroll nro: 1
+20211010_170320: 17:03:20 Scroll nro: 2
+20211010_170322: 17:03:22 Scroll nro: 3
+20211010_170324: 17:03:24 Scroll nro: 4
+20211010_170326: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/naturales
+20211010_170328: 17:03:28 Scroll nro: 1
+20211010_170330: 17:03:30 Scroll nro: 2
+20211010_170332: 17:03:32 Scroll nro: 3
+20211010_170334: 17:03:34 Scroll nro: 4
+20211010_170336: 17:03:36 Scroll nro: 5
+20211010_170338: 17:03:38 Scroll nro: 6
+20211010_170341: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/homeopaticos
+20211010_170341: 17:03:41 Scroll nro: 1
+20211010_170344: 17:03:44 Scroll nro: 2
+20211010_170346: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos
+20211010_170347: 17:03:47 Scroll nro: 1
+20211010_170349: 17:03:49 Scroll nro: 2
+20211010_170351: 17:03:51 Scroll nro: 3
+20211010_170353: 17:03:53 Scroll nro: 4
+20211010_170355: 17:03:55 Scroll nro: 5
+20211010_170357: 17:03:57 Scroll nro: 6
+20211010_170359: 17:03:59 Scroll nro: 7
+20211010_170401: 17:04:01 Scroll nro: 8
+20211010_170403: 17:04:03 Scroll nro: 9
+20211010_170405: 17:04:05 Scroll nro: 10
+20211010_170407: 17:04:07 Scroll nro: 11
+20211010_170410: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-corporal
+20211010_170412: 17:04:12 Scroll nro: 1
+20211010_170414: 17:04:14 Scroll nro: 2
+20211010_170416: 17:04:16 Scroll nro: 3
+20211010_170419: 17:04:19 Scroll nro: 4
+20211010_170421: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-capilar
+20211010_170422: 17:04:22 Scroll nro: 1
+20211010_170424: 17:04:24 Scroll nro: 2
+20211010_170426: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-facial
+20211010_170427: 17:04:27 Scroll nro: 1
+20211010_170429: 17:04:29 Scroll nro: 2
+20211010_170431: 17:04:31 Scroll nro: 3
+20211010_170433: 17:04:33 Scroll nro: 4
+20211010_170435: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/proteccion-solar
+20211010_170436: 17:04:36 Scroll nro: 1
+20211010_170438: 17:04:38 Scroll nro: 2
+20211010_170440: 17:04:40 Scroll nro: 3
+20211010_170443: Working on https://www.drogueriascolsubsidio.com/medicamentos/formulados
+20211010_170444: 17:04:44 Scroll nro: 1
+20211010_170446: 17:04:46 Scroll nro: 2
+20211010_170448: 17:04:48 Scroll nro: 3
+20211010_170450: 17:04:50 Scroll nro: 4
+20211010_170452: 17:04:52 Scroll nro: 5
+20211010_170454: 17:04:54 Scroll nro: 6
+20211010_170456: 17:04:56 Scroll nro: 7
+20211010_170458: 17:04:58 Scroll nro: 8
+20211010_170500: 17:05:00 Scroll nro: 9
+20211010_170502: 17:05:02 Scroll nro: 10
+20211010_170504: 17:05:04 Scroll nro: 11
+20211010_170506: 17:05:06 Scroll nro: 12
+20211010_170508: 17:05:08 Scroll nro: 13
+20211010_170510: 17:05:10 Scroll nro: 14
+20211010_170513: 17:05:13 Scroll nro: 15
+20211010_170515: 17:05:15 Scroll nro: 16
+20211010_170517: 17:05:17 Scroll nro: 17
+20211010_170519: 17:05:19 Scroll nro: 18
+20211010_170522: 17:05:22 Scroll nro: 19
+20211010_170524: 17:05:24 Scroll nro: 20
+20211010_170527: 17:05:27 Scroll nro: 21
+20211010_170529: 17:05:29 Scroll nro: 22
+20211010_170531: 17:05:31 Scroll nro: 23
+20211010_170533: 17:05:33 Scroll nro: 24
+20211010_170535: 17:05:35 Scroll nro: 25
+20211010_170538: 17:05:38 Scroll nro: 26
+20211010_170541: 17:05:41 Scroll nro: 27
+20211010_170543: 17:05:43 Scroll nro: 28
+20211010_170546: 17:05:46 Scroll nro: 29
+20211010_170549: 17:05:49 Scroll nro: 30
+20211010_170552: 17:05:52 Scroll nro: 31
+20211010_170555: 17:05:55 Scroll nro: 32
+20211010_170600: 17:06:00 Scroll nro: 33
+20211010_170604: 17:06:04 Scroll nro: 34
+20211010_170611: Working on https://www.drogueriascolsubsidio.com/activacion/la-sante
+20211010_170612: 17:06:12 Scroll nro: 1
+20211010_170614: 17:06:14 Scroll nro: 2
+20211010_170616: 17:06:16 Scroll nro: 3
+20211010_170619: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable
+20211010_170621: 17:06:21 Scroll nro: 1
+20211010_170623: 17:06:23 Scroll nro: 2
+20211010_170625: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/vitaminas
+20211010_170626: 17:06:26 Scroll nro: 1
+20211010_170628: 17:06:28 Scroll nro: 2
+20211010_170630: 17:06:30 Scroll nro: 3
+20211010_170632: 17:06:32 Scroll nro: 4
+20211010_170634: 17:06:34 Scroll nro: 5
+20211010_170636: 17:06:36 Scroll nro: 6
+20211010_170638: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/suplementos
+20211010_170639: 17:06:39 Scroll nro: 1
+20211010_170641: 17:06:41 Scroll nro: 2
+20211010_170643: 17:06:43 Scroll nro: 3
+20211010_170645: 17:06:45 Scroll nro: 4
+20211010_170647: 17:06:47 Scroll nro: 5
+20211010_170649: 17:06:49 Scroll nro: 6
+20211010_170652: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/nutricion-deportiva
+20211010_170653: 17:06:53 Scroll nro: 1
+20211010_170655: 17:06:55 Scroll nro: 2
+20211010_170657: 17:06:57 Scroll nro: 3
+20211010_170700: Working on https://www.drogueriascolsubsidio.com/activacion/vitamina-c
+20211010_170701: 17:07:01 Scroll nro: 1
+20211010_170703: 17:07:03 Scroll nro: 2
+20211010_170705: 17:07:05 Scroll nro: 3
+20211010_170707: Working on https://www.drogueriascolsubsidio.com/belleza
+20211010_170709: 17:07:09 Scroll nro: 1
+20211010_170711: 17:07:11 Scroll nro: 2
+20211010_170713: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos
+20211010_170714: 17:07:14 Scroll nro: 1
+20211010_170716: 17:07:16 Scroll nro: 2
+20211010_170718: 17:07:18 Scroll nro: 3
+20211010_170720: 17:07:20 Scroll nro: 4
+20211010_170722: 17:07:22 Scroll nro: 5
+20211010_170724: 17:07:24 Scroll nro: 6
+20211010_170727: 17:07:27 Scroll nro: 7
+20211010_170729: 17:07:29 Scroll nro: 8
+20211010_170731: 17:07:31 Scroll nro: 9
+20211010_170733: 17:07:33 Scroll nro: 10
+20211010_170735: 17:07:35 Scroll nro: 11
+20211010_170738: 17:07:38 Scroll nro: 12
+20211010_170741: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/ojos
+20211010_170742: 17:07:42 Scroll nro: 1
+20211010_170744: 17:07:44 Scroll nro: 2
+20211010_170746: 17:07:46 Scroll nro: 3
+20211010_170748: 17:07:48 Scroll nro: 4
+20211010_170751: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/labios
+20211010_170751: 17:07:51 Scroll nro: 1
+20211010_170753: 17:07:53 Scroll nro: 2
+20211010_170755: 17:07:55 Scroll nro: 3
+20211010_170757: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/rostro
+20211010_170759: 17:07:59 Scroll nro: 1
+20211010_170801: 17:08:01 Scroll nro: 2
+20211010_170803: 17:08:03 Scroll nro: 3
+20211010_170805: 17:08:05 Scroll nro: 4
+20211010_170807: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/unas
+20211010_170808: 17:08:08 Scroll nro: 1
+20211010_170810: 17:08:10 Scroll nro: 2
+20211010_170812: Working on https://www.drogueriascolsubsidio.com/belleza/dermocosmetica
+20211010_170813: 17:08:13 Scroll nro: 1
+20211010_170815: 17:08:15 Scroll nro: 2
+20211010_170817: 17:08:17 Scroll nro: 3
+20211010_170819: 17:08:19 Scroll nro: 4
+20211010_170821: 17:08:21 Scroll nro: 5
+20211010_170823: 17:08:23 Scroll nro: 6
+20211010_170825: Working on https://www.drogueriascolsubsidio.com/activacion/isdin-fotoproteccion
+20211010_170826: 17:08:26 Scroll nro: 1
+20211010_170828: 17:08:28 Scroll nro: 2
+20211010_170830: 17:08:30 Scroll nro: 3
+20211010_170832: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes
+20211010_170834: 17:08:34 Scroll nro: 1
+20211010_170836: 17:08:36 Scroll nro: 2
+20211010_170838: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion
+20211010_170839: 17:08:39 Scroll nro: 1
+20211010_170841: 17:08:41 Scroll nro: 2
+20211010_170843: 17:08:43 Scroll nro: 3
+20211010_170845: 17:08:45 Scroll nro: 4
+20211010_170848: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/formulas-infantiles
+20211010_170849: 17:08:49 Scroll nro: 1
+20211010_170851: 17:08:51 Scroll nro: 2
+20211010_170853: 17:08:53 Scroll nro: 3
+20211010_170856: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/compotas-y-cerales
+20211010_170857: 17:08:57 Scroll nro: 1
+20211010_170859: 17:08:59 Scroll nro: 2
+20211010_170901: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/accesorios
+20211010_170901: 17:09:01 Scroll nro: 1
+20211010_170903: 17:09:03 Scroll nro: 2
+20211010_170906: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-de-la-mama
+20211010_170906: 17:09:06 Scroll nro: 1
+20211010_170909: 17:09:09 Scroll nro: 2
+20211010_170911: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-del-bebe
+20211010_170911: 17:09:11 Scroll nro: 1
+20211010_170913: 17:09:13 Scroll nro: 2
+20211010_170915: 17:09:15 Scroll nro: 3
+20211010_170917: 17:09:17 Scroll nro: 4
+20211010_170920: Working on https://www.drogueriascolsubsidio.com/activacion/winny
+20211010_170921: 17:09:21 Scroll nro: 1
+20211010_170923: 17:09:23 Scroll nro: 2
+20211010_170925: 17:09:25 Scroll nro: 3
+20211010_170927: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal
+20211010_170929: 17:09:29 Scroll nro: 1
+20211010_170931: 17:09:31 Scroll nro: 2
+20211010_170934: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral
+20211010_170934: 17:09:34 Scroll nro: 1
+20211010_170936: 17:09:36 Scroll nro: 2
+20211010_170939: 17:09:39 Scroll nro: 3
+20211010_170941: 17:09:41 Scroll nro: 4
+20211010_170943: 17:09:43 Scroll nro: 5
+20211010_170945: 17:09:45 Scroll nro: 6
+20211010_170947: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cremas-dentales
+20211010_170947: 17:09:47 Scroll nro: 1
+20211010_170950: 17:09:50 Scroll nro: 2
+20211010_170952: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cepillos-dentales
+20211010_170952: 17:09:52 Scroll nro: 1
+20211010_170954: 17:09:54 Scroll nro: 2
+20211010_170956: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/enjuagues-bucales
+20211010_170957: 17:09:57 Scroll nro: 1
+20211010_170959: 17:09:59 Scroll nro: 2
+20211010_171001: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/sedas-dentales
+20211010_171001: 17:10:01 Scroll nro: 1
+20211010_171004: 17:10:04 Scroll nro: 2
+20211010_171006: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/especializados
+20211010_171006: 17:10:06 Scroll nro: 1
+20211010_171008: 17:10:08 Scroll nro: 2
+20211010_171010: 17:10:10 Scroll nro: 3
+20211010_171012: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel
+20211010_171013: 17:10:13 Scroll nro: 1
+20211010_171015: 17:10:15 Scroll nro: 2
+20211010_171017: 17:10:17 Scroll nro: 3
+20211010_171019: 17:10:19 Scroll nro: 4
+20211010_171022: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/proteccion-solar
+20211010_171023: 17:10:23 Scroll nro: 1
+20211010_171025: 17:10:25 Scroll nro: 2
+20211010_171027: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-corporal-repelentes-e-insecticidas
+20211010_171028: 17:10:28 Scroll nro: 1
+20211010_171030: 17:10:30 Scroll nro: 2
+20211010_171032: 17:10:32 Scroll nro: 3
+20211010_171035: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-facial
+20211010_171035: 17:10:35 Scroll nro: 1
+20211010_171037: 17:10:37 Scroll nro: 2
+20211010_171039: 17:10:39 Scroll nro: 3
+20211010_171041: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal
+20211010_171042: 17:10:42 Scroll nro: 1
+20211010_171044: 17:10:44 Scroll nro: 2
+20211010_171046: 17:10:46 Scroll nro: 3
+20211010_171048: 17:10:48 Scroll nro: 4
+20211010_171050: 17:10:50 Scroll nro: 5
+20211010_171052: 17:10:52 Scroll nro: 6
+20211010_171055: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/desodorantes
+20211010_171056: 17:10:56 Scroll nro: 1
+20211010_171058: 17:10:58 Scroll nro: 2
+20211010_171100: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/jabones-y-gel-antibacterial
+20211010_171101: 17:11:01 Scroll nro: 1
+20211010_171103: 17:11:03 Scroll nro: 2
+20211010_171105: 17:11:05 Scroll nro: 3
+20211010_171107: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/afeitada-y-depilacion
+20211010_171108: 17:11:08 Scroll nro: 1
+20211010_171110: 17:11:10 Scroll nro: 2
+20211010_171113: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/cuidado-para-pies
+20211010_171113: 17:11:13 Scroll nro: 1
+20211010_171115: 17:11:15 Scroll nro: 2
+20211010_171118: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/panuelos-faciales
+20211010_171118: 17:11:18 Scroll nro: 1
+20211010_171120: 17:11:20 Scroll nro: 2
+20211010_171122: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina
+20211010_171123: 17:11:23 Scroll nro: 1
+20211010_171125: 17:11:25 Scroll nro: 2
+20211010_171127: 17:11:27 Scroll nro: 3
+20211010_171129: 17:11:29 Scroll nro: 4
+20211010_171131: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/higiene-intima
+20211010_171134: 17:11:34 Scroll nro: 1
+20211010_171136: 17:11:36 Scroll nro: 2
+20211010_171138: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/protectores
+20211010_171138: 17:11:38 Scroll nro: 1
+20211010_171140: 17:11:40 Scroll nro: 2
+20211010_171143: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/tampones
+20211010_171143: 17:11:43 Scroll nro: 1
+20211010_171145: 17:11:45 Scroll nro: 2
+20211010_171147: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/toallas
+20211010_171148: 17:11:48 Scroll nro: 1
+20211010_171150: 17:11:50 Scroll nro: 2
+20211010_171152: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-del-cabello
+20211010_171153: 17:11:53 Scroll nro: 1
+20211010_171155: 17:11:55 Scroll nro: 2
+20211010_171157: 17:11:57 Scroll nro: 3
+20211010_171159: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/incontinencia
+20211010_171203: 17:12:03 Scroll nro: 2
+20211010_171205: Working on https://www.drogueriascolsubsidio.com/activacion/PnG
+20211010_171208: 17:12:08 Scroll nro: 1
+20211010_171210: 17:12:10 Scroll nro: 2
+20211010_171212: 17:12:12 Scroll nro: 3
+20211010_171215: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa
+20211010_171217: 17:12:17 Scroll nro: 1
+20211010_171219: 17:12:19 Scroll nro: 2
+20211010_171221: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/terapia-respiratoria
+20211010_171222: 17:12:22 Scroll nro: 1
+20211010_171224: 17:12:24 Scroll nro: 2
+20211010_171226: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/ortopedia-y-movilidad
+20211010_171227: 17:12:27 Scroll nro: 1
+20211010_171229: 17:12:29 Scroll nro: 2
+20211010_171231: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/fisioterapia-y-rehabilitacion
+20211010_171232: 17:12:32 Scroll nro: 1
+20211010_171234: 17:12:34 Scroll nro: 2
+20211010_171236: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/medicion-y-diagnostico
+20211010_171237: 17:12:37 Scroll nro: 1
+20211010_171239: 17:12:39 Scroll nro: 2
+20211010_171241: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/accesorios-medicos
+20211010_171242: 17:12:42 Scroll nro: 1
+20211010_171244: 17:12:44 Scroll nro: 2
+20211010_171246: 17:12:46 Scroll nro: 3
+20211010_171248: 17:12:48 Scroll nro: 4
+20211010_171250: 17:12:50 Scroll nro: 5
+20211010_171253: 17:12:53 Scroll nro: 6
+20211010_171255: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas
+20211010_171257: 17:12:57 Scroll nro: 1
+20211010_171259: 17:12:59 Scroll nro: 2
+20211010_171301: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/snacks
+20211010_171302: 17:13:02 Scroll nro: 1
+20211010_171304: 17:13:04 Scroll nro: 2
+20211010_171306: 17:13:06 Scroll nro: 3
+20211010_171308: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/dulces-y-chocolates
+20211010_171309: 17:13:09 Scroll nro: 1
+20211010_171311: 17:13:11 Scroll nro: 2
+20211010_171313: 17:13:13 Scroll nro: 3
+20211010_171316: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/helados
+20211010_171316: 17:13:16 Scroll nro: 1
+20211010_171318: 17:13:18 Scroll nro: 2
+20211010_171320: 17:13:20 Scroll nro: 3
+20211010_171322: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/lacteos
+20211010_171323: 17:13:23 Scroll nro: 1
+20211010_171325: 17:13:25 Scroll nro: 2
+20211010_171327: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/bebidas
+20211010_171328: 17:13:28 Scroll nro: 1
+20211010_171330: 17:13:30 Scroll nro: 2
+20211010_171332: 17:13:32 Scroll nro: 3
+20211010_171334: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-de-la-piel
+20211010_171335: 17:13:35 Scroll nro: 1
+20211010_171337: 17:13:37 Scroll nro: 2
+20211010_171339: 17:13:39 Scroll nro: 3
+20211010_171341: Working on https://www.drogueriascolsubsidio.com/loreal/productos/cuidado-facial
+20211010_171342: 17:13:42 Scroll nro: 1
+20211010_171344: 17:13:44 Scroll nro: 2
+20211010_171346: 17:13:46 Scroll nro: 3
+20211010_171348: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar
+20211010_171348: 17:13:48 Scroll nro: 1
+20211010_171350: 17:13:50 Scroll nro: 2
+20211010_171352: 17:13:52 Scroll nro: 3
+20211010_171354: Working on https://www.drogueriascolsubsidio.com/loreal/maquillaje
+20211010_171355: 17:13:55 Scroll nro: 1
+20211010_171357: 17:13:57 Scroll nro: 2
+20211010_171359: 17:13:59 Scroll nro: 3
+20211010_171401: 17:14:01 Scroll nro: 4
+20211010_171403: 17:14:03 Scroll nro: 5
+20211010_171405: 17:14:05 Scroll nro: 6
+20211010_171408: Working on https://www.drogueriascolsubsidio.com/loreal/productos/rostro
+20211010_171408: 17:14:08 Scroll nro: 1
+20211010_171410: 17:14:10 Scroll nro: 2
+20211010_171413: 17:14:13 Scroll nro: 3
+20211010_171415: 17:14:15 Scroll nro: 4
+20211010_171417: Working on https://www.drogueriascolsubsidio.com/loreal/productos/ojos
+20211010_171418: 17:14:18 Scroll nro: 1
+20211010_171420: 17:14:20 Scroll nro: 2
+20211010_171422: 17:14:22 Scroll nro: 3
+20211010_171424: Working on https://www.drogueriascolsubsidio.com/loreal/productos/labios
+20211010_171424: 17:14:24 Scroll nro: 1
+20211010_171426: 17:14:26 Scroll nro: 2
+20211010_171428: 17:14:28 Scroll nro: 3
+20211010_171431: Working on https://www.drogueriascolsubsidio.com/loreal/productos/unas
+20211010_171431: 17:14:31 Scroll nro: 1
+20211010_171433: 17:14:33 Scroll nro: 2
+20211010_171435: 17:14:35 Scroll nro: 3
+20211010_171438: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/shampoo-acondicionadores
+20211010_171438: 17:14:38 Scroll nro: 1
+20211010_171440: 17:14:40 Scroll nro: 2
+20211010_171442: 17:14:42 Scroll nro: 3
+20211010_171445: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/tratamientos
+20211010_171446: 17:14:46 Scroll nro: 1
+20211010_171448: Working on https://www.drogueriascolsubsidio.com/loreal/dermocosmetica
+20211010_171449: 17:14:49 Scroll nro: 1
+20211010_171451: 17:14:51 Scroll nro: 2
+20211010_171453: 17:14:53 Scroll nro: 3
+20211010_171455: Lenght of productDataList: 100
+20211010_171455: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211010_171455: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211010_171455: Time Elapsed: 0:14:45.098836
+20211010_171455: Starting process of loading data to PostgreSQL...
+20211010_171456: Working on interval [0, 500] last Interval: [11000, 11324]
+20211010_171457: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.659264
+20211010_171457: Working on interval [500, 1000] last Interval: [11000, 11324]
+20211010_171500: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:02.485472
+20211010_171500: Working on interval [1000, 1500] last Interval: [11000, 11324]
+20211010_171502: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.889013
+20211010_171502: Working on interval [1500, 2000] last Interval: [11000, 11324]
+20211010_171503: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.535330
+20211010_171503: Working on interval [2000, 2500] last Interval: [11000, 11324]
+20211010_171505: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.649261
+20211010_171505: Working on interval [2500, 3000] last Interval: [11000, 11324]
+20211010_171507: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.717307
+20211010_171507: Working on interval [3000, 3500] last Interval: [11000, 11324]
+20211010_171509: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:02.715195
+20211010_171509: Working on interval [3500, 4000] last Interval: [11000, 11324]
+20211010_171511: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.598790
+20211010_171511: Working on interval [4000, 4500] last Interval: [11000, 11324]
+20211010_171514: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:03.269741
+20211010_171514: Working on interval [4500, 5000] last Interval: [11000, 11324]
+20211010_171516: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.449033
+20211010_171516: Working on interval [5000, 5500] last Interval: [11000, 11324]
+20211010_171517: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.604274
+20211010_171517: Working on interval [5500, 6000] last Interval: [11000, 11324]
+20211010_171519: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.603503
+20211010_171519: Working on interval [6000, 6500] last Interval: [11000, 11324]
+20211010_171521: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.871946
+20211010_171521: Working on interval [6500, 7000] last Interval: [11000, 11324]
+20211010_171523: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.559647
+20211010_171523: Working on interval [7000, 7500] last Interval: [11000, 11324]
+20211010_171528: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:05.398769
+20211010_171528: Working on interval [7500, 8000] last Interval: [11000, 11324]
+20211010_171530: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.856092
+20211010_171530: Working on interval [8000, 8500] last Interval: [11000, 11324]
+20211010_171532: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.659701
+20211010_171532: Working on interval [8500, 9000] last Interval: [11000, 11324]
+20211010_171533: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.773933
+20211010_171533: Working on interval [9000, 9500] last Interval: [11000, 11324]
+20211010_171536: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:02.168292
+20211010_171536: Working on interval [9500, 10000] last Interval: [11000, 11324]
+20211010_171537: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.836090
+20211010_171537: Working on interval [10000, 10500] last Interval: [11000, 11324]
+20211010_171539: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.504594
+20211010_171539: Working on interval [10500, 11000] last Interval: [11000, 11324]
+20211010_171541: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.564759
+20211010_171541: Working on interval [11000, 11324] last Interval: [11000, 11324]
+20211010_171542: Results of interval [11000, 11324]: Successful - OK, 324 rows affected. - 0:00:01.563770
+20211010_171542: Finshed process loading data to PostgreSQL
+20211010_171542: Time Elapsed: 0:00:46.647908
+20211010_171542: Total Time Elapsed: 0:15:31.747828
+20211010_185419: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_190630: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_192940: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_194547: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211010_194547: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211010_194547: Time Elapsed: 0:16:07.520114
+20211010_194547: Starting process of loading data to PostgreSQL...
+20211010_194547: Working on interval [0, 500] last Interval: [10500, 10591]
+20211010_194550: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:02.862046
+20211010_194550: Working on interval [500, 1000] last Interval: [10500, 10591]
+20211010_194552: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.653373
+20211010_194552: Working on interval [1000, 1500] last Interval: [10500, 10591]
+20211010_194553: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.505414
+20211010_194553: Working on interval [1500, 2000] last Interval: [10500, 10591]
+20211010_194555: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.394469
+20211010_194555: Working on interval [2000, 2500] last Interval: [10500, 10591]
+20211010_194556: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.435461
+20211010_194556: Working on interval [2500, 3000] last Interval: [10500, 10591]
+20211010_194559: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:03.028560
+20211010_194559: Working on interval [3000, 3500] last Interval: [10500, 10591]
+20211010_194602: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:02.448146
+20211010_194602: Working on interval [3500, 4000] last Interval: [10500, 10591]
+20211010_194603: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.568417
+20211010_194603: Working on interval [4000, 4500] last Interval: [10500, 10591]
+20211010_194605: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.436229
+20211010_194605: Working on interval [4500, 5000] last Interval: [10500, 10591]
+20211010_194606: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.395273
+20211010_194606: Working on interval [5000, 5500] last Interval: [10500, 10591]
+20211010_194608: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.534921
+20211010_194608: Working on interval [5500, 6000] last Interval: [10500, 10591]
+20211010_194610: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:02.079646
+20211010_194610: Working on interval [6000, 6500] last Interval: [10500, 10591]
+20211010_194613: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:02.688833
+20211010_194613: Working on interval [6500, 7000] last Interval: [10500, 10591]
+20211010_194614: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.698762
+20211010_194614: Working on interval [7000, 7500] last Interval: [10500, 10591]
+20211010_194616: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.577627
+20211010_194616: Working on interval [7500, 8000] last Interval: [10500, 10591]
+20211010_194618: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:02.207940
+20211010_194618: Working on interval [8000, 8500] last Interval: [10500, 10591]
+20211010_194620: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.736520
+20211010_194620: Working on interval [8500, 9000] last Interval: [10500, 10591]
+20211010_194622: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.675233
+20211010_194622: Working on interval [9000, 9500] last Interval: [10500, 10591]
+20211010_194623: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.658628
+20211010_194623: Working on interval [9500, 10000] last Interval: [10500, 10591]
+20211010_194625: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.604248
+20211010_194625: Working on interval [10000, 10500] last Interval: [10500, 10591]
+20211010_194627: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.965402
+20211010_194627: Working on interval [10500, 10591] last Interval: [10500, 10591]
+20211010_194628: Results of interval [10500, 10591]: Successful - OK, 91 rows affected. - 0:00:01.334907
+20211010_194628: Finshed process loading data to PostgreSQL
+20211010_194628: Time Elapsed: 0:00:41.211432
+20211010_194628: Total Time Elapsed: 0:16:48.731546
+20211010_201443: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_203047: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211010_203048: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211010_203048: Time Elapsed: 0:16:05.051206
+20211010_203048: Starting process of loading data to PostgreSQL...
+20211010_203048: Working on interval [0, 500] last Interval: [12000, 12268]
+20211010_203049: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.677053
+20211010_203049: Working on interval [500, 1000] last Interval: [12000, 12268]
+20211010_203051: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.744793
+20211010_203051: Working on interval [1000, 1500] last Interval: [12000, 12268]
+20211010_203053: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.938742
+20211010_203053: Working on interval [1500, 2000] last Interval: [12000, 12268]
+20211010_203055: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.806375
+20211010_203055: Working on interval [2000, 2500] last Interval: [12000, 12268]
+20211010_203057: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.791888
+20211010_203057: Working on interval [2500, 3000] last Interval: [12000, 12268]
+20211010_203059: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.744004
+20211010_203059: Working on interval [3000, 3500] last Interval: [12000, 12268]
+20211010_203100: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.431135
+20211010_203100: Working on interval [3500, 4000] last Interval: [12000, 12268]
+20211010_203102: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.529367
+20211010_203102: Working on interval [4000, 4500] last Interval: [12000, 12268]
+20211010_203103: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.894108
+20211010_203103: Working on interval [4500, 5000] last Interval: [12000, 12268]
+20211010_203105: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.416720
+20211010_203105: Working on interval [5000, 5500] last Interval: [12000, 12268]
+20211010_203106: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.475722
+20211010_203106: Working on interval [5500, 6000] last Interval: [12000, 12268]
+20211010_203108: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.800336
+20211010_203108: Working on interval [6000, 6500] last Interval: [12000, 12268]
+20211010_203110: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.909541
+20211010_203110: Working on interval [6500, 7000] last Interval: [12000, 12268]
+20211010_203112: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.535447
+20211010_203112: Working on interval [7000, 7500] last Interval: [12000, 12268]
+20211010_203115: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:03.173589
+20211010_203115: Working on interval [7500, 8000] last Interval: [12000, 12268]
+20211010_203117: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.538400
+20211010_203117: Working on interval [8000, 8500] last Interval: [12000, 12268]
+20211010_203118: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.687975
+20211010_203118: Working on interval [8500, 9000] last Interval: [12000, 12268]
+20211010_203120: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.641418
+20211010_203120: Working on interval [9000, 9500] last Interval: [12000, 12268]
+20211010_203121: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.600650
+20211010_203122: Working on interval [9500, 10000] last Interval: [12000, 12268]
+20211010_203124: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:02.863303
+20211010_203124: Working on interval [10000, 10500] last Interval: [12000, 12268]
+20211010_203126: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.523152
+20211010_203126: Working on interval [10500, 11000] last Interval: [12000, 12268]
+20211010_203127: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.500538
+20211010_203127: Working on interval [11000, 11500] last Interval: [12000, 12268]
+20211010_203129: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.837309
+20211010_203129: Working on interval [11500, 12000] last Interval: [12000, 12268]
+20211010_203131: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.508341
+20211010_203131: Working on interval [12000, 12268] last Interval: [12000, 12268]
+20211010_203132: Results of interval [12000, 12268]: Successful - OK, 268 rows affected. - 0:00:01.496536
+20211010_203132: Finshed process loading data to PostgreSQL
+20211010_203132: Time Elapsed: 0:00:44.735135
+20211010_203132: Total Time Elapsed: 0:16:49.803340
+20211010_204957: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_210514: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211010_210514: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211010_210514: Time Elapsed: 0:15:16.636265
+20211010_210514: Starting process of loading data to PostgreSQL...
+20211010_210514: Working on interval [0, 500] last Interval: [10500, 10999]
+20211010_210515: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.425845
+20211010_210515: Working on interval [500, 1000] last Interval: [10500, 10999]
+20211010_210517: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.925627
+20211010_210517: Working on interval [1000, 1500] last Interval: [10500, 10999]
+20211010_210519: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:02.003613
+20211010_210519: Working on interval [1500, 2000] last Interval: [10500, 10999]
+20211010_210521: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.444863
+20211010_210521: Working on interval [2000, 2500] last Interval: [10500, 10999]
+20211010_210522: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.453401
+20211010_210522: Working on interval [2500, 3000] last Interval: [10500, 10999]
+20211010_210524: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.460084
+20211010_210524: Working on interval [3000, 3500] last Interval: [10500, 10999]
+20211010_210525: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.440564
+20211010_210525: Working on interval [3500, 4000] last Interval: [10500, 10999]
+20211010_210527: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:02.053389
+20211010_210527: Working on interval [4000, 4500] last Interval: [10500, 10999]
+20211010_210529: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.757029
+20211010_210529: Working on interval [4500, 5000] last Interval: [10500, 10999]
+20211010_210530: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.388314
+20211010_210530: Working on interval [5000, 5500] last Interval: [10500, 10999]
+20211010_210533: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:02.185127
+20211010_210533: Working on interval [5500, 6000] last Interval: [10500, 10999]
+20211010_210534: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.438348
+20211010_210534: Working on interval [6000, 6500] last Interval: [10500, 10999]
+20211010_210536: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.478204
+20211010_210536: Working on interval [6500, 7000] last Interval: [10500, 10999]
+20211010_210538: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:02.063270
+20211010_210538: Working on interval [7000, 7500] last Interval: [10500, 10999]
+20211010_210539: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.492149
+20211010_210539: Working on interval [7500, 8000] last Interval: [10500, 10999]
+20211010_210541: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.806552
+20211010_210541: Working on interval [8000, 8500] last Interval: [10500, 10999]
+20211010_210543: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:02.063984
+20211010_210543: Working on interval [8500, 9000] last Interval: [10500, 10999]
+20211010_210545: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.679668
+20211010_210545: Working on interval [9000, 9500] last Interval: [10500, 10999]
+20211010_210547: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:02.008943
+20211010_210547: Working on interval [9500, 10000] last Interval: [10500, 10999]
+20211010_210549: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:02.104455
+20211010_210549: Working on interval [10000, 10500] last Interval: [10500, 10999]
+20211010_210550: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.445244
+20211010_210550: Working on interval [10500, 10999] last Interval: [10500, 10999]
+20211010_210553: Results of interval [10500, 10999]: Successful - OK, 499 rows affected. - 0:00:02.984998
+20211010_210553: Finshed process loading data to PostgreSQL
+20211010_210553: Time Elapsed: 0:00:39.715217
+20211010_210553: Total Time Elapsed: 0:15:56.362485
+20211010_212458: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_213956: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211010_213956: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211010_213956: Time Elapsed: 0:14:58.189144
+20211010_213956: Starting process of loading data to PostgreSQL...
+20211010_213956: Working on interval [0, 500] last Interval: [11000, 11123]
+20211010_213957: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.439807
+20211010_213957: Working on interval [500, 1000] last Interval: [11000, 11123]
+20211010_213959: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.470213
+20211010_213959: Working on interval [1000, 1500] last Interval: [11000, 11123]
+20211010_214001: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.589395
+20211010_214001: Working on interval [1500, 2000] last Interval: [11000, 11123]
+20211010_214002: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.689160
+20211010_214002: Working on interval [2000, 2500] last Interval: [11000, 11123]
+20211010_214004: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.504035
+20211010_214004: Working on interval [2500, 3000] last Interval: [11000, 11123]
+20211010_214007: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:02.693376
+20211010_214007: Working on interval [3000, 3500] last Interval: [11000, 11123]
+20211010_214008: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.448703
+20211010_214008: Working on interval [3500, 4000] last Interval: [11000, 11123]
+20211010_214010: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.572794
+20211010_214010: Working on interval [4000, 4500] last Interval: [11000, 11123]
+20211010_214012: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:02.446245
+20211010_214012: Working on interval [4500, 5000] last Interval: [11000, 11123]
+20211010_214014: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.448926
+20211010_214014: Working on interval [5000, 5500] last Interval: [11000, 11123]
+20211010_214016: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.956588
+20211010_214016: Working on interval [5500, 6000] last Interval: [11000, 11123]
+20211010_214017: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.520198
+20211010_214017: Working on interval [6000, 6500] last Interval: [11000, 11123]
+20211010_214019: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.584672
+20211010_214019: Working on interval [6500, 7000] last Interval: [11000, 11123]
+20211010_214021: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.864844
+20211010_214021: Working on interval [7000, 7500] last Interval: [11000, 11123]
+20211010_214022: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.524945
+20211010_214022: Working on interval [7500, 8000] last Interval: [11000, 11123]
+20211010_214024: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.433529
+20211010_214024: Working on interval [8000, 8500] last Interval: [11000, 11123]
+20211010_214026: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:02.083194
+20211010_214026: Working on interval [8500, 9000] last Interval: [11000, 11123]
+20211010_214027: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.603864
+20211010_214027: Working on interval [9000, 9500] last Interval: [11000, 11123]
+20211010_214029: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.669107
+20211010_214029: Working on interval [9500, 10000] last Interval: [11000, 11123]
+20211010_214031: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.704210
+20211010_214031: Working on interval [10000, 10500] last Interval: [11000, 11123]
+20211010_214032: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.562672
+20211010_214032: Working on interval [10500, 11000] last Interval: [11000, 11123]
+20211010_214034: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:02.005588
+20211010_214034: Working on interval [11000, 11123] last Interval: [11000, 11123]
+20211010_214036: Results of interval [11000, 11123]: Successful - OK, 123 rows affected. - 0:00:01.293716
+20211010_214036: Finshed process loading data to PostgreSQL
+20211010_214036: Time Elapsed: 0:00:39.775041
+20211010_214036: Total Time Elapsed: 0:15:37.964185
+20211010_221616: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_223224: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211010_223224: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211010_223224: Time Elapsed: 0:16:08.350577
+20211010_223224: Starting process of loading data to PostgreSQL...
+20211010_223224: Working on interval [0, 500] last Interval: [12000, 12044]
+20211010_223226: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.570455
+20211010_223226: Working on interval [500, 1000] last Interval: [12000, 12044]
+20211010_223228: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.986778
+20211010_223228: Working on interval [1000, 1500] last Interval: [12000, 12044]
+20211010_223230: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.590323
+20211010_223230: Working on interval [1500, 2000] last Interval: [12000, 12044]
+20211010_223231: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.533578
+20211010_223231: Working on interval [2000, 2500] last Interval: [12000, 12044]
+20211010_223233: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.562793
+20211010_223233: Working on interval [2500, 3000] last Interval: [12000, 12044]
+20211010_223234: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.469331
+20211010_223234: Working on interval [3000, 3500] last Interval: [12000, 12044]
+20211010_223236: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.550869
+20211010_223236: Working on interval [3500, 4000] last Interval: [12000, 12044]
+20211010_223238: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:02.004276
+20211010_223238: Working on interval [4000, 4500] last Interval: [12000, 12044]
+20211010_223239: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.482878
+20211010_223239: Working on interval [4500, 5000] last Interval: [12000, 12044]
+20211010_223241: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.805534
+20211010_223241: Working on interval [5000, 5500] last Interval: [12000, 12044]
+20211010_223243: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:02.032170
+20211010_223243: Working on interval [5500, 6000] last Interval: [12000, 12044]
+20211010_223245: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.536560
+20211010_223245: Working on interval [6000, 6500] last Interval: [12000, 12044]
+20211010_223246: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.380917
+20211010_223246: Working on interval [6500, 7000] last Interval: [12000, 12044]
+20211010_223248: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.533894
+20211010_223248: Working on interval [7000, 7500] last Interval: [12000, 12044]
+20211010_223249: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.576164
+20211010_223249: Working on interval [7500, 8000] last Interval: [12000, 12044]
+20211010_223251: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.503634
+20211010_223251: Working on interval [8000, 8500] last Interval: [12000, 12044]
+20211010_223253: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.688843
+20211010_223253: Working on interval [8500, 9000] last Interval: [12000, 12044]
+20211010_223254: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.610884
+20211010_223254: Working on interval [9000, 9500] last Interval: [12000, 12044]
+20211010_223256: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.630692
+20211010_223256: Working on interval [9500, 10000] last Interval: [12000, 12044]
+20211010_223258: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.632941
+20211010_223258: Working on interval [10000, 10500] last Interval: [12000, 12044]
+20211010_223259: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.616484
+20211010_223259: Working on interval [10500, 11000] last Interval: [12000, 12044]
+20211010_223301: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.975891
+20211010_223301: Working on interval [11000, 11500] last Interval: [12000, 12044]
+20211010_223303: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.950432
+20211010_223303: Working on interval [11500, 12000] last Interval: [12000, 12044]
+20211010_223305: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.621713
+20211010_223305: Working on interval [12000, 12044] last Interval: [12000, 12044]
+20211010_223306: Results of interval [12000, 12044]: Successful - OK, 44 rows affected. - 0:00:01.133964
+20211010_223306: Finshed process loading data to PostgreSQL
+20211010_223306: Time Elapsed: 0:00:41.739202
+20211010_223306: Total Time Elapsed: 0:16:50.102781
+20211010_225200: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_230737: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211010_230738: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211010_230738: Time Elapsed: 0:15:37.573019
+20211010_230738: Starting process of loading data to PostgreSQL...
+20211010_230738: Working on interval [0, 500] last Interval: [12000, 12393]
+20211010_230739: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.489065
+20211010_230739: Working on interval [500, 1000] last Interval: [12000, 12393]
+20211010_230741: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.847081
+20211010_230741: Working on interval [1000, 1500] last Interval: [12000, 12393]
+20211010_230743: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.739318
+20211010_230743: Working on interval [1500, 2000] last Interval: [12000, 12393]
+20211010_230744: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.545705
+20211010_230744: Working on interval [2000, 2500] last Interval: [12000, 12393]
+20211010_230747: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:02.867484
+20211010_230747: Working on interval [2500, 3000] last Interval: [12000, 12393]
+20211010_230749: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.495554
+20211010_230749: Working on interval [3000, 3500] last Interval: [12000, 12393]
+20211010_230750: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.540141
+20211010_230750: Working on interval [3500, 4000] last Interval: [12000, 12393]
+20211010_230752: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.807208
+20211010_230752: Working on interval [4000, 4500] last Interval: [12000, 12393]
+20211010_230754: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.551781
+20211010_230754: Working on interval [4500, 5000] last Interval: [12000, 12393]
+20211010_230755: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.538358
+20211010_230755: Working on interval [5000, 5500] last Interval: [12000, 12393]
+20211010_230757: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.767775
+20211010_230757: Working on interval [5500, 6000] last Interval: [12000, 12393]
+20211010_230759: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.505509
+20211010_230759: Working on interval [6000, 6500] last Interval: [12000, 12393]
+20211010_230800: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.443822
+20211010_230800: Working on interval [6500, 7000] last Interval: [12000, 12393]
+20211010_230802: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.586423
+20211010_230802: Working on interval [7000, 7500] last Interval: [12000, 12393]
+20211010_230803: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.616771
+20211010_230803: Working on interval [7500, 8000] last Interval: [12000, 12393]
+20211010_230805: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.583593
+20211010_230805: Working on interval [8000, 8500] last Interval: [12000, 12393]
+20211010_230807: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:02.028559
+20211010_230807: Working on interval [8500, 9000] last Interval: [12000, 12393]
+20211010_230808: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.425428
+20211010_230808: Working on interval [9000, 9500] last Interval: [12000, 12393]
+20211010_230810: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.620738
+20211010_230810: Working on interval [9500, 10000] last Interval: [12000, 12393]
+20211010_230812: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.761646
+20211010_230812: Working on interval [10000, 10500] last Interval: [12000, 12393]
+20211010_230814: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.645719
+20211010_230814: Working on interval [10500, 11000] last Interval: [12000, 12393]
+20211010_230815: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.643578
+20211010_230815: Working on interval [11000, 11500] last Interval: [12000, 12393]
+20211010_230817: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.996750
+20211010_230817: Working on interval [11500, 12000] last Interval: [12000, 12393]
+20211010_230819: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.402151
+20211010_230819: Working on interval [12000, 12393] last Interval: [12000, 12393]
+20211010_230820: Results of interval [12000, 12393]: Successful - OK, 393 rows affected. - 0:00:01.402613
+20211010_230820: Finshed process loading data to PostgreSQL
+20211010_230820: Time Elapsed: 0:00:42.606137
+20211010_230820: Total Time Elapsed: 0:16:20.195156
+20211010_233616: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211010_235154: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211010_235154: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211010_235154: Time Elapsed: 0:15:37.956010
+20211010_235154: Starting process of loading data to PostgreSQL...
+20211010_235154: Working on interval [0, 500] last Interval: [11500, 11901]
+20211010_235156: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.550649
+20211010_235156: Working on interval [500, 1000] last Interval: [11500, 11901]
+20211010_235157: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.483242
+20211010_235157: Working on interval [1000, 1500] last Interval: [11500, 11901]
+20211010_235159: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.550378
+20211010_235159: Working on interval [1500, 2000] last Interval: [11500, 11901]
+20211010_235200: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.593489
+20211010_235200: Working on interval [2000, 2500] last Interval: [11500, 11901]
+20211010_235202: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.482116
+20211010_235202: Working on interval [2500, 3000] last Interval: [11500, 11901]
+20211010_235203: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.503625
+20211010_235203: Working on interval [3000, 3500] last Interval: [11500, 11901]
+20211010_235205: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.467105
+20211010_235205: Working on interval [3500, 4000] last Interval: [11500, 11901]
+20211010_235206: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.547189
+20211010_235206: Working on interval [4000, 4500] last Interval: [11500, 11901]
+20211010_235208: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.540778
+20211010_235208: Working on interval [4500, 5000] last Interval: [11500, 11901]
+20211010_235209: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.390487
+20211010_235209: Working on interval [5000, 5500] last Interval: [11500, 11901]
+20211010_235211: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.615371
+20211010_235211: Working on interval [5500, 6000] last Interval: [11500, 11901]
+20211010_235212: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.476387
+20211010_235212: Working on interval [6000, 6500] last Interval: [11500, 11901]
+20211010_235214: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.482479
+20211010_235214: Working on interval [6500, 7000] last Interval: [11500, 11901]
+20211010_235216: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.566944
+20211010_235216: Working on interval [7000, 7500] last Interval: [11500, 11901]
+20211010_235217: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.567568
+20211010_235217: Working on interval [7500, 8000] last Interval: [11500, 11901]
+20211010_235219: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.679105
+20211010_235219: Working on interval [8000, 8500] last Interval: [11500, 11901]
+20211010_235220: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.505817
+20211010_235220: Working on interval [8500, 9000] last Interval: [11500, 11901]
+20211010_235222: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.607115
+20211010_235222: Working on interval [9000, 9500] last Interval: [11500, 11901]
+20211010_235224: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.599006
+20211010_235224: Working on interval [9500, 10000] last Interval: [11500, 11901]
+20211010_235225: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.616209
+20211010_235225: Working on interval [10000, 10500] last Interval: [11500, 11901]
+20211010_235227: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.913587
+20211010_235227: Working on interval [10500, 11000] last Interval: [11500, 11901]
+20211010_235229: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.634717
+20211010_235229: Working on interval [11000, 11500] last Interval: [11500, 11901]
+20211010_235231: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.535207
+20211010_235231: Working on interval [11500, 11901] last Interval: [11500, 11901]
+20211010_235233: Results of interval [11500, 11901]: Successful - OK, 401 rows affected. - 0:00:02.571221
+20211010_235233: Finshed process loading data to PostgreSQL
+20211010_235233: Time Elapsed: 0:00:39.177674
+20211010_235233: Total Time Elapsed: 0:16:17.149308

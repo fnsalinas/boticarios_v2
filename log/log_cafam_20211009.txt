@@ -1,0 +1,75 @@
+20211009_123727: Starting web crawling and scraping process with https://www.drogueriascafam.com.co
+20211009_123727: Creating a list of Category URLs.
+20211009_123733: Starting process with each URL.
+20211009_123734: Working on https://www.drogueriascafam.com.co/5--medicamentos
+20211009_123744: Working on https://www.drogueriascafam.com.co/7-no-formulados
+20211009_123754: Working on https://www.drogueriascafam.com.co/8-dermatologicos
+20211009_123802: Working on https://www.drogueriascafam.com.co/11-manejo-del-dolor
+20211009_123810: Working on https://www.drogueriascafam.com.co/285-tq-manejo-del-dolor
+20211009_130256: Starting web crawling and scraping process with https://www.drogueriascafam.com.co
+20211009_130256: Creating a list of Category URLs.
+20211009_130302: Starting process with each URL.
+20211009_130303: Working on https://www.drogueriascafam.com.co/5--medicamentos
+20211009_130313: Working on https://www.drogueriascafam.com.co/7-no-formulados
+20211009_130323: Working on https://www.drogueriascafam.com.co/8-dermatologicos
+20211009_130331: Working on https://www.drogueriascafam.com.co/11-manejo-del-dolor
+20211009_130340: Working on https://www.drogueriascafam.com.co/285-tq-manejo-del-dolor
+20211009_131107: Starting web crawling and scraping process with https://www.drogueriascafam.com.co
+20211009_131107: Creating a list of Category URLs.
+20211009_131111: Starting process with each URL.
+20211009_131112: Working on https://www.drogueriascafam.com.co/5--medicamentos
+20211009_131121: Working on https://www.drogueriascafam.com.co/7-no-formulados
+20211009_131132: Working on https://www.drogueriascafam.com.co/8-dermatologicos
+20211009_131140: Working on https://www.drogueriascafam.com.co/11-manejo-del-dolor
+20211009_131148: Working on https://www.drogueriascafam.com.co/285-tq-manejo-del-dolor
+20211009_135030: Starting web crawling and scraping process with https://www.drogueriascafam.com.co
+20211009_135030: Creating a list of Category URLs.
+20211009_135257: Starting web crawling and scraping process with https://www.drogueriascafam.com.co
+20211009_135257: Creating a list of Category URLs.
+20211009_135301: Starting process with each URL.
+20211009_135302: Working on https://www.drogueriascafam.com.co/5--medicamentos
+20211009_135311: Working on https://www.drogueriascafam.com.co/7-no-formulados
+20211009_135320: Working on https://www.drogueriascafam.com.co/8-dermatologicos
+20211009_135327: Working on https://www.drogueriascafam.com.co/11-manejo-del-dolor
+20211009_135335: Working on https://www.drogueriascafam.com.co/285-tq-manejo-del-dolor
+20211009_135703: Starting web crawling and scraping process with https://www.drogueriascafam.com.co
+20211009_135703: Creating a list of Category URLs.
+20211009_135707: Starting process with each URL.
+20211009_135708: Working on https://www.drogueriascafam.com.co/5--medicamentos
+20211009_135717: Working on https://www.drogueriascafam.com.co/7-no-formulados
+20211009_135727: Working on https://www.drogueriascafam.com.co/8-dermatologicos
+20211009_135734: Working on https://www.drogueriascafam.com.co/11-manejo-del-dolor
+20211009_135742: Working on https://www.drogueriascafam.com.co/285-tq-manejo-del-dolor
+20211009_140039: Starting web crawling and scraping process with https://www.drogueriascafam.com.co
+20211009_140039: Creating a list of Category URLs.
+20211009_140043: Starting process with each URL.
+20211009_140044: Working on https://www.drogueriascafam.com.co/5--medicamentos
+20211009_140054: Working on https://www.drogueriascafam.com.co/7-no-formulados
+20211009_140114: Working on https://www.drogueriascafam.com.co/8-dermatologicos
+20211009_140122: Working on https://www.drogueriascafam.com.co/11-manejo-del-dolor
+20211009_140129: Working on https://www.drogueriascafam.com.co/285-tq-manejo-del-dolor
+20211009_233406: Starting web crawling and scraping process with https://www.drogueriascafam.com.co
+20211009_233406: Creating a list of Category URLs.
+20211009_233412: Starting process with each URL.
+20211009_233413: Working on https://www.drogueriascafam.com.co/5--medicamentos
+20211009_233420: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=0
+20211009_233422: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=1
+20211009_233423: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=2
+20211009_233427: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=3
+20211009_233428: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=4
+20211009_233429: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=5
+20211009_233431: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=6
+20211009_233432: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=7
+20211009_233434: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=8
+20211009_233435: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=9
+20211009_233436: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=10
+20211009_233437: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=11
+20211009_233439: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=12
+20211009_233440: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=13
+20211009_233441: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=14
+20211009_233442: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=15
+20211009_233443: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=16
+20211009_233445: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=17
+20211009_233446: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=18
+20211009_233448: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=19
+20211009_233449: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=20

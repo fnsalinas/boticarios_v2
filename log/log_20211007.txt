@@ -1,0 +1,2849 @@
+20211007_081411: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211007_081411: Creating a list of Category URLs.
+20211007_081421: Starting process with each URL.
+20211007_081422: Working on https://www.drogueriascolsubsidio.com/medicamentos
+20211007_081426: 08:14:26 Scroll nro: 1
+20211007_081428: 08:14:28 Scroll nro: 2
+20211007_081433: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre
+20211007_081435: 08:14:35 Scroll nro: 1
+20211007_081437: 08:14:37 Scroll nro: 2
+20211007_081439: 08:14:39 Scroll nro: 3
+20211007_081441: 08:14:41 Scroll nro: 4
+20211007_081443: 08:14:43 Scroll nro: 5
+20211007_081445: 08:14:45 Scroll nro: 6
+20211007_081447: 08:14:47 Scroll nro: 7
+20211007_081449: 08:14:49 Scroll nro: 8
+20211007_081451: 08:14:51 Scroll nro: 9
+20211007_081453: 08:14:53 Scroll nro: 10
+20211007_081455: 08:14:55 Scroll nro: 11
+20211007_081458: 08:14:58 Scroll nro: 12
+20211007_081500: 08:15:00 Scroll nro: 13
+20211007_081502: 08:15:02 Scroll nro: 14
+20211007_081504: 08:15:04 Scroll nro: 15
+20211007_081506: 08:15:06 Scroll nro: 16
+20211007_081510: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor
+20211007_081510: 08:15:10 Scroll nro: 1
+20211007_081512: 08:15:12 Scroll nro: 2
+20211007_081514: 08:15:14 Scroll nro: 3
+20211007_081516: 08:15:16 Scroll nro: 4
+20211007_081519: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-fuerte
+20211007_081519: 08:15:19 Scroll nro: 1
+20211007_081521: 08:15:21 Scroll nro: 2
+20211007_081523: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-general
+20211007_081524: 08:15:24 Scroll nro: 1
+20211007_081526: 08:15:26 Scroll nro: 2
+20211007_081528: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/abdominal-y-colico
+20211007_081529: 08:15:29 Scroll nro: 1
+20211007_081531: 08:15:31 Scroll nro: 2
+20211007_081533: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-ninos
+20211007_081534: 08:15:34 Scroll nro: 1
+20211007_081536: 08:15:36 Scroll nro: 2
+20211007_081538: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios
+20211007_081539: 08:15:39 Scroll nro: 1
+20211007_081541: 08:15:41 Scroll nro: 2
+20211007_081543: 08:15:43 Scroll nro: 3
+20211007_081545: 08:15:45 Scroll nro: 4
+20211007_081547: 08:15:47 Scroll nro: 5
+20211007_081549: 08:15:49 Scroll nro: 6
+20211007_081552: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/algodon-curas-gasas-y-vendas
+20211007_081553: 08:15:53 Scroll nro: 1
+20211007_081555: 08:15:55 Scroll nro: 2
+20211007_081557: 08:15:57 Scroll nro: 3
+20211007_081559: 08:15:59 Scroll nro: 4
+20211007_081601: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/antisepticos
+20211007_081602: 08:16:02 Scroll nro: 1
+20211007_081604: 08:16:04 Scroll nro: 2
+20211007_081606: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal
+20211007_081606: 08:16:06 Scroll nro: 1
+20211007_081608: 08:16:08 Scroll nro: 2
+20211007_081610: 08:16:10 Scroll nro: 3
+20211007_081612: 08:16:12 Scroll nro: 4
+20211007_081615: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/descongestionantes
+20211007_081616: 08:16:16 Scroll nro: 1
+20211007_081618: 08:16:18 Scroll nro: 2
+20211007_081620: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/garganta
+20211007_081621: 08:16:21 Scroll nro: 1
+20211007_081624: 08:16:24 Scroll nro: 2
+20211007_081626: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/gripa
+20211007_081627: 08:16:27 Scroll nro: 1
+20211007_081629: 08:16:29 Scroll nro: 2
+20211007_081631: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/tos
+20211007_081632: 08:16:32 Scroll nro: 1
+20211007_081634: 08:16:34 Scroll nro: 2
+20211007_081636: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/bienestar-digestivo
+20211007_081637: 08:16:37 Scroll nro: 1
+20211007_081639: 08:16:39 Scroll nro: 2
+20211007_081641: 08:16:41 Scroll nro: 3
+20211007_081643: 08:16:43 Scroll nro: 4
+20211007_081645: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual
+20211007_081646: 08:16:46 Scroll nro: 1
+20211007_081648: 08:16:48 Scroll nro: 2
+20211007_081650: 08:16:50 Scroll nro: 3
+20211007_081653: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/lubricantes-y-dispositivos
+20211007_081654: 08:16:54 Scroll nro: 1
+20211007_081656: 08:16:56 Scroll nro: 2
+20211007_081658: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/preservativos
+20211007_081658: 08:16:58 Scroll nro: 1
+20211007_081700: 08:17:00 Scroll nro: 2
+20211007_081702: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/pruebas-de-embarazo
+20211007_081703: 08:17:03 Scroll nro: 1
+20211007_081705: 08:17:05 Scroll nro: 2
+20211007_081707: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/cremas-y-ovulos
+20211007_081707: 08:17:07 Scroll nro: 1
+20211007_081709: 08:17:09 Scroll nro: 2
+20211007_081711: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa
+20211007_081712: 08:17:12 Scroll nro: 1
+20211007_081714: 08:17:14 Scroll nro: 2
+20211007_081716: 08:17:16 Scroll nro: 3
+20211007_081718: 08:17:18 Scroll nro: 4
+20211007_081721: 08:17:21 Scroll nro: 5
+20211007_081723: 08:17:23 Scroll nro: 6
+20211007_081725: 08:17:25 Scroll nro: 7
+20211007_081727: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/naturales
+20211007_081728: 08:17:28 Scroll nro: 1
+20211007_081730: 08:17:30 Scroll nro: 2
+20211007_081732: 08:17:32 Scroll nro: 3
+20211007_081734: 08:17:34 Scroll nro: 4
+20211007_081736: 08:17:36 Scroll nro: 5
+20211007_081738: 08:17:38 Scroll nro: 6
+20211007_081741: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/homeopaticos
+20211007_081742: 08:17:42 Scroll nro: 1
+20211007_081744: 08:17:44 Scroll nro: 2
+20211007_081746: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos
+20211007_081747: 08:17:47 Scroll nro: 1
+20211007_081749: 08:17:49 Scroll nro: 2
+20211007_081751: 08:17:51 Scroll nro: 3
+20211007_081753: 08:17:53 Scroll nro: 4
+20211007_081755: 08:17:55 Scroll nro: 5
+20211007_081757: 08:17:57 Scroll nro: 6
+20211007_081759: 08:17:59 Scroll nro: 7
+20211007_081801: 08:18:01 Scroll nro: 8
+20211007_081803: 08:18:03 Scroll nro: 9
+20211007_081805: 08:18:05 Scroll nro: 10
+20211007_081807: 08:18:07 Scroll nro: 11
+20211007_081809: 08:18:09 Scroll nro: 12
+20211007_081813: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-corporal
+20211007_081814: 08:18:14 Scroll nro: 1
+20211007_081816: 08:18:16 Scroll nro: 2
+20211007_081818: 08:18:18 Scroll nro: 3
+20211007_081820: 08:18:20 Scroll nro: 4
+20211007_081823: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-capilar
+20211007_081824: 08:18:24 Scroll nro: 1
+20211007_081826: 08:18:26 Scroll nro: 2
+20211007_081828: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-facial
+20211007_081829: 08:18:29 Scroll nro: 1
+20211007_081831: 08:18:31 Scroll nro: 2
+20211007_081833: 08:18:33 Scroll nro: 3
+20211007_081835: 08:18:35 Scroll nro: 4
+20211007_081838: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/proteccion-solar
+20211007_081839: 08:18:39 Scroll nro: 1
+20211007_081841: 08:18:41 Scroll nro: 2
+20211007_081843: 08:18:43 Scroll nro: 3
+20211007_081845: Working on https://www.drogueriascolsubsidio.com/medicamentos/formulados
+20211007_081846: 08:18:46 Scroll nro: 1
+20211007_081848: 08:18:48 Scroll nro: 2
+20211007_081850: 08:18:50 Scroll nro: 3
+20211007_081852: 08:18:52 Scroll nro: 4
+20211007_081854: 08:18:54 Scroll nro: 5
+20211007_081856: 08:18:56 Scroll nro: 6
+20211007_081858: 08:18:58 Scroll nro: 7
+20211007_081900: 08:19:00 Scroll nro: 8
+20211007_081902: 08:19:02 Scroll nro: 9
+20211007_081905: 08:19:05 Scroll nro: 10
+20211007_081907: 08:19:07 Scroll nro: 11
+20211007_081909: 08:19:09 Scroll nro: 12
+20211007_081911: 08:19:11 Scroll nro: 13
+20211007_081913: 08:19:13 Scroll nro: 14
+20211007_081915: 08:19:15 Scroll nro: 15
+20211007_081917: 08:19:17 Scroll nro: 16
+20211007_081919: 08:19:19 Scroll nro: 17
+20211007_081921: 08:19:21 Scroll nro: 18
+20211007_081923: 08:19:23 Scroll nro: 19
+20211007_081926: 08:19:26 Scroll nro: 20
+20211007_081928: 08:19:28 Scroll nro: 21
+20211007_081930: 08:19:30 Scroll nro: 22
+20211007_081933: 08:19:33 Scroll nro: 23
+20211007_081935: 08:19:35 Scroll nro: 24
+20211007_081939: 08:19:39 Scroll nro: 25
+20211007_081941: 08:19:41 Scroll nro: 26
+20211007_081944: 08:19:44 Scroll nro: 27
+20211007_081947: 08:19:47 Scroll nro: 28
+20211007_081949: 08:19:49 Scroll nro: 29
+20211007_081952: 08:19:52 Scroll nro: 30
+20211007_081955: 08:19:55 Scroll nro: 31
+20211007_081958: 08:19:58 Scroll nro: 32
+20211007_082000: 08:20:00 Scroll nro: 33
+20211007_082003: 08:20:03 Scroll nro: 34
+20211007_082006: 08:20:06 Scroll nro: 35
+20211007_082009: 08:20:09 Scroll nro: 36
+20211007_082012: 08:20:12 Scroll nro: 37
+20211007_082015: 08:20:15 Scroll nro: 38
+20211007_082019: 08:20:19 Scroll nro: 39
+20211007_082022: 08:20:22 Scroll nro: 40
+20211007_082025: 08:20:25 Scroll nro: 41
+20211007_082030: 08:20:30 Scroll nro: 42
+20211007_082034: 08:20:34 Scroll nro: 43
+20211007_082036: 08:20:36 Scroll nro: 44
+20211007_082044: Working on https://www.drogueriascolsubsidio.com/activacion/mka
+20211007_082045: 08:20:45 Scroll nro: 1
+20211007_082048: 08:20:48 Scroll nro: 2
+20211007_082050: 08:20:50 Scroll nro: 3
+20211007_082052: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable
+20211007_082054: 08:20:54 Scroll nro: 1
+20211007_082056: 08:20:56 Scroll nro: 2
+20211007_082058: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/vitaminas
+20211007_082059: 08:20:59 Scroll nro: 1
+20211007_082101: 08:21:01 Scroll nro: 2
+20211007_082103: 08:21:03 Scroll nro: 3
+20211007_082105: 08:21:05 Scroll nro: 4
+20211007_082107: 08:21:07 Scroll nro: 5
+20211007_082109: 08:21:09 Scroll nro: 6
+20211007_082111: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/suplementos
+20211007_082113: 08:21:13 Scroll nro: 1
+20211007_082115: 08:21:15 Scroll nro: 2
+20211007_082117: 08:21:17 Scroll nro: 3
+20211007_082119: 08:21:19 Scroll nro: 4
+20211007_082121: 08:21:21 Scroll nro: 5
+20211007_082123: 08:21:23 Scroll nro: 6
+20211007_082125: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/nutricion-deportiva
+20211007_082127: 08:21:27 Scroll nro: 1
+20211007_082129: 08:21:29 Scroll nro: 2
+20211007_082131: Working on https://www.drogueriascolsubsidio.com/activacion/vitamina-c-la-sante
+20211007_082133: 08:21:33 Scroll nro: 1
+20211007_082135: Working on https://www.drogueriascolsubsidio.com/belleza
+20211007_082137: 08:21:37 Scroll nro: 1
+20211007_082139: 08:21:39 Scroll nro: 2
+20211007_082142: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos
+20211007_082142: 08:21:42 Scroll nro: 1
+20211007_082145: 08:21:45 Scroll nro: 2
+20211007_082147: 08:21:47 Scroll nro: 3
+20211007_082149: 08:21:49 Scroll nro: 4
+20211007_082151: 08:21:51 Scroll nro: 5
+20211007_082153: 08:21:53 Scroll nro: 6
+20211007_082155: 08:21:55 Scroll nro: 7
+20211007_082157: 08:21:57 Scroll nro: 8
+20211007_082159: 08:21:59 Scroll nro: 9
+20211007_082201: 08:22:01 Scroll nro: 10
+20211007_082203: 08:22:03 Scroll nro: 11
+20211007_082206: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/ojos
+20211007_082207: 08:22:07 Scroll nro: 1
+20211007_082209: 08:22:09 Scroll nro: 2
+20211007_082211: 08:22:11 Scroll nro: 3
+20211007_082214: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/labios
+20211007_082215: 08:22:15 Scroll nro: 1
+20211007_082217: 08:22:17 Scroll nro: 2
+20211007_082219: 08:22:19 Scroll nro: 3
+20211007_082221: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/rostro
+20211007_082222: 08:22:22 Scroll nro: 1
+20211007_082224: 08:22:24 Scroll nro: 2
+20211007_082226: 08:22:26 Scroll nro: 3
+20211007_082228: 08:22:28 Scroll nro: 4
+20211007_082231: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/unas
+20211007_082232: 08:22:32 Scroll nro: 1
+20211007_082234: 08:22:34 Scroll nro: 2
+20211007_082236: Working on https://www.drogueriascolsubsidio.com/belleza/dermocosmetica
+20211007_082237: 08:22:37 Scroll nro: 1
+20211007_082239: 08:22:39 Scroll nro: 2
+20211007_082241: 08:22:41 Scroll nro: 3
+20211007_082243: 08:22:43 Scroll nro: 4
+20211007_082245: 08:22:45 Scroll nro: 5
+20211007_082247: 08:22:47 Scroll nro: 6
+20211007_082250: Working on https://www.drogueriascolsubsidio.com/activacion/isdin-fotoproteccion
+20211007_082251: 08:22:51 Scroll nro: 1
+20211007_082253: 08:22:53 Scroll nro: 2
+20211007_082255: 08:22:55 Scroll nro: 3
+20211007_082257: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes
+20211007_082300: 08:23:00 Scroll nro: 1
+20211007_082302: 08:23:02 Scroll nro: 2
+20211007_082304: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion
+20211007_082305: 08:23:05 Scroll nro: 1
+20211007_082307: 08:23:07 Scroll nro: 2
+20211007_082309: 08:23:09 Scroll nro: 3
+20211007_082311: 08:23:11 Scroll nro: 4
+20211007_082313: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/formulas-infantiles
+20211007_082314: 08:23:14 Scroll nro: 1
+20211007_082316: 08:23:16 Scroll nro: 2
+20211007_082318: 08:23:18 Scroll nro: 3
+20211007_082321: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/compotas-y-cerales
+20211007_082322: 08:23:22 Scroll nro: 1
+20211007_082324: 08:23:24 Scroll nro: 2
+20211007_082326: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/accesorios
+20211007_082327: 08:23:27 Scroll nro: 1
+20211007_082329: 08:23:29 Scroll nro: 2
+20211007_082331: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-de-la-mama
+20211007_082332: 08:23:32 Scroll nro: 1
+20211007_082334: 08:23:34 Scroll nro: 2
+20211007_082336: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-del-bebe
+20211007_082337: 08:23:37 Scroll nro: 1
+20211007_082339: 08:23:39 Scroll nro: 2
+20211007_082341: 08:23:41 Scroll nro: 3
+20211007_082343: 08:23:43 Scroll nro: 4
+20211007_082346: Working on https://www.drogueriascolsubsidio.com/activacion/winny
+20211007_082347: 08:23:47 Scroll nro: 1
+20211007_082349: 08:23:49 Scroll nro: 2
+20211007_082351: 08:23:51 Scroll nro: 3
+20211007_082353: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal
+20211007_082355: 08:23:55 Scroll nro: 1
+20211007_082357: 08:23:57 Scroll nro: 2
+20211007_082359: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral
+20211007_082400: 08:24:00 Scroll nro: 1
+20211007_082402: 08:24:02 Scroll nro: 2
+20211007_082404: 08:24:04 Scroll nro: 3
+20211007_082406: 08:24:06 Scroll nro: 4
+20211007_082408: 08:24:08 Scroll nro: 5
+20211007_082410: 08:24:10 Scroll nro: 6
+20211007_082412: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cremas-dentales
+20211007_082413: 08:24:13 Scroll nro: 1
+20211007_082415: 08:24:15 Scroll nro: 2
+20211007_082417: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cepillos-dentales
+20211007_082417: 08:24:17 Scroll nro: 1
+20211007_082419: 08:24:19 Scroll nro: 2
+20211007_082422: 08:24:22 Scroll nro: 3
+20211007_082424: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/enjuagues-bucales
+20211007_082425: 08:24:25 Scroll nro: 1
+20211007_082427: 08:24:27 Scroll nro: 2
+20211007_082429: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/sedas-dentales
+20211007_082430: 08:24:30 Scroll nro: 1
+20211007_082432: 08:24:32 Scroll nro: 2
+20211007_082434: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/especializados
+20211007_082434: 08:24:34 Scroll nro: 1
+20211007_082436: 08:24:36 Scroll nro: 2
+20211007_082438: 08:24:38 Scroll nro: 3
+20211007_082441: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel
+20211007_082442: 08:24:42 Scroll nro: 1
+20211007_082444: 08:24:44 Scroll nro: 2
+20211007_082446: 08:24:46 Scroll nro: 3
+20211007_082448: 08:24:48 Scroll nro: 4
+20211007_082450: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/proteccion-solar
+20211007_082451: 08:24:51 Scroll nro: 1
+20211007_082453: 08:24:53 Scroll nro: 2
+20211007_082455: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-corporal-repelentes-e-insecticidas
+20211007_082456: 08:24:56 Scroll nro: 1
+20211007_082458: 08:24:58 Scroll nro: 2
+20211007_082500: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-facial
+20211007_082501: 08:25:01 Scroll nro: 1
+20211007_082503: 08:25:03 Scroll nro: 2
+20211007_082505: 08:25:05 Scroll nro: 3
+20211007_082508: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal
+20211007_082509: 08:25:09 Scroll nro: 1
+20211007_082511: 08:25:11 Scroll nro: 2
+20211007_082513: 08:25:13 Scroll nro: 3
+20211007_082515: 08:25:15 Scroll nro: 4
+20211007_082517: 08:25:17 Scroll nro: 5
+20211007_082519: 08:25:19 Scroll nro: 6
+20211007_082521: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/desodorantes
+20211007_082523: 08:25:23 Scroll nro: 1
+20211007_082525: 08:25:25 Scroll nro: 2
+20211007_082527: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/jabones-y-gel-antibacterial
+20211007_082528: 08:25:28 Scroll nro: 1
+20211007_082530: 08:25:30 Scroll nro: 2
+20211007_082532: 08:25:32 Scroll nro: 3
+20211007_082534: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/afeitada-y-depilacion
+20211007_082535: 08:25:35 Scroll nro: 1
+20211007_082537: 08:25:37 Scroll nro: 2
+20211007_082539: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/cuidado-para-pies
+20211007_082540: 08:25:40 Scroll nro: 1
+20211007_082542: 08:25:42 Scroll nro: 2
+20211007_082544: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/panuelos-faciales
+20211007_082545: 08:25:45 Scroll nro: 1
+20211007_082547: 08:25:47 Scroll nro: 2
+20211007_082549: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina
+20211007_082550: 08:25:50 Scroll nro: 1
+20211007_082552: 08:25:52 Scroll nro: 2
+20211007_082554: 08:25:54 Scroll nro: 3
+20211007_082556: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/higiene-intima
+20211007_082557: 08:25:57 Scroll nro: 1
+20211007_082559: 08:25:59 Scroll nro: 2
+20211007_082601: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/protectores
+20211007_082602: 08:26:02 Scroll nro: 1
+20211007_082604: 08:26:04 Scroll nro: 2
+20211007_082606: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/tampones
+20211007_082606: 08:26:06 Scroll nro: 1
+20211007_082608: 08:26:08 Scroll nro: 2
+20211007_082611: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/toallas
+20211007_082612: 08:26:12 Scroll nro: 1
+20211007_082614: 08:26:14 Scroll nro: 2
+20211007_082616: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-del-cabello
+20211007_082617: 08:26:17 Scroll nro: 1
+20211007_082619: 08:26:19 Scroll nro: 2
+20211007_082621: 08:26:21 Scroll nro: 3
+20211007_082623: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/incontinencia
+20211007_082624: 08:26:24 Scroll nro: 1
+20211007_082626: 08:26:26 Scroll nro: 2
+20211007_082629: Working on https://www.drogueriascolsubsidio.com/activacion/PnG
+20211007_082629: 08:26:29 Scroll nro: 1
+20211007_082631: 08:26:31 Scroll nro: 2
+20211007_082633: 08:26:33 Scroll nro: 3
+20211007_082636: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa
+20211007_082637: 08:26:37 Scroll nro: 1
+20211007_082639: 08:26:39 Scroll nro: 2
+20211007_082642: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/terapia-respiratoria
+20211007_082646: 08:26:46 Scroll nro: 1
+20211007_082648: 08:26:48 Scroll nro: 2
+20211007_082650: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/ortopedia-y-movilidad
+20211007_082650: 08:26:50 Scroll nro: 1
+20211007_082653: 08:26:53 Scroll nro: 2
+20211007_082655: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/fisioterapia-y-rehabilitacion
+20211007_082655: 08:26:55 Scroll nro: 1
+20211007_082657: 08:26:57 Scroll nro: 2
+20211007_082659: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/medicion-y-diagnostico
+20211007_082700: 08:27:00 Scroll nro: 1
+20211007_082702: 08:27:02 Scroll nro: 2
+20211007_082704: 08:27:04 Scroll nro: 3
+20211007_082706: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/accesorios-medicos
+20211007_082707: 08:27:07 Scroll nro: 1
+20211007_082709: 08:27:09 Scroll nro: 2
+20211007_082712: 08:27:12 Scroll nro: 3
+20211007_082714: 08:27:14 Scroll nro: 4
+20211007_082716: 08:27:16 Scroll nro: 5
+20211007_082718: 08:27:18 Scroll nro: 6
+20211007_082720: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas
+20211007_082722: 08:27:22 Scroll nro: 1
+20211007_082724: 08:27:24 Scroll nro: 2
+20211007_082726: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/snacks
+20211007_082726: 08:27:26 Scroll nro: 1
+20211007_082728: 08:27:28 Scroll nro: 2
+20211007_082730: 08:27:30 Scroll nro: 3
+20211007_082733: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/dulces-y-chocolates
+20211007_082734: 08:27:34 Scroll nro: 1
+20211007_082736: 08:27:36 Scroll nro: 2
+20211007_082738: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/helados
+20211007_082738: 08:27:38 Scroll nro: 1
+20211007_082740: 08:27:40 Scroll nro: 2
+20211007_082742: 08:27:42 Scroll nro: 3
+20211007_082744: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/lacteos
+20211007_082745: 08:27:45 Scroll nro: 1
+20211007_082747: 08:27:47 Scroll nro: 2
+20211007_082749: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/bebidas
+20211007_082750: 08:27:50 Scroll nro: 1
+20211007_082752: 08:27:52 Scroll nro: 2
+20211007_082754: 08:27:54 Scroll nro: 3
+20211007_082756: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-de-la-piel
+20211007_082758: 08:27:58 Scroll nro: 1
+20211007_082800: Working on https://www.drogueriascolsubsidio.com/loreal/productos/cuidado-facial
+20211007_082801: 08:28:01 Scroll nro: 1
+20211007_082803: 08:28:03 Scroll nro: 2
+20211007_082805: 08:28:05 Scroll nro: 3
+20211007_082807: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar
+20211007_082808: 08:28:08 Scroll nro: 1
+20211007_082810: 08:28:10 Scroll nro: 2
+20211007_082812: 08:28:12 Scroll nro: 3
+20211007_082814: Working on https://www.drogueriascolsubsidio.com/loreal/maquillaje
+20211007_082815: 08:28:15 Scroll nro: 1
+20211007_082817: 08:28:17 Scroll nro: 2
+20211007_082819: 08:28:19 Scroll nro: 3
+20211007_082821: 08:28:21 Scroll nro: 4
+20211007_082823: 08:28:23 Scroll nro: 5
+20211007_082825: 08:28:25 Scroll nro: 6
+20211007_082828: Working on https://www.drogueriascolsubsidio.com/loreal/productos/rostro
+20211007_082829: 08:28:29 Scroll nro: 1
+20211007_082831: 08:28:31 Scroll nro: 2
+20211007_082833: 08:28:33 Scroll nro: 3
+20211007_082835: Working on https://www.drogueriascolsubsidio.com/loreal/productos/ojos
+20211007_082836: 08:28:36 Scroll nro: 1
+20211007_082838: 08:28:38 Scroll nro: 2
+20211007_082840: 08:28:40 Scroll nro: 3
+20211007_082843: Working on https://www.drogueriascolsubsidio.com/loreal/productos/labios
+20211007_082844: 08:28:44 Scroll nro: 1
+20211007_082846: 08:28:46 Scroll nro: 2
+20211007_082848: 08:28:48 Scroll nro: 3
+20211007_082850: Working on https://www.drogueriascolsubsidio.com/loreal/productos/unas
+20211007_082851: 08:28:51 Scroll nro: 1
+20211007_082853: 08:28:53 Scroll nro: 2
+20211007_082855: 08:28:55 Scroll nro: 3
+20211007_082857: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/shampoo-acondicionadores
+20211007_082858: 08:28:58 Scroll nro: 1
+20211007_082900: 08:29:00 Scroll nro: 2
+20211007_082902: 08:29:02 Scroll nro: 3
+20211007_082904: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/tratamientos
+20211007_082905: 08:29:05 Scroll nro: 1
+20211007_082907: 08:29:07 Scroll nro: 2
+20211007_082909: 08:29:09 Scroll nro: 3
+20211007_082911: Working on https://www.drogueriascolsubsidio.com/loreal/dermocosmetica
+20211007_082913: 08:29:13 Scroll nro: 1
+20211007_082915: 08:29:15 Scroll nro: 2
+20211007_082917: 08:29:17 Scroll nro: 3
+20211007_082919: Lenght of productDataList: 100
+20211007_082919: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211007_082919: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211007_082919: Time Elapsed: 0:15:08.488645
+20211007_082919: Starting process of loading data to PostgreSQL...
+20211007_082920: Working on interval [0, 500] last Interval: [12000, 12087]
+20211007_082921: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.504834
+20211007_082921: Working on interval [500, 1000] last Interval: [12000, 12087]
+20211007_082923: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.436195
+20211007_082923: Working on interval [1000, 1500] last Interval: [12000, 12087]
+20211007_082924: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.621500
+20211007_082924: Working on interval [1500, 2000] last Interval: [12000, 12087]
+20211007_082926: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.458491
+20211007_082926: Working on interval [2000, 2500] last Interval: [12000, 12087]
+20211007_082927: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.520769
+20211007_082927: Working on interval [2500, 3000] last Interval: [12000, 12087]
+20211007_082929: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.574323
+20211007_082929: Working on interval [3000, 3500] last Interval: [12000, 12087]
+20211007_082930: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.421119
+20211007_082930: Working on interval [3500, 4000] last Interval: [12000, 12087]
+20211007_082932: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.805968
+20211007_082932: Working on interval [4000, 4500] last Interval: [12000, 12087]
+20211007_082934: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.431136
+20211007_082934: Working on interval [4500, 5000] last Interval: [12000, 12087]
+20211007_082936: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.900131
+20211007_082936: Working on interval [5000, 5500] last Interval: [12000, 12087]
+20211007_082937: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.527313
+20211007_082937: Working on interval [5500, 6000] last Interval: [12000, 12087]
+20211007_082939: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.434899
+20211007_082939: Working on interval [6000, 6500] last Interval: [12000, 12087]
+20211007_082940: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.404909
+20211007_082940: Working on interval [6500, 7000] last Interval: [12000, 12087]
+20211007_082942: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.736449
+20211007_082942: Working on interval [7000, 7500] last Interval: [12000, 12087]
+20211007_082943: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.474853
+20211007_082943: Working on interval [7500, 8000] last Interval: [12000, 12087]
+20211007_082945: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.444530
+20211007_082945: Working on interval [8000, 8500] last Interval: [12000, 12087]
+20211007_082946: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.576902
+20211007_082946: Working on interval [8500, 9000] last Interval: [12000, 12087]
+20211007_082948: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.572927
+20211007_082948: Working on interval [9000, 9500] last Interval: [12000, 12087]
+20211007_082950: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.945293
+20211007_082950: Working on interval [9500, 10000] last Interval: [12000, 12087]
+20211007_082952: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.582720
+20211007_082952: Working on interval [10000, 10500] last Interval: [12000, 12087]
+20211007_082953: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.836807
+20211007_082953: Working on interval [10500, 11000] last Interval: [12000, 12087]
+20211007_082955: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.712075
+20211007_082955: Working on interval [11000, 11500] last Interval: [12000, 12087]
+20211007_082957: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.532639
+20211007_082957: Working on interval [11500, 12000] last Interval: [12000, 12087]
+20211007_082958: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.605147
+20211007_082958: Working on interval [12000, 12087] last Interval: [12000, 12087]
+20211007_083000: Results of interval [12000, 12087]: Successful - OK, 87 rows affected. - 0:00:01.249579
+20211007_083000: Finshed process loading data to PostgreSQL
+20211007_083000: Time Elapsed: 0:00:40.118901
+20211007_083000: Total Time Elapsed: 0:15:48.623184
+20211007_110036: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211007_110036: Creating a list of Category URLs.
+20211007_110046: Starting process with each URL.
+20211007_110047: Working on https://www.drogueriascolsubsidio.com/medicamentos
+20211007_110050: 11:00:50 Scroll nro: 1
+20211007_110052: 11:00:52 Scroll nro: 2
+20211007_110054: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre
+20211007_110056: 11:00:56 Scroll nro: 1
+20211007_110058: 11:00:58 Scroll nro: 2
+20211007_110100: 11:01:00 Scroll nro: 3
+20211007_110103: 11:01:03 Scroll nro: 4
+20211007_110105: 11:01:05 Scroll nro: 5
+20211007_110107: 11:01:07 Scroll nro: 6
+20211007_110109: 11:01:09 Scroll nro: 7
+20211007_110111: 11:01:11 Scroll nro: 8
+20211007_110113: 11:01:13 Scroll nro: 9
+20211007_110115: 11:01:15 Scroll nro: 10
+20211007_110117: 11:01:17 Scroll nro: 11
+20211007_110119: 11:01:19 Scroll nro: 12
+20211007_110121: 11:01:21 Scroll nro: 13
+20211007_110123: 11:01:23 Scroll nro: 14
+20211007_110126: 11:01:26 Scroll nro: 15
+20211007_110128: 11:01:28 Scroll nro: 16
+20211007_110133: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor
+20211007_110135: 11:01:35 Scroll nro: 1
+20211007_110137: 11:01:37 Scroll nro: 2
+20211007_110139: 11:01:39 Scroll nro: 3
+20211007_110141: 11:01:41 Scroll nro: 4
+20211007_110143: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-fuerte
+20211007_110145: 11:01:45 Scroll nro: 1
+20211007_110147: 11:01:47 Scroll nro: 2
+20211007_110149: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-general
+20211007_110151: 11:01:51 Scroll nro: 1
+20211007_110153: 11:01:53 Scroll nro: 2
+20211007_110155: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/abdominal-y-colico
+20211007_110156: 11:01:56 Scroll nro: 1
+20211007_110158: 11:01:58 Scroll nro: 2
+20211007_110200: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-ninos
+20211007_110202: 11:02:02 Scroll nro: 1
+20211007_110204: 11:02:04 Scroll nro: 2
+20211007_110206: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios
+20211007_110207: 11:02:07 Scroll nro: 1
+20211007_110209: 11:02:09 Scroll nro: 2
+20211007_110211: 11:02:11 Scroll nro: 3
+20211007_110213: 11:02:13 Scroll nro: 4
+20211007_110215: 11:02:15 Scroll nro: 5
+20211007_110217: 11:02:17 Scroll nro: 6
+20211007_110220: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/algodon-curas-gasas-y-vendas
+20211007_110220: 11:02:20 Scroll nro: 1
+20211007_110222: 11:02:22 Scroll nro: 2
+20211007_110225: 11:02:25 Scroll nro: 3
+20211007_110227: 11:02:27 Scroll nro: 4
+20211007_110229: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/antisepticos
+20211007_110230: 11:02:30 Scroll nro: 1
+20211007_110232: 11:02:32 Scroll nro: 2
+20211007_110234: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal
+20211007_110235: 11:02:35 Scroll nro: 1
+20211007_110237: 11:02:37 Scroll nro: 2
+20211007_110239: 11:02:39 Scroll nro: 3
+20211007_110241: 11:02:41 Scroll nro: 4
+20211007_110243: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/descongestionantes
+20211007_110244: 11:02:44 Scroll nro: 1
+20211007_110246: 11:02:46 Scroll nro: 2
+20211007_110249: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/garganta
+20211007_110249: 11:02:49 Scroll nro: 1
+20211007_110251: 11:02:51 Scroll nro: 2
+20211007_110254: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/gripa
+20211007_110254: 11:02:54 Scroll nro: 1
+20211007_110256: 11:02:56 Scroll nro: 2
+20211007_110259: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/tos
+20211007_110300: 11:03:00 Scroll nro: 1
+20211007_110302: 11:03:02 Scroll nro: 2
+20211007_110304: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/bienestar-digestivo
+20211007_110306: 11:03:06 Scroll nro: 1
+20211007_110308: 11:03:08 Scroll nro: 2
+20211007_110310: 11:03:10 Scroll nro: 3
+20211007_110312: 11:03:12 Scroll nro: 4
+20211007_110314: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual
+20211007_110317: 11:03:17 Scroll nro: 1
+20211007_110319: 11:03:19 Scroll nro: 2
+20211007_110321: 11:03:21 Scroll nro: 3
+20211007_110323: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/lubricantes-y-dispositivos
+20211007_110324: 11:03:24 Scroll nro: 1
+20211007_110326: 11:03:26 Scroll nro: 2
+20211007_110328: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/preservativos
+20211007_110330: 11:03:30 Scroll nro: 1
+20211007_110332: 11:03:32 Scroll nro: 2
+20211007_110334: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/pruebas-de-embarazo
+20211007_110335: 11:03:35 Scroll nro: 1
+20211007_110337: 11:03:37 Scroll nro: 2
+20211007_110339: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/cremas-y-ovulos
+20211007_110340: 11:03:40 Scroll nro: 1
+20211007_110342: 11:03:42 Scroll nro: 2
+20211007_110344: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa
+20211007_110345: 11:03:45 Scroll nro: 1
+20211007_110347: 11:03:47 Scroll nro: 2
+20211007_110349: 11:03:49 Scroll nro: 3
+20211007_110351: 11:03:51 Scroll nro: 4
+20211007_110353: 11:03:53 Scroll nro: 5
+20211007_110355: 11:03:55 Scroll nro: 6
+20211007_110357: 11:03:57 Scroll nro: 7
+20211007_110400: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/naturales
+20211007_110401: 11:04:01 Scroll nro: 1
+20211007_110403: 11:04:03 Scroll nro: 2
+20211007_110405: 11:04:05 Scroll nro: 3
+20211007_110407: 11:04:07 Scroll nro: 4
+20211007_110409: 11:04:09 Scroll nro: 5
+20211007_110411: 11:04:11 Scroll nro: 6
+20211007_110414: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/homeopaticos
+20211007_110415: 11:04:15 Scroll nro: 1
+20211007_110417: 11:04:17 Scroll nro: 2
+20211007_110419: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos
+20211007_110420: 11:04:20 Scroll nro: 1
+20211007_110422: 11:04:22 Scroll nro: 2
+20211007_110424: 11:04:24 Scroll nro: 3
+20211007_110426: 11:04:26 Scroll nro: 4
+20211007_110428: 11:04:28 Scroll nro: 5
+20211007_110431: 11:04:31 Scroll nro: 6
+20211007_110433: 11:04:33 Scroll nro: 7
+20211007_110435: 11:04:35 Scroll nro: 8
+20211007_110437: 11:04:37 Scroll nro: 9
+20211007_110439: 11:04:39 Scroll nro: 10
+20211007_110442: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-corporal
+20211007_110443: 11:04:43 Scroll nro: 1
+20211007_110445: 11:04:45 Scroll nro: 2
+20211007_110447: 11:04:47 Scroll nro: 3
+20211007_110449: 11:04:49 Scroll nro: 4
+20211007_110452: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-capilar
+20211007_110453: 11:04:53 Scroll nro: 1
+20211007_110455: 11:04:55 Scroll nro: 2
+20211007_110457: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-facial
+20211007_110500: 11:05:00 Scroll nro: 1
+20211007_110502: 11:05:02 Scroll nro: 2
+20211007_110504: 11:05:04 Scroll nro: 3
+20211007_110506: 11:05:06 Scroll nro: 4
+20211007_110508: 11:05:08 Scroll nro: 5
+20211007_110511: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/proteccion-solar
+20211007_110512: 11:05:12 Scroll nro: 1
+20211007_110514: 11:05:14 Scroll nro: 2
+20211007_110516: 11:05:16 Scroll nro: 3
+20211007_110518: Working on https://www.drogueriascolsubsidio.com/medicamentos/formulados
+20211007_110520: 11:05:20 Scroll nro: 1
+20211007_110522: 11:05:22 Scroll nro: 2
+20211007_110524: 11:05:24 Scroll nro: 3
+20211007_110526: 11:05:26 Scroll nro: 4
+20211007_110528: 11:05:28 Scroll nro: 5
+20211007_110530: 11:05:30 Scroll nro: 6
+20211007_110532: 11:05:32 Scroll nro: 7
+20211007_110534: 11:05:34 Scroll nro: 8
+20211007_110536: 11:05:36 Scroll nro: 9
+20211007_110538: 11:05:38 Scroll nro: 10
+20211007_110540: 11:05:40 Scroll nro: 11
+20211007_110542: 11:05:42 Scroll nro: 12
+20211007_110544: 11:05:44 Scroll nro: 13
+20211007_110547: 11:05:47 Scroll nro: 14
+20211007_110549: 11:05:49 Scroll nro: 15
+20211007_110551: 11:05:51 Scroll nro: 16
+20211007_110554: 11:05:54 Scroll nro: 17
+20211007_110556: 11:05:56 Scroll nro: 18
+20211007_110558: 11:05:58 Scroll nro: 19
+20211007_110600: 11:06:00 Scroll nro: 20
+20211007_110602: 11:06:02 Scroll nro: 21
+20211007_110605: 11:06:05 Scroll nro: 22
+20211007_110607: 11:06:07 Scroll nro: 23
+20211007_110609: 11:06:09 Scroll nro: 24
+20211007_110611: 11:06:11 Scroll nro: 25
+20211007_110614: 11:06:14 Scroll nro: 26
+20211007_110617: 11:06:17 Scroll nro: 27
+20211007_110619: 11:06:19 Scroll nro: 28
+20211007_110621: 11:06:21 Scroll nro: 29
+20211007_110624: 11:06:24 Scroll nro: 30
+20211007_110626: 11:06:26 Scroll nro: 31
+20211007_110631: 11:06:31 Scroll nro: 32
+20211007_110634: 11:06:34 Scroll nro: 33
+20211007_110639: 11:06:39 Scroll nro: 34
+20211007_110642: 11:06:42 Scroll nro: 35
+20211007_110647: 11:06:47 Scroll nro: 36
+20211007_110650: 11:06:50 Scroll nro: 37
+20211007_110654: 11:06:54 Scroll nro: 38
+20211007_110657: 11:06:57 Scroll nro: 39
+20211007_110703: 11:07:03 Scroll nro: 40
+20211007_110705: 11:07:05 Scroll nro: 41
+20211007_110713: Working on https://www.drogueriascolsubsidio.com/activacion/mka
+20211007_110714: 11:07:14 Scroll nro: 1
+20211007_110716: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable
+20211007_110722: 11:07:22 Scroll nro: 1
+20211007_110724: 11:07:24 Scroll nro: 2
+20211007_110726: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/vitaminas
+20211007_110728: 11:07:28 Scroll nro: 1
+20211007_110730: 11:07:30 Scroll nro: 2
+20211007_110732: 11:07:32 Scroll nro: 3
+20211007_110734: 11:07:34 Scroll nro: 4
+20211007_110736: 11:07:36 Scroll nro: 5
+20211007_110738: 11:07:38 Scroll nro: 6
+20211007_110740: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/suplementos
+20211007_110742: 11:07:42 Scroll nro: 1
+20211007_110744: 11:07:44 Scroll nro: 2
+20211007_110746: 11:07:46 Scroll nro: 3
+20211007_110748: 11:07:48 Scroll nro: 4
+20211007_110750: 11:07:50 Scroll nro: 5
+20211007_110752: 11:07:52 Scroll nro: 6
+20211007_110754: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/nutricion-deportiva
+20211007_110755: 11:07:55 Scroll nro: 1
+20211007_110757: 11:07:57 Scroll nro: 2
+20211007_110759: Working on https://www.drogueriascolsubsidio.com/activacion/vitamina-c-la-sante
+20211007_110801: 11:08:01 Scroll nro: 1
+20211007_110803: Working on https://www.drogueriascolsubsidio.com/belleza
+20211007_110805: 11:08:05 Scroll nro: 1
+20211007_110807: 11:08:07 Scroll nro: 2
+20211007_110809: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos
+20211007_110810: 11:08:10 Scroll nro: 1
+20211007_110812: 11:08:12 Scroll nro: 2
+20211007_110815: 11:08:15 Scroll nro: 3
+20211007_110817: 11:08:17 Scroll nro: 4
+20211007_110819: 11:08:19 Scroll nro: 5
+20211007_110821: 11:08:21 Scroll nro: 6
+20211007_110823: 11:08:23 Scroll nro: 7
+20211007_110825: 11:08:25 Scroll nro: 8
+20211007_110827: 11:08:27 Scroll nro: 9
+20211007_110829: 11:08:29 Scroll nro: 10
+20211007_110833: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/ojos
+20211007_110834: 11:08:34 Scroll nro: 1
+20211007_110836: 11:08:36 Scroll nro: 2
+20211007_110838: 11:08:38 Scroll nro: 3
+20211007_110840: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/labios
+20211007_110840: 11:08:40 Scroll nro: 1
+20211007_110842: 11:08:42 Scroll nro: 2
+20211007_110845: 11:08:45 Scroll nro: 3
+20211007_110847: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/rostro
+20211007_110847: 11:08:47 Scroll nro: 1
+20211007_110849: 11:08:49 Scroll nro: 2
+20211007_110851: 11:08:51 Scroll nro: 3
+20211007_110853: 11:08:53 Scroll nro: 4
+20211007_110855: 11:08:55 Scroll nro: 5
+20211007_110857: 11:08:57 Scroll nro: 6
+20211007_110900: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/unas
+20211007_110901: 11:09:01 Scroll nro: 1
+20211007_110903: 11:09:03 Scroll nro: 2
+20211007_110905: Working on https://www.drogueriascolsubsidio.com/belleza/dermocosmetica
+20211007_110906: 11:09:06 Scroll nro: 1
+20211007_110908: 11:09:08 Scroll nro: 2
+20211007_110910: 11:09:10 Scroll nro: 3
+20211007_110912: 11:09:12 Scroll nro: 4
+20211007_110915: 11:09:15 Scroll nro: 5
+20211007_110917: 11:09:17 Scroll nro: 6
+20211007_110919: Working on https://www.drogueriascolsubsidio.com/activacion/isdin-fotoproteccion
+20211007_110921: 11:09:21 Scroll nro: 1
+20211007_110923: 11:09:23 Scroll nro: 2
+20211007_110925: 11:09:25 Scroll nro: 3
+20211007_110927: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes
+20211007_110929: 11:09:29 Scroll nro: 1
+20211007_110931: 11:09:31 Scroll nro: 2
+20211007_110933: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion
+20211007_110934: 11:09:34 Scroll nro: 1
+20211007_110936: 11:09:36 Scroll nro: 2
+20211007_110938: 11:09:38 Scroll nro: 3
+20211007_110940: 11:09:40 Scroll nro: 4
+20211007_110943: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/formulas-infantiles
+20211007_110944: 11:09:44 Scroll nro: 1
+20211007_110946: 11:09:46 Scroll nro: 2
+20211007_110948: 11:09:48 Scroll nro: 3
+20211007_110951: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/compotas-y-cerales
+20211007_110952: 11:09:52 Scroll nro: 1
+20211007_110954: 11:09:54 Scroll nro: 2
+20211007_110956: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/accesorios
+20211007_110957: 11:09:57 Scroll nro: 1
+20211007_110959: 11:09:59 Scroll nro: 2
+20211007_111002: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-de-la-mama
+20211007_111003: 11:10:03 Scroll nro: 1
+20211007_111005: 11:10:05 Scroll nro: 2
+20211007_111007: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-del-bebe
+20211007_111008: 11:10:08 Scroll nro: 1
+20211007_111010: 11:10:10 Scroll nro: 2
+20211007_111012: 11:10:12 Scroll nro: 3
+20211007_111014: 11:10:14 Scroll nro: 4
+20211007_111017: Working on https://www.drogueriascolsubsidio.com/activacion/winny
+20211007_111018: 11:10:18 Scroll nro: 1
+20211007_111020: 11:10:20 Scroll nro: 2
+20211007_111022: 11:10:22 Scroll nro: 3
+20211007_111024: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal
+20211007_111027: 11:10:27 Scroll nro: 1
+20211007_111029: 11:10:29 Scroll nro: 2
+20211007_111031: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral
+20211007_111032: 11:10:32 Scroll nro: 1
+20211007_111034: 11:10:34 Scroll nro: 2
+20211007_111036: 11:10:36 Scroll nro: 3
+20211007_111038: 11:10:38 Scroll nro: 4
+20211007_111040: 11:10:40 Scroll nro: 5
+20211007_111042: 11:10:42 Scroll nro: 6
+20211007_111045: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cremas-dentales
+20211007_111046: 11:10:46 Scroll nro: 1
+20211007_111048: 11:10:48 Scroll nro: 2
+20211007_111050: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cepillos-dentales
+20211007_111051: 11:10:51 Scroll nro: 1
+20211007_111053: 11:10:53 Scroll nro: 2
+20211007_111055: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/enjuagues-bucales
+20211007_111056: 11:10:56 Scroll nro: 1
+20211007_111058: 11:10:58 Scroll nro: 2
+20211007_111100: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/sedas-dentales
+20211007_111101: 11:11:01 Scroll nro: 1
+20211007_111103: 11:11:03 Scroll nro: 2
+20211007_111105: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/especializados
+20211007_111106: 11:11:06 Scroll nro: 1
+20211007_111108: 11:11:08 Scroll nro: 2
+20211007_111111: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel
+20211007_111112: 11:11:12 Scroll nro: 1
+20211007_111114: 11:11:14 Scroll nro: 2
+20211007_111116: 11:11:16 Scroll nro: 3
+20211007_111118: 11:11:18 Scroll nro: 4
+20211007_111121: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/proteccion-solar
+20211007_111122: 11:11:22 Scroll nro: 1
+20211007_111124: 11:11:24 Scroll nro: 2
+20211007_111127: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-corporal-repelentes-e-insecticidas
+20211007_111127: 11:11:27 Scroll nro: 1
+20211007_111130: 11:11:30 Scroll nro: 2
+20211007_111132: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-facial
+20211007_111133: 11:11:33 Scroll nro: 1
+20211007_111135: 11:11:35 Scroll nro: 2
+20211007_111137: 11:11:37 Scroll nro: 3
+20211007_111139: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal
+20211007_111140: 11:11:40 Scroll nro: 1
+20211007_111142: 11:11:42 Scroll nro: 2
+20211007_111144: 11:11:44 Scroll nro: 3
+20211007_111146: 11:11:46 Scroll nro: 4
+20211007_111148: 11:11:48 Scroll nro: 5
+20211007_111150: 11:11:50 Scroll nro: 6
+20211007_111152: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/desodorantes
+20211007_111154: 11:11:54 Scroll nro: 1
+20211007_111156: 11:11:56 Scroll nro: 2
+20211007_111158: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/jabones-y-gel-antibacterial
+20211007_111200: 11:12:00 Scroll nro: 1
+20211007_111202: 11:12:02 Scroll nro: 2
+20211007_111204: 11:12:04 Scroll nro: 3
+20211007_111206: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/afeitada-y-depilacion
+20211007_111207: 11:12:07 Scroll nro: 1
+20211007_111209: 11:12:09 Scroll nro: 2
+20211007_111211: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/cuidado-para-pies
+20211007_111212: 11:12:12 Scroll nro: 1
+20211007_111214: 11:12:14 Scroll nro: 2
+20211007_111216: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/panuelos-faciales
+20211007_111218: 11:12:18 Scroll nro: 1
+20211007_111220: 11:12:20 Scroll nro: 2
+20211007_111222: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina
+20211007_111224: 11:12:24 Scroll nro: 1
+20211007_111226: 11:12:26 Scroll nro: 2
+20211007_111228: 11:12:28 Scroll nro: 3
+20211007_111230: 11:12:30 Scroll nro: 4
+20211007_111232: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/higiene-intima
+20211007_111233: 11:12:33 Scroll nro: 1
+20211007_111235: 11:12:35 Scroll nro: 2
+20211007_111237: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/protectores
+20211007_111239: 11:12:39 Scroll nro: 1
+20211007_111241: 11:12:41 Scroll nro: 2
+20211007_111243: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/tampones
+20211007_111244: 11:12:44 Scroll nro: 1
+20211007_111246: 11:12:46 Scroll nro: 2
+20211007_111248: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/toallas
+20211007_111249: 11:12:49 Scroll nro: 1
+20211007_111251: 11:12:51 Scroll nro: 2
+20211007_111253: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-del-cabello
+20211007_111255: 11:12:55 Scroll nro: 1
+20211007_111257: 11:12:57 Scroll nro: 2
+20211007_111259: 11:12:59 Scroll nro: 3
+20211007_111301: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/incontinencia
+20211007_111303: 11:13:03 Scroll nro: 1
+20211007_111305: 11:13:05 Scroll nro: 2
+20211007_111307: 11:13:07 Scroll nro: 3
+20211007_111309: Working on https://www.drogueriascolsubsidio.com/activacion/PnG
+20211007_111310: 11:13:10 Scroll nro: 1
+20211007_111312: 11:13:12 Scroll nro: 2
+20211007_111314: 11:13:14 Scroll nro: 3
+20211007_111317: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa
+20211007_111319: 11:13:19 Scroll nro: 1
+20211007_111321: 11:13:21 Scroll nro: 2
+20211007_111323: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/terapia-respiratoria
+20211007_111325: 11:13:25 Scroll nro: 1
+20211007_111327: 11:13:27 Scroll nro: 2
+20211007_111329: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/ortopedia-y-movilidad
+20211007_111330: 11:13:30 Scroll nro: 1
+20211007_111332: 11:13:32 Scroll nro: 2
+20211007_111334: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/fisioterapia-y-rehabilitacion
+20211007_111335: 11:13:35 Scroll nro: 1
+20211007_111337: 11:13:37 Scroll nro: 2
+20211007_111339: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/medicion-y-diagnostico
+20211007_111340: 11:13:40 Scroll nro: 1
+20211007_111342: 11:13:42 Scroll nro: 2
+20211007_111344: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/accesorios-medicos
+20211007_111346: 11:13:46 Scroll nro: 1
+20211007_111348: 11:13:48 Scroll nro: 2
+20211007_111350: 11:13:50 Scroll nro: 3
+20211007_111352: 11:13:52 Scroll nro: 4
+20211007_111354: 11:13:54 Scroll nro: 5
+20211007_111356: 11:13:56 Scroll nro: 6
+20211007_111359: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas
+20211007_111401: 11:14:01 Scroll nro: 1
+20211007_111403: 11:14:03 Scroll nro: 2
+20211007_111405: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/snacks
+20211007_111406: 11:14:06 Scroll nro: 1
+20211007_111408: 11:14:08 Scroll nro: 2
+20211007_111410: 11:14:10 Scroll nro: 3
+20211007_111412: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/dulces-y-chocolates
+20211007_111413: 11:14:13 Scroll nro: 1
+20211007_111415: 11:14:15 Scroll nro: 2
+20211007_111417: 11:14:17 Scroll nro: 3
+20211007_111420: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/helados
+20211007_111421: 11:14:21 Scroll nro: 1
+20211007_111423: 11:14:23 Scroll nro: 2
+20211007_111425: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/lacteos
+20211007_111426: 11:14:26 Scroll nro: 1
+20211007_111428: 11:14:28 Scroll nro: 2
+20211007_111430: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/bebidas
+20211007_111432: 11:14:32 Scroll nro: 1
+20211007_111434: 11:14:34 Scroll nro: 2
+20211007_111436: 11:14:36 Scroll nro: 3
+20211007_111438: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-de-la-piel
+20211007_111439: 11:14:39 Scroll nro: 1
+20211007_111441: 11:14:41 Scroll nro: 2
+20211007_111443: 11:14:43 Scroll nro: 3
+20211007_111445: Working on https://www.drogueriascolsubsidio.com/loreal/productos/cuidado-facial
+20211007_111446: 11:14:46 Scroll nro: 1
+20211007_111448: 11:14:48 Scroll nro: 2
+20211007_111450: 11:14:50 Scroll nro: 3
+20211007_111452: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar
+20211007_111454: 11:14:54 Scroll nro: 1
+20211007_111456: Working on https://www.drogueriascolsubsidio.com/loreal/maquillaje
+20211007_111457: 11:14:57 Scroll nro: 1
+20211007_111459: 11:14:59 Scroll nro: 2
+20211007_111501: 11:15:01 Scroll nro: 3
+20211007_111503: 11:15:03 Scroll nro: 4
+20211007_111505: 11:15:05 Scroll nro: 5
+20211007_111507: 11:15:07 Scroll nro: 6
+20211007_111510: Working on https://www.drogueriascolsubsidio.com/loreal/productos/rostro
+20211007_111511: 11:15:11 Scroll nro: 1
+20211007_111513: 11:15:13 Scroll nro: 2
+20211007_111515: 11:15:15 Scroll nro: 3
+20211007_111517: 11:15:17 Scroll nro: 4
+20211007_111519: Working on https://www.drogueriascolsubsidio.com/loreal/productos/ojos
+20211007_111520: 11:15:20 Scroll nro: 1
+20211007_111522: Working on https://www.drogueriascolsubsidio.com/loreal/productos/labios
+20211007_111524: 11:15:24 Scroll nro: 1
+20211007_111526: 11:15:26 Scroll nro: 2
+20211007_111528: 11:15:28 Scroll nro: 3
+20211007_111530: Working on https://www.drogueriascolsubsidio.com/loreal/productos/unas
+20211007_111531: 11:15:31 Scroll nro: 1
+20211007_111533: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/shampoo-acondicionadores
+20211007_111534: 11:15:34 Scroll nro: 1
+20211007_111536: 11:15:36 Scroll nro: 2
+20211007_111538: 11:15:38 Scroll nro: 3
+20211007_111540: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/tratamientos
+20211007_111543: 11:15:43 Scroll nro: 1
+20211007_111545: 11:15:45 Scroll nro: 2
+20211007_111547: Working on https://www.drogueriascolsubsidio.com/loreal/dermocosmetica
+20211007_111548: 11:15:48 Scroll nro: 1
+20211007_111550: 11:15:50 Scroll nro: 2
+20211007_111552: 11:15:52 Scroll nro: 3
+20211007_111555: Lenght of productDataList: 100
+20211007_111555: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211007_111555: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211007_111555: Time Elapsed: 0:15:19.302465
+20211007_111555: Starting process of loading data to PostgreSQL...
+20211007_111555: Working on interval [0, 500] last Interval: [11500, 11893]
+20211007_111557: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.684323
+20211007_111557: Working on interval [500, 1000] last Interval: [11500, 11893]
+20211007_111559: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.905331
+20211007_111559: Working on interval [1000, 1500] last Interval: [11500, 11893]
+20211007_111600: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.590087
+20211007_111600: Working on interval [1500, 2000] last Interval: [11500, 11893]
+20211007_111602: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.541624
+20211007_111602: Working on interval [2000, 2500] last Interval: [11500, 11893]
+20211007_111603: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.607535
+20211007_111603: Working on interval [2500, 3000] last Interval: [11500, 11893]
+20211007_111606: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:02.027201
+20211007_111606: Working on interval [3000, 3500] last Interval: [11500, 11893]
+20211007_111607: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.489801
+20211007_111607: Working on interval [3500, 4000] last Interval: [11500, 11893]
+20211007_111609: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.504702
+20211007_111609: Working on interval [4000, 4500] last Interval: [11500, 11893]
+20211007_111610: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.528114
+20211007_111610: Working on interval [4500, 5000] last Interval: [11500, 11893]
+20211007_111612: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.689042
+20211007_111612: Working on interval [5000, 5500] last Interval: [11500, 11893]
+20211007_111614: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.689970
+20211007_111614: Working on interval [5500, 6000] last Interval: [11500, 11893]
+20211007_111615: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.567224
+20211007_111615: Working on interval [6000, 6500] last Interval: [11500, 11893]
+20211007_111617: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.535470
+20211007_111617: Working on interval [6500, 7000] last Interval: [11500, 11893]
+20211007_111620: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:02.823694
+20211007_111620: Working on interval [7000, 7500] last Interval: [11500, 11893]
+20211007_111622: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:02.206936
+20211007_111622: Working on interval [7500, 8000] last Interval: [11500, 11893]
+20211007_111624: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.742311
+20211007_111624: Working on interval [8000, 8500] last Interval: [11500, 11893]
+20211007_111626: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:02.555086
+20211007_111626: Working on interval [8500, 9000] last Interval: [11500, 11893]
+20211007_111628: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.669702
+20211007_111628: Working on interval [9000, 9500] last Interval: [11500, 11893]
+20211007_111630: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.720779
+20211007_111630: Working on interval [9500, 10000] last Interval: [11500, 11893]
+20211007_111631: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.744067
+20211007_111631: Working on interval [10000, 10500] last Interval: [11500, 11893]
+20211007_111633: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.626429
+20211007_111633: Working on interval [10500, 11000] last Interval: [11500, 11893]
+20211007_111635: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:02.053328
+20211007_111635: Working on interval [11000, 11500] last Interval: [11500, 11893]
+20211007_111637: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.541993
+20211007_111637: Working on interval [11500, 11893] last Interval: [11500, 11893]
+20211007_111639: Results of interval [11500, 11893]: Successful - OK, 393 rows affected. - 0:00:02.375712
+20211007_111639: Finshed process loading data to PostgreSQL
+20211007_111639: Time Elapsed: 0:00:44.217938
+20211007_111639: Total Time Elapsed: 0:16:03.536028
+20211007_140014: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211007_140014: Creating a list of Category URLs.
+20211007_140026: Starting process with each URL.
+20211007_140027: Working on https://www.drogueriascolsubsidio.com/medicamentos
+20211007_140030: 14:00:30 Scroll nro: 1
+20211007_140032: 14:00:32 Scroll nro: 2
+20211007_140039: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre
+20211007_140040: 14:00:40 Scroll nro: 1
+20211007_140042: 14:00:42 Scroll nro: 2
+20211007_140044: 14:00:44 Scroll nro: 3
+20211007_140047: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor
+20211007_140049: 14:00:49 Scroll nro: 1
+20211007_140051: 14:00:51 Scroll nro: 2
+20211007_140053: 14:00:53 Scroll nro: 3
+20211007_140056: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-fuerte
+20211007_140103: 14:01:03 Scroll nro: 1
+20211007_140105: 14:01:05 Scroll nro: 2
+20211007_140107: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-general
+20211007_140115: 14:01:15 Scroll nro: 1
+20211007_140117: 14:01:17 Scroll nro: 2
+20211007_140119: 14:01:19 Scroll nro: 3
+20211007_140121: 14:01:21 Scroll nro: 4
+20211007_140123: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/abdominal-y-colico
+20211007_140125: 14:01:25 Scroll nro: 1
+20211007_140127: 14:01:27 Scroll nro: 2
+20211007_140129: 14:01:29 Scroll nro: 3
+20211007_140131: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-ninos
+20211007_140132: 14:01:32 Scroll nro: 1
+20211007_140134: 14:01:34 Scroll nro: 2
+20211007_140136: 14:01:36 Scroll nro: 3
+20211007_140138: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios
+20211007_140139: 14:01:39 Scroll nro: 1
+20211007_140142: 14:01:42 Scroll nro: 2
+20211007_140144: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/algodon-curas-gasas-y-vendas
+20211007_140146: 14:01:46 Scroll nro: 1
+20211007_140148: 14:01:48 Scroll nro: 2
+20211007_140150: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/antisepticos
+20211007_140153: 14:01:53 Scroll nro: 1
+20211007_140155: 14:01:55 Scroll nro: 2
+20211007_140157: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal
+20211007_140210: 14:02:10 Scroll nro: 1
+20211007_140212: 14:02:12 Scroll nro: 2
+20211007_140214: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/descongestionantes
+20211007_140215: 14:02:15 Scroll nro: 1
+20211007_140217: 14:02:17 Scroll nro: 2
+20211007_140219: 14:02:19 Scroll nro: 3
+20211007_140221: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/garganta
+20211007_140222: 14:02:22 Scroll nro: 1
+20211007_140224: 14:02:24 Scroll nro: 2
+20211007_140226: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/gripa
+20211007_140228: 14:02:28 Scroll nro: 1
+20211007_140230: 14:02:30 Scroll nro: 2
+20211007_140232: 14:02:32 Scroll nro: 3
+20211007_140234: 14:02:34 Scroll nro: 4
+20211007_140236: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/tos
+20211007_140238: 14:02:38 Scroll nro: 1
+20211007_140240: 14:02:40 Scroll nro: 2
+20211007_140242: 14:02:42 Scroll nro: 3
+20211007_140244: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/bienestar-digestivo
+20211007_140245: 14:02:45 Scroll nro: 1
+20211007_140247: 14:02:47 Scroll nro: 2
+20211007_140249: 14:02:49 Scroll nro: 3
+20211007_140252: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual
+20211007_140253: 14:02:53 Scroll nro: 1
+20211007_140255: 14:02:55 Scroll nro: 2
+20211007_140257: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/lubricantes-y-dispositivos
+20211007_140259: 14:02:59 Scroll nro: 1
+20211007_140302: 14:03:02 Scroll nro: 2
+20211007_140304: 14:03:04 Scroll nro: 3
+20211007_140306: 14:03:06 Scroll nro: 4
+20211007_140308: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/preservativos
+20211007_140309: 14:03:09 Scroll nro: 1
+20211007_140311: 14:03:11 Scroll nro: 2
+20211007_140313: 14:03:13 Scroll nro: 3
+20211007_140315: 14:03:15 Scroll nro: 4
+20211007_140317: 14:03:17 Scroll nro: 5
+20211007_140319: 14:03:19 Scroll nro: 6
+20211007_140321: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/pruebas-de-embarazo
+20211007_140323: 14:03:23 Scroll nro: 1
+20211007_140325: 14:03:25 Scroll nro: 2
+20211007_140327: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/cremas-y-ovulos
+20211007_140329: 14:03:29 Scroll nro: 1
+20211007_140331: 14:03:31 Scroll nro: 2
+20211007_140333: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa
+20211007_140336: 14:03:36 Scroll nro: 1
+20211007_140338: 14:03:38 Scroll nro: 2
+20211007_140340: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/naturales
+20211007_140341: 14:03:41 Scroll nro: 1
+20211007_140343: 14:03:43 Scroll nro: 2
+20211007_140345: 14:03:45 Scroll nro: 3
+20211007_140347: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/homeopaticos
+20211007_140348: 14:03:48 Scroll nro: 1
+20211007_140350: 14:03:50 Scroll nro: 2
+20211007_140352: 14:03:52 Scroll nro: 3
+20211007_140355: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos
+20211007_140355: 14:03:55 Scroll nro: 1
+20211007_140357: 14:03:57 Scroll nro: 2
+20211007_140359: 14:03:59 Scroll nro: 3
+20211007_140401: 14:04:01 Scroll nro: 4
+20211007_140403: 14:04:03 Scroll nro: 5
+20211007_140405: 14:04:05 Scroll nro: 6
+20211007_140407: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-corporal
+20211007_140517: 14:05:17 Scroll nro: 1
+20211007_140519: 14:05:19 Scroll nro: 2
+20211007_140521: 14:05:21 Scroll nro: 3
+20211007_140523: 14:05:23 Scroll nro: 4
+20211007_140525: 14:05:25 Scroll nro: 5
+20211007_140527: 14:05:27 Scroll nro: 6
+20211007_140529: 14:05:29 Scroll nro: 7
+20211007_140531: 14:05:31 Scroll nro: 8
+20211007_140533: 14:05:33 Scroll nro: 9
+20211007_140535: 14:05:35 Scroll nro: 10
+20211007_140537: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-capilar
+20211007_140541: 14:05:41 Scroll nro: 1
+20211007_140543: 14:05:43 Scroll nro: 2
+20211007_140545: 14:05:45 Scroll nro: 3
+20211007_140547: 14:05:47 Scroll nro: 4
+20211007_140549: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-facial
+20211007_140551: 14:05:51 Scroll nro: 1
+20211007_140553: 14:05:53 Scroll nro: 2
+20211007_140555: 14:05:55 Scroll nro: 3
+20211007_140557: 14:05:57 Scroll nro: 4
+20211007_140559: 14:05:59 Scroll nro: 5
+20211007_140601: 14:06:01 Scroll nro: 6
+20211007_140603: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/proteccion-solar
+20211007_140606: 14:06:06 Scroll nro: 1
+20211007_140608: 14:06:08 Scroll nro: 2
+20211007_140610: 14:06:10 Scroll nro: 3
+20211007_140612: 14:06:12 Scroll nro: 4
+20211007_140614: 14:06:14 Scroll nro: 5
+20211007_140616: 14:06:16 Scroll nro: 6
+20211007_140618: Working on https://www.drogueriascolsubsidio.com/medicamentos/formulados
+20211007_140620: 14:06:20 Scroll nro: 1
+20211007_140622: 14:06:22 Scroll nro: 2
+20211007_140624: 14:06:24 Scroll nro: 3
+20211007_140626: Working on https://www.drogueriascolsubsidio.com/activacion/mka
+20211007_140628: 14:06:28 Scroll nro: 1
+20211007_140630: 14:06:30 Scroll nro: 2
+20211007_140632: 14:06:32 Scroll nro: 3
+20211007_140634: 14:06:34 Scroll nro: 4
+20211007_140637: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable
+20211007_140657: 14:06:57 Scroll nro: 1
+20211007_140700: 14:07:00 Scroll nro: 2
+20211007_140702: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/vitaminas
+20211007_140724: 14:07:24 Scroll nro: 1
+20211007_140726: 14:07:26 Scroll nro: 2
+20211007_140728: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/suplementos
+20211007_140729: 14:07:29 Scroll nro: 1
+20211007_140731: 14:07:31 Scroll nro: 2
+20211007_140734: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/nutricion-deportiva
+20211007_140737: 14:07:37 Scroll nro: 1
+20211007_140739: 14:07:39 Scroll nro: 2
+20211007_140741: 14:07:41 Scroll nro: 3
+20211007_140743: Working on https://www.drogueriascolsubsidio.com/activacion/vitamina-c-la-sante
+20211007_140747: 14:07:47 Scroll nro: 1
+20211007_140749: 14:07:49 Scroll nro: 2
+20211007_140751: 14:07:51 Scroll nro: 3
+20211007_140754: Working on https://www.drogueriascolsubsidio.com/belleza
+20211007_140756: 14:07:56 Scroll nro: 1
+20211007_140758: 14:07:58 Scroll nro: 2
+20211007_140800: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos
+20211007_140802: 14:08:02 Scroll nro: 1
+20211007_140804: 14:08:04 Scroll nro: 2
+20211007_140806: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/ojos
+20211007_140807: 14:08:07 Scroll nro: 1
+20211007_140809: 14:08:09 Scroll nro: 2
+20211007_140811: 14:08:11 Scroll nro: 3
+20211007_140813: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/labios
+20211007_140815: 14:08:15 Scroll nro: 1
+20211007_140817: 14:08:17 Scroll nro: 2
+20211007_140819: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/rostro
+20211007_140822: 14:08:22 Scroll nro: 1
+20211007_140824: 14:08:24 Scroll nro: 2
+20211007_140826: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/unas
+20211007_140829: 14:08:29 Scroll nro: 1
+20211007_140831: 14:08:31 Scroll nro: 2
+20211007_140833: 14:08:33 Scroll nro: 3
+20211007_140835: Working on https://www.drogueriascolsubsidio.com/belleza/dermocosmetica
+20211007_140838: 14:08:38 Scroll nro: 1
+20211007_140840: 14:08:40 Scroll nro: 2
+20211007_140842: Working on https://www.drogueriascolsubsidio.com/activacion/isdin-fotoproteccion
+20211007_140851: 14:08:51 Scroll nro: 1
+20211007_140853: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes
+20211007_140903: 14:09:03 Scroll nro: 1
+20211007_140905: 14:09:05 Scroll nro: 2
+20211007_140907: 14:09:07 Scroll nro: 3
+20211007_140909: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion
+20211007_140912: 14:09:12 Scroll nro: 1
+20211007_140914: 14:09:14 Scroll nro: 2
+20211007_140916: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/formulas-infantiles
+20211007_140918: 14:09:18 Scroll nro: 1
+20211007_140921: 14:09:21 Scroll nro: 2
+20211007_140923: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/compotas-y-cerales
+20211007_140925: 14:09:25 Scroll nro: 1
+20211007_140927: 14:09:27 Scroll nro: 2
+20211007_140929: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/accesorios
+20211007_140937: 14:09:37 Scroll nro: 1
+20211007_140939: 14:09:39 Scroll nro: 2
+20211007_140941: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-de-la-mama
+20211007_140945: 14:09:45 Scroll nro: 1
+20211007_140947: 14:09:47 Scroll nro: 2
+20211007_140949: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-del-bebe
+20211007_140954: 14:09:54 Scroll nro: 1
+20211007_140956: 14:09:56 Scroll nro: 2
+20211007_140958: Working on https://www.drogueriascolsubsidio.com/activacion/winny
+20211007_141002: 14:10:02 Scroll nro: 1
+20211007_141004: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal
+20211007_141039: 14:10:39 Scroll nro: 1
+20211007_141041: 14:10:41 Scroll nro: 2
+20211007_141043: 14:10:43 Scroll nro: 3
+20211007_141045: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral
+20211007_141050: 14:10:50 Scroll nro: 1
+20211007_141052: 14:10:52 Scroll nro: 2
+20211007_141054: 14:10:54 Scroll nro: 3
+20211007_141056: 14:10:56 Scroll nro: 4
+20211007_141058: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cremas-dentales
+20211007_141104: 14:11:04 Scroll nro: 1
+20211007_141106: 14:11:06 Scroll nro: 2
+20211007_141108: 14:11:08 Scroll nro: 3
+20211007_141110: 14:11:10 Scroll nro: 4
+20211007_141112: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cepillos-dentales
+20211007_141113: 14:11:13 Scroll nro: 1
+20211007_141115: 14:11:15 Scroll nro: 2
+20211007_141117: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/enjuagues-bucales
+20211007_141119: 14:11:19 Scroll nro: 1
+20211007_141121: 14:11:21 Scroll nro: 2
+20211007_141123: 14:11:23 Scroll nro: 3
+20211007_141125: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/sedas-dentales
+20211007_141127: 14:11:27 Scroll nro: 1
+20211007_141129: 14:11:29 Scroll nro: 2
+20211007_141131: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/especializados
+20211007_141132: 14:11:32 Scroll nro: 1
+20211007_141134: 14:11:34 Scroll nro: 2
+20211007_141136: 14:11:36 Scroll nro: 3
+20211007_141139: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel
+20211007_141145: 14:11:45 Scroll nro: 1
+20211007_141147: 14:11:47 Scroll nro: 2
+20211007_141149: 14:11:49 Scroll nro: 3
+20211007_141151: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/proteccion-solar
+20211007_141154: 14:11:54 Scroll nro: 1
+20211007_141156: 14:11:56 Scroll nro: 2
+20211007_141158: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-corporal-repelentes-e-insecticidas
+20211007_170049: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211007_170049: Creating a list of Category URLs.
+20211007_170100: Starting process with each URL.
+20211007_170101: Working on https://www.drogueriascolsubsidio.com/medicamentos
+20211007_170105: 17:01:05 Scroll nro: 1
+20211007_170107: 17:01:07 Scroll nro: 2
+20211007_170109: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre
+20211007_170111: 17:01:11 Scroll nro: 1
+20211007_170113: 17:01:13 Scroll nro: 2
+20211007_170115: 17:01:15 Scroll nro: 3
+20211007_170117: 17:01:17 Scroll nro: 4
+20211007_170119: 17:01:19 Scroll nro: 5
+20211007_170121: 17:01:21 Scroll nro: 6
+20211007_170123: 17:01:23 Scroll nro: 7
+20211007_170125: 17:01:25 Scroll nro: 8
+20211007_170127: 17:01:27 Scroll nro: 9
+20211007_170130: 17:01:30 Scroll nro: 10
+20211007_170132: 17:01:32 Scroll nro: 11
+20211007_170134: 17:01:34 Scroll nro: 12
+20211007_170136: 17:01:36 Scroll nro: 13
+20211007_170138: 17:01:38 Scroll nro: 14
+20211007_170140: 17:01:40 Scroll nro: 15
+20211007_170142: 17:01:42 Scroll nro: 16
+20211007_170148: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor
+20211007_170149: 17:01:49 Scroll nro: 1
+20211007_170151: 17:01:51 Scroll nro: 2
+20211007_170153: 17:01:53 Scroll nro: 3
+20211007_170155: 17:01:55 Scroll nro: 4
+20211007_170157: 17:01:57 Scroll nro: 5
+20211007_170159: 17:01:59 Scroll nro: 6
+20211007_170201: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-fuerte
+20211007_170203: 17:02:03 Scroll nro: 1
+20211007_170205: 17:02:05 Scroll nro: 2
+20211007_170207: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-general
+20211007_170208: 17:02:08 Scroll nro: 1
+20211007_170210: 17:02:10 Scroll nro: 2
+20211007_170213: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/abdominal-y-colico
+20211007_170214: 17:02:14 Scroll nro: 1
+20211007_170216: 17:02:16 Scroll nro: 2
+20211007_170218: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-ninos
+20211007_170218: 17:02:18 Scroll nro: 1
+20211007_170220: 17:02:20 Scroll nro: 2
+20211007_170222: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios
+20211007_170223: 17:02:23 Scroll nro: 1
+20211007_170225: 17:02:25 Scroll nro: 2
+20211007_170227: 17:02:27 Scroll nro: 3
+20211007_170229: 17:02:29 Scroll nro: 4
+20211007_170231: 17:02:31 Scroll nro: 5
+20211007_170233: 17:02:33 Scroll nro: 6
+20211007_170236: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/algodon-curas-gasas-y-vendas
+20211007_170236: 17:02:36 Scroll nro: 1
+20211007_170239: 17:02:39 Scroll nro: 2
+20211007_170241: 17:02:41 Scroll nro: 3
+20211007_170243: 17:02:43 Scroll nro: 4
+20211007_170245: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/antisepticos
+20211007_170246: 17:02:46 Scroll nro: 1
+20211007_170248: 17:02:48 Scroll nro: 2
+20211007_170250: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal
+20211007_170252: 17:02:52 Scroll nro: 1
+20211007_170254: 17:02:54 Scroll nro: 2
+20211007_170256: 17:02:56 Scroll nro: 3
+20211007_170258: 17:02:58 Scroll nro: 4
+20211007_170301: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/descongestionantes
+20211007_170301: 17:03:01 Scroll nro: 1
+20211007_170303: 17:03:03 Scroll nro: 2
+20211007_170305: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/garganta
+20211007_170306: 17:03:06 Scroll nro: 1
+20211007_170308: 17:03:08 Scroll nro: 2
+20211007_170310: 17:03:10 Scroll nro: 3
+20211007_170312: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/gripa
+20211007_170315: 17:03:15 Scroll nro: 1
+20211007_170317: 17:03:17 Scroll nro: 2
+20211007_170320: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/tos
+20211007_170321: 17:03:21 Scroll nro: 1
+20211007_170323: 17:03:23 Scroll nro: 2
+20211007_170325: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/bienestar-digestivo
+20211007_170326: 17:03:26 Scroll nro: 1
+20211007_170328: 17:03:28 Scroll nro: 2
+20211007_170330: 17:03:30 Scroll nro: 3
+20211007_170332: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual
+20211007_170334: 17:03:34 Scroll nro: 1
+20211007_170336: 17:03:36 Scroll nro: 2
+20211007_170338: 17:03:38 Scroll nro: 3
+20211007_170340: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/lubricantes-y-dispositivos
+20211007_170341: 17:03:41 Scroll nro: 1
+20211007_170343: 17:03:43 Scroll nro: 2
+20211007_170345: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/preservativos
+20211007_170345: 17:03:45 Scroll nro: 1
+20211007_170347: 17:03:47 Scroll nro: 2
+20211007_170349: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/pruebas-de-embarazo
+20211007_170350: 17:03:50 Scroll nro: 1
+20211007_170352: 17:03:52 Scroll nro: 2
+20211007_170354: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/cremas-y-ovulos
+20211007_170355: 17:03:55 Scroll nro: 1
+20211007_170357: 17:03:57 Scroll nro: 2
+20211007_170359: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa
+20211007_170400: 17:04:00 Scroll nro: 1
+20211007_170402: 17:04:02 Scroll nro: 2
+20211007_170404: 17:04:04 Scroll nro: 3
+20211007_170406: 17:04:06 Scroll nro: 4
+20211007_170408: 17:04:08 Scroll nro: 5
+20211007_170410: 17:04:10 Scroll nro: 6
+20211007_170412: 17:04:12 Scroll nro: 7
+20211007_170414: 17:04:14 Scroll nro: 8
+20211007_170417: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/naturales
+20211007_170418: 17:04:18 Scroll nro: 1
+20211007_170420: 17:04:20 Scroll nro: 2
+20211007_170422: 17:04:22 Scroll nro: 3
+20211007_170424: 17:04:24 Scroll nro: 4
+20211007_170426: 17:04:26 Scroll nro: 5
+20211007_170428: 17:04:28 Scroll nro: 6
+20211007_170431: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/homeopaticos
+20211007_170432: 17:04:32 Scroll nro: 1
+20211007_170434: 17:04:34 Scroll nro: 2
+20211007_170436: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos
+20211007_170436: 17:04:36 Scroll nro: 1
+20211007_170438: 17:04:38 Scroll nro: 2
+20211007_170440: 17:04:40 Scroll nro: 3
+20211007_170442: 17:04:42 Scroll nro: 4
+20211007_170444: 17:04:44 Scroll nro: 5
+20211007_170447: 17:04:47 Scroll nro: 6
+20211007_170449: 17:04:49 Scroll nro: 7
+20211007_170451: 17:04:51 Scroll nro: 8
+20211007_170453: 17:04:53 Scroll nro: 9
+20211007_170455: 17:04:55 Scroll nro: 10
+20211007_170457: 17:04:57 Scroll nro: 11
+20211007_170500: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-corporal
+20211007_170501: 17:05:01 Scroll nro: 1
+20211007_170503: 17:05:03 Scroll nro: 2
+20211007_170505: 17:05:05 Scroll nro: 3
+20211007_170507: 17:05:07 Scroll nro: 4
+20211007_170509: 17:05:09 Scroll nro: 5
+20211007_170511: 17:05:11 Scroll nro: 6
+20211007_170514: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-capilar
+20211007_170514: 17:05:14 Scroll nro: 1
+20211007_170516: 17:05:16 Scroll nro: 2
+20211007_170518: 17:05:18 Scroll nro: 3
+20211007_170520: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-facial
+20211007_170521: 17:05:21 Scroll nro: 1
+20211007_170523: 17:05:23 Scroll nro: 2
+20211007_170525: 17:05:25 Scroll nro: 3
+20211007_170527: 17:05:27 Scroll nro: 4
+20211007_170530: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/proteccion-solar
+20211007_170530: 17:05:30 Scroll nro: 1
+20211007_170532: 17:05:32 Scroll nro: 2
+20211007_170534: 17:05:34 Scroll nro: 3
+20211007_170537: Working on https://www.drogueriascolsubsidio.com/medicamentos/formulados
+20211007_170538: 17:05:38 Scroll nro: 1
+20211007_170540: 17:05:40 Scroll nro: 2
+20211007_170542: 17:05:42 Scroll nro: 3
+20211007_170544: 17:05:44 Scroll nro: 4
+20211007_170546: 17:05:46 Scroll nro: 5
+20211007_170548: 17:05:48 Scroll nro: 6
+20211007_170550: 17:05:50 Scroll nro: 7
+20211007_170552: 17:05:52 Scroll nro: 8
+20211007_170554: 17:05:54 Scroll nro: 9
+20211007_170556: 17:05:56 Scroll nro: 10
+20211007_170559: 17:05:59 Scroll nro: 11
+20211007_170601: 17:06:01 Scroll nro: 12
+20211007_170603: 17:06:03 Scroll nro: 13
+20211007_170605: 17:06:05 Scroll nro: 14
+20211007_170607: 17:06:07 Scroll nro: 15
+20211007_170609: 17:06:09 Scroll nro: 16
+20211007_170611: 17:06:11 Scroll nro: 17
+20211007_170613: 17:06:13 Scroll nro: 18
+20211007_170615: 17:06:15 Scroll nro: 19
+20211007_170617: 17:06:17 Scroll nro: 20
+20211007_170619: 17:06:19 Scroll nro: 21
+20211007_170622: 17:06:22 Scroll nro: 22
+20211007_170624: 17:06:24 Scroll nro: 23
+20211007_170626: 17:06:26 Scroll nro: 24
+20211007_170628: 17:06:28 Scroll nro: 25
+20211007_170630: 17:06:30 Scroll nro: 26
+20211007_170632: 17:06:32 Scroll nro: 27
+20211007_170635: 17:06:35 Scroll nro: 28
+20211007_170637: 17:06:37 Scroll nro: 29
+20211007_170640: 17:06:40 Scroll nro: 30
+20211007_170644: 17:06:44 Scroll nro: 31
+20211007_170646: 17:06:46 Scroll nro: 32
+20211007_170648: 17:06:48 Scroll nro: 33
+20211007_170651: 17:06:51 Scroll nro: 34
+20211007_170653: 17:06:53 Scroll nro: 35
+20211007_170656: 17:06:56 Scroll nro: 36
+20211007_170700: 17:07:00 Scroll nro: 37
+20211007_170702: 17:07:02 Scroll nro: 38
+20211007_170706: 17:07:06 Scroll nro: 39
+20211007_170710: 17:07:10 Scroll nro: 40
+20211007_170713: 17:07:13 Scroll nro: 41
+20211007_170717: 17:07:17 Scroll nro: 42
+20211007_170721: 17:07:21 Scroll nro: 43
+20211007_170725: 17:07:25 Scroll nro: 44
+20211007_170729: 17:07:29 Scroll nro: 45
+20211007_170732: 17:07:32 Scroll nro: 46
+20211007_170734: 17:07:34 Scroll nro: 47
+20211007_170738: 17:07:38 Scroll nro: 48
+20211007_170743: 17:07:43 Scroll nro: 49
+20211007_170752: Working on https://www.drogueriascolsubsidio.com/activacion/mka
+20211007_170753: 17:07:53 Scroll nro: 1
+20211007_170755: 17:07:55 Scroll nro: 2
+20211007_170757: 17:07:57 Scroll nro: 3
+20211007_170759: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable
+20211007_170801: 17:08:01 Scroll nro: 1
+20211007_170803: 17:08:03 Scroll nro: 2
+20211007_170805: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/vitaminas
+20211007_170807: 17:08:07 Scroll nro: 1
+20211007_170809: 17:08:09 Scroll nro: 2
+20211007_170811: 17:08:11 Scroll nro: 3
+20211007_170813: 17:08:13 Scroll nro: 4
+20211007_170815: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/suplementos
+20211007_170816: 17:08:16 Scroll nro: 1
+20211007_170818: 17:08:18 Scroll nro: 2
+20211007_170820: 17:08:20 Scroll nro: 3
+20211007_170822: 17:08:22 Scroll nro: 4
+20211007_170824: 17:08:24 Scroll nro: 5
+20211007_170826: 17:08:26 Scroll nro: 6
+20211007_170829: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/nutricion-deportiva
+20211007_170955: 17:09:55 Scroll nro: 1
+20211007_170957: 17:09:57 Scroll nro: 2
+20211007_170959: Working on https://www.drogueriascolsubsidio.com/activacion/vitamina-c-la-sante
+20211007_171347: 17:13:47 Scroll nro: 1
+20211007_171349: 17:13:49 Scroll nro: 2
+20211007_171351: Working on https://www.drogueriascolsubsidio.com/belleza
+20211007_171354: 17:13:54 Scroll nro: 1
+20211007_171356: 17:13:56 Scroll nro: 2
+20211007_171358: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos
+20211007_171359: 17:13:59 Scroll nro: 1
+20211007_171401: 17:14:01 Scroll nro: 2
+20211007_171403: 17:14:03 Scroll nro: 3
+20211007_171405: 17:14:05 Scroll nro: 4
+20211007_171407: 17:14:07 Scroll nro: 5
+20211007_171410: 17:14:10 Scroll nro: 6
+20211007_171412: 17:14:12 Scroll nro: 7
+20211007_171414: 17:14:14 Scroll nro: 8
+20211007_171416: 17:14:16 Scroll nro: 9
+20211007_171418: 17:14:18 Scroll nro: 10
+20211007_171420: 17:14:20 Scroll nro: 11
+20211007_171422: 17:14:22 Scroll nro: 12
+20211007_171424: 17:14:24 Scroll nro: 13
+20211007_171427: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/ojos
+20211007_171428: 17:14:28 Scroll nro: 1
+20211007_171430: 17:14:30 Scroll nro: 2
+20211007_171432: 17:14:32 Scroll nro: 3
+20211007_171434: 17:14:34 Scroll nro: 4
+20211007_171436: 17:14:36 Scroll nro: 5
+20211007_171438: 17:14:38 Scroll nro: 6
+20211007_171440: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/labios
+20211007_171441: 17:14:41 Scroll nro: 1
+20211007_171443: 17:14:43 Scroll nro: 2
+20211007_171445: 17:14:45 Scroll nro: 3
+20211007_171447: 17:14:47 Scroll nro: 4
+20211007_171449: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/rostro
+20211007_171455: 17:14:55 Scroll nro: 1
+20211007_171457: 17:14:57 Scroll nro: 2
+20211007_171459: 17:14:59 Scroll nro: 3
+20211007_171501: 17:15:01 Scroll nro: 4
+20211007_171503: 17:15:03 Scroll nro: 5
+20211007_171506: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/unas
+20211007_171507: 17:15:07 Scroll nro: 1
+20211007_171509: 17:15:09 Scroll nro: 2
+20211007_171511: Working on https://www.drogueriascolsubsidio.com/belleza/dermocosmetica
+20211007_171512: 17:15:12 Scroll nro: 1
+20211007_171514: 17:15:14 Scroll nro: 2
+20211007_171516: 17:15:16 Scroll nro: 3
+20211007_171518: 17:15:18 Scroll nro: 4
+20211007_171520: 17:15:20 Scroll nro: 5
+20211007_171522: 17:15:22 Scroll nro: 6
+20211007_171525: Working on https://www.drogueriascolsubsidio.com/activacion/isdin-fotoproteccion
+20211007_171527: 17:15:27 Scroll nro: 1
+20211007_171529: 17:15:29 Scroll nro: 2
+20211007_171531: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes
+20211007_171533: 17:15:33 Scroll nro: 1
+20211007_171535: 17:15:35 Scroll nro: 2
+20211007_171538: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion
+20211007_171541: 17:15:41 Scroll nro: 1
+20211007_171543: 17:15:43 Scroll nro: 2
+20211007_171545: 17:15:45 Scroll nro: 3
+20211007_171547: 17:15:47 Scroll nro: 4
+20211007_171549: 17:15:49 Scroll nro: 5
+20211007_171551: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/formulas-infantiles
+20211007_171553: 17:15:53 Scroll nro: 1
+20211007_171555: 17:15:55 Scroll nro: 2
+20211007_171557: 17:15:57 Scroll nro: 3
+20211007_171559: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/compotas-y-cerales
+20211007_171559: 17:15:59 Scroll nro: 1
+20211007_171601: 17:16:01 Scroll nro: 2
+20211007_171604: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/accesorios
+20211007_171604: 17:16:04 Scroll nro: 1
+20211007_171606: 17:16:06 Scroll nro: 2
+20211007_171608: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-de-la-mama
+20211007_171609: 17:16:09 Scroll nro: 1
+20211007_171612: 17:16:12 Scroll nro: 2
+20211007_171614: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-del-bebe
+20211007_171618: 17:16:18 Scroll nro: 1
+20211007_171620: 17:16:20 Scroll nro: 2
+20211007_171623: 17:16:23 Scroll nro: 3
+20211007_171625: 17:16:25 Scroll nro: 4
+20211007_171627: Working on https://www.drogueriascolsubsidio.com/activacion/winny
+20211007_171628: 17:16:28 Scroll nro: 1
+20211007_171630: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal
+20211007_171633: 17:16:33 Scroll nro: 1
+20211007_171635: 17:16:35 Scroll nro: 2
+20211007_171637: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral
+20211007_171640: 17:16:40 Scroll nro: 1
+20211007_171642: 17:16:42 Scroll nro: 2
+20211007_171644: 17:16:44 Scroll nro: 3
+20211007_171646: 17:16:46 Scroll nro: 4
+20211007_171648: 17:16:48 Scroll nro: 5
+20211007_171651: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cremas-dentales
+20211007_171653: 17:16:53 Scroll nro: 1
+20211007_171655: 17:16:55 Scroll nro: 2
+20211007_171657: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cepillos-dentales
+20211007_171657: 17:16:57 Scroll nro: 1
+20211007_171659: 17:16:59 Scroll nro: 2
+20211007_171701: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/enjuagues-bucales
+20211007_171702: 17:17:02 Scroll nro: 1
+20211007_171704: 17:17:04 Scroll nro: 2
+20211007_171707: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/sedas-dentales
+20211007_171711: 17:17:11 Scroll nro: 1
+20211007_171713: 17:17:13 Scroll nro: 2
+20211007_171715: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/especializados
+20211007_171716: 17:17:16 Scroll nro: 1
+20211007_171718: 17:17:18 Scroll nro: 2
+20211007_171721: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel
+20211007_171722: 17:17:22 Scroll nro: 1
+20211007_171724: 17:17:24 Scroll nro: 2
+20211007_171726: 17:17:26 Scroll nro: 3
+20211007_171728: 17:17:28 Scroll nro: 4
+20211007_171730: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/proteccion-solar
+20211007_171731: 17:17:31 Scroll nro: 1
+20211007_171733: 17:17:33 Scroll nro: 2
+20211007_171736: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-corporal-repelentes-e-insecticidas
+20211007_171737: 17:17:37 Scroll nro: 1
+20211007_171739: 17:17:39 Scroll nro: 2
+20211007_171741: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-facial
+20211007_171742: 17:17:42 Scroll nro: 1
+20211007_171744: 17:17:44 Scroll nro: 2
+20211007_171746: 17:17:46 Scroll nro: 3
+20211007_171748: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal
+20211007_171749: 17:17:49 Scroll nro: 1
+20211007_171751: 17:17:51 Scroll nro: 2
+20211007_171753: 17:17:53 Scroll nro: 3
+20211007_171755: 17:17:55 Scroll nro: 4
+20211007_171757: 17:17:57 Scroll nro: 5
+20211007_171759: 17:17:59 Scroll nro: 6
+20211007_171802: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/desodorantes
+20211007_171803: 17:18:03 Scroll nro: 1
+20211007_171805: 17:18:05 Scroll nro: 2
+20211007_171807: 17:18:07 Scroll nro: 3
+20211007_171809: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/jabones-y-gel-antibacterial
+20211007_171810: 17:18:10 Scroll nro: 1
+20211007_171812: 17:18:12 Scroll nro: 2
+20211007_171814: 17:18:14 Scroll nro: 3
+20211007_171816: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/afeitada-y-depilacion
+20211007_171817: 17:18:17 Scroll nro: 1
+20211007_171819: 17:18:19 Scroll nro: 2
+20211007_171821: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/cuidado-para-pies
+20211007_171823: 17:18:23 Scroll nro: 1
+20211007_171825: 17:18:25 Scroll nro: 2
+20211007_171827: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/panuelos-faciales
+20211007_171829: 17:18:29 Scroll nro: 1
+20211007_171831: 17:18:31 Scroll nro: 2
+20211007_171833: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina
+20211007_171834: 17:18:34 Scroll nro: 1
+20211007_171836: 17:18:36 Scroll nro: 2
+20211007_171838: 17:18:38 Scroll nro: 3
+20211007_171840: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/higiene-intima
+20211007_171841: 17:18:41 Scroll nro: 1
+20211007_171843: 17:18:43 Scroll nro: 2
+20211007_171845: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/protectores
+20211007_171846: 17:18:46 Scroll nro: 1
+20211007_171848: 17:18:48 Scroll nro: 2
+20211007_171850: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/tampones
+20211007_171852: 17:18:52 Scroll nro: 1
+20211007_171854: 17:18:54 Scroll nro: 2
+20211007_171856: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/toallas
+20211007_171857: 17:18:57 Scroll nro: 1
+20211007_171859: 17:18:59 Scroll nro: 2
+20211007_171901: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-del-cabello
+20211007_171901: 17:19:01 Scroll nro: 1
+20211007_171903: 17:19:03 Scroll nro: 2
+20211007_171905: 17:19:05 Scroll nro: 3
+20211007_171908: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/incontinencia
+20211007_171908: 17:19:08 Scroll nro: 1
+20211007_171910: 17:19:10 Scroll nro: 2
+20211007_171912: Working on https://www.drogueriascolsubsidio.com/activacion/PnG
+20211007_171913: 17:19:13 Scroll nro: 1
+20211007_171915: 17:19:15 Scroll nro: 2
+20211007_171917: 17:19:17 Scroll nro: 3
+20211007_171920: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa
+20211007_171921: 17:19:21 Scroll nro: 1
+20211007_171923: 17:19:23 Scroll nro: 2
+20211007_171926: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/terapia-respiratoria
+20211007_171926: 17:19:26 Scroll nro: 1
+20211007_171929: 17:19:29 Scroll nro: 2
+20211007_171931: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/ortopedia-y-movilidad
+20211007_171944: 17:19:44 Scroll nro: 1
+20211007_171946: 17:19:46 Scroll nro: 2
+20211007_171948: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/fisioterapia-y-rehabilitacion
+20211007_171953: 17:19:53 Scroll nro: 1
+20211007_171955: 17:19:55 Scroll nro: 2
+20211007_171957: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/medicion-y-diagnostico
+20211007_171958: 17:19:58 Scroll nro: 1
+20211007_172000: 17:20:00 Scroll nro: 2
+20211007_172002: 17:20:02 Scroll nro: 3
+20211007_172004: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/accesorios-medicos
+20211007_172005: 17:20:05 Scroll nro: 1
+20211007_172007: 17:20:07 Scroll nro: 2
+20211007_172010: 17:20:10 Scroll nro: 3
+20211007_172012: 17:20:12 Scroll nro: 4
+20211007_172014: 17:20:14 Scroll nro: 5
+20211007_172016: 17:20:16 Scroll nro: 6
+20211007_172018: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas
+20211007_172020: 17:20:20 Scroll nro: 1
+20211007_172022: 17:20:22 Scroll nro: 2
+20211007_172024: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/snacks
+20211007_172025: 17:20:25 Scroll nro: 1
+20211007_172027: 17:20:27 Scroll nro: 2
+20211007_172029: 17:20:29 Scroll nro: 3
+20211007_172031: 17:20:31 Scroll nro: 4
+20211007_172033: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/dulces-y-chocolates
+20211007_172035: 17:20:35 Scroll nro: 1
+20211007_172038: 17:20:38 Scroll nro: 2
+20211007_172040: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/helados
+20211007_172040: 17:20:40 Scroll nro: 1
+20211007_172042: 17:20:42 Scroll nro: 2
+20211007_172044: 17:20:44 Scroll nro: 3
+20211007_172046: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/lacteos
+20211007_172048: 17:20:48 Scroll nro: 1
+20211007_172050: 17:20:50 Scroll nro: 2
+20211007_172052: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/bebidas
+20211007_172052: 17:20:52 Scroll nro: 1
+20211007_172054: 17:20:54 Scroll nro: 2
+20211007_172057: 17:20:57 Scroll nro: 3
+20211007_172059: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-de-la-piel
+20211007_172100: 17:21:00 Scroll nro: 1
+20211007_172102: 17:21:02 Scroll nro: 2
+20211007_172104: 17:21:04 Scroll nro: 3
+20211007_172106: Working on https://www.drogueriascolsubsidio.com/loreal/productos/cuidado-facial
+20211007_172107: 17:21:07 Scroll nro: 1
+20211007_172109: 17:21:09 Scroll nro: 2
+20211007_172111: 17:21:11 Scroll nro: 3
+20211007_172114: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar
+20211007_172118: 17:21:18 Scroll nro: 1
+20211007_172120: 17:21:20 Scroll nro: 2
+20211007_172122: Working on https://www.drogueriascolsubsidio.com/loreal/maquillaje
+20211007_172124: 17:21:24 Scroll nro: 1
+20211007_172126: Working on https://www.drogueriascolsubsidio.com/loreal/productos/rostro
+20211007_172128: 17:21:28 Scroll nro: 1
+20211007_172130: 17:21:30 Scroll nro: 2
+20211007_172132: 17:21:32 Scroll nro: 3
+20211007_172135: Working on https://www.drogueriascolsubsidio.com/loreal/productos/ojos
+20211007_172135: 17:21:35 Scroll nro: 1
+20211007_172137: 17:21:37 Scroll nro: 2
+20211007_172139: 17:21:39 Scroll nro: 3
+20211007_172141: Working on https://www.drogueriascolsubsidio.com/loreal/productos/labios
+20211007_172142: 17:21:42 Scroll nro: 1
+20211007_172144: 17:21:44 Scroll nro: 2
+20211007_172146: 17:21:46 Scroll nro: 3
+20211007_172148: Working on https://www.drogueriascolsubsidio.com/loreal/productos/unas
+20211007_172149: 17:21:49 Scroll nro: 1
+20211007_172151: 17:21:51 Scroll nro: 2
+20211007_172153: 17:21:53 Scroll nro: 3
+20211007_172155: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/shampoo-acondicionadores
+20211007_172156: 17:21:56 Scroll nro: 1
+20211007_172158: 17:21:58 Scroll nro: 2
+20211007_172200: 17:22:00 Scroll nro: 3
+20211007_172202: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/tratamientos
+20211007_172206: 17:22:06 Scroll nro: 1
+20211007_172208: 17:22:08 Scroll nro: 2
+20211007_172210: Working on https://www.drogueriascolsubsidio.com/loreal/dermocosmetica
+20211007_172211: 17:22:11 Scroll nro: 1
+20211007_172213: 17:22:13 Scroll nro: 2
+20211007_172215: 17:22:15 Scroll nro: 3
+20211007_172217: Lenght of productDataList: 100
+20211007_172217: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211007_172217: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211007_172217: Time Elapsed: 0:21:28.709998
+20211007_172217: Starting process of loading data to PostgreSQL...
+20211007_172217: Working on interval [0, 500] last Interval: [11500, 11979]
+20211007_172219: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.543911
+20211007_172219: Working on interval [500, 1000] last Interval: [11500, 11979]
+20211007_172221: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.584684
+20211007_172221: Working on interval [1000, 1500] last Interval: [11500, 11979]
+20211007_172222: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.675111
+20211007_172222: Working on interval [1500, 2000] last Interval: [11500, 11979]
+20211007_172225: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:02.389186
+20211007_172225: Working on interval [2000, 2500] last Interval: [11500, 11979]
+20211007_172226: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.616170
+20211007_172226: Working on interval [2500, 3000] last Interval: [11500, 11979]
+20211007_172231: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:04.625858
+20211007_172231: Working on interval [3000, 3500] last Interval: [11500, 11979]
+20211007_172233: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.588322
+20211007_172233: Working on interval [3500, 4000] last Interval: [11500, 11979]
+20211007_172234: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.591444
+20211007_172234: Working on interval [4000, 4500] last Interval: [11500, 11979]
+20211007_172236: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.671304
+20211007_172236: Working on interval [4500, 5000] last Interval: [11500, 11979]
+20211007_172238: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.636378
+20211007_172238: Working on interval [5000, 5500] last Interval: [11500, 11979]
+20211007_172239: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.590223
+20211007_172239: Working on interval [5500, 6000] last Interval: [11500, 11979]
+20211007_172241: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.888490
+20211007_172241: Working on interval [6000, 6500] last Interval: [11500, 11979]
+20211007_172244: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:02.438361
+20211007_172244: Working on interval [6500, 7000] last Interval: [11500, 11979]
+20211007_172245: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.616592
+20211007_172245: Working on interval [7000, 7500] last Interval: [11500, 11979]
+20211007_172247: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.605103
+20211007_172247: Working on interval [7500, 8000] last Interval: [11500, 11979]
+20211007_172249: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.692289
+20211007_172249: Working on interval [8000, 8500] last Interval: [11500, 11979]
+20211007_172250: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.681939
+20211007_172250: Working on interval [8500, 9000] last Interval: [11500, 11979]
+20211007_172252: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.680421
+20211007_172252: Working on interval [9000, 9500] last Interval: [11500, 11979]
+20211007_172254: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.800821
+20211007_172254: Working on interval [9500, 10000] last Interval: [11500, 11979]
+20211007_172256: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.654363
+20211007_172256: Working on interval [10000, 10500] last Interval: [11500, 11979]
+20211007_172257: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.727885
+20211007_172257: Working on interval [10500, 11000] last Interval: [11500, 11979]
+20211007_172259: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.557669
+20211007_172259: Working on interval [11000, 11500] last Interval: [11500, 11979]
+20211007_172301: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.749146
+20211007_172301: Working on interval [11500, 11979] last Interval: [11500, 11979]
+20211007_172303: Results of interval [11500, 11979]: Successful - OK, 479 rows affected. - 0:00:01.996856
+20211007_172303: Finshed process loading data to PostgreSQL
+20211007_172303: Time Elapsed: 0:00:45.338622
+20211007_172303: Total Time Elapsed: 0:22:14.065616
+20211007_200025: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211007_200025: Creating a list of Category URLs.
+20211007_200038: Starting process with each URL.
+20211007_200039: Working on https://www.drogueriascolsubsidio.com/medicamentos
+20211007_200043: 20:00:43 Scroll nro: 1
+20211007_200045: 20:00:45 Scroll nro: 2
+20211007_200047: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre
+20211007_200048: 20:00:48 Scroll nro: 1
+20211007_200050: 20:00:50 Scroll nro: 2
+20211007_200052: 20:00:52 Scroll nro: 3
+20211007_200054: 20:00:54 Scroll nro: 4
+20211007_200056: 20:00:56 Scroll nro: 5
+20211007_200058: 20:00:58 Scroll nro: 6
+20211007_200100: 20:01:00 Scroll nro: 7
+20211007_200102: 20:01:02 Scroll nro: 8
+20211007_200104: 20:01:04 Scroll nro: 9
+20211007_200106: 20:01:06 Scroll nro: 10
+20211007_200109: 20:01:09 Scroll nro: 11
+20211007_200111: 20:01:11 Scroll nro: 12
+20211007_200113: 20:01:13 Scroll nro: 13
+20211007_200115: 20:01:15 Scroll nro: 14
+20211007_200117: 20:01:17 Scroll nro: 15
+20211007_200119: 20:01:19 Scroll nro: 16
+20211007_200121: 20:01:21 Scroll nro: 17
+20211007_200123: 20:01:23 Scroll nro: 18
+20211007_200129: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor
+20211007_200130: 20:01:30 Scroll nro: 1
+20211007_200132: 20:01:32 Scroll nro: 2
+20211007_200134: 20:01:34 Scroll nro: 3
+20211007_200136: 20:01:36 Scroll nro: 4
+20211007_200139: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-fuerte
+20211007_200140: 20:01:40 Scroll nro: 1
+20211007_200142: 20:01:42 Scroll nro: 2
+20211007_200144: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-general
+20211007_200145: 20:01:45 Scroll nro: 1
+20211007_200147: 20:01:47 Scroll nro: 2
+20211007_200149: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/abdominal-y-colico
+20211007_200150: 20:01:50 Scroll nro: 1
+20211007_200152: 20:01:52 Scroll nro: 2
+20211007_200154: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-ninos
+20211007_200155: 20:01:55 Scroll nro: 1
+20211007_200157: 20:01:57 Scroll nro: 2
+20211007_200159: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios
+20211007_200200: 20:02:00 Scroll nro: 1
+20211007_200202: 20:02:02 Scroll nro: 2
+20211007_200204: 20:02:04 Scroll nro: 3
+20211007_200206: 20:02:06 Scroll nro: 4
+20211007_200208: 20:02:08 Scroll nro: 5
+20211007_200210: 20:02:10 Scroll nro: 6
+20211007_200213: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/algodon-curas-gasas-y-vendas
+20211007_200213: 20:02:13 Scroll nro: 1
+20211007_200215: 20:02:15 Scroll nro: 2
+20211007_200217: 20:02:17 Scroll nro: 3
+20211007_200219: 20:02:19 Scroll nro: 4
+20211007_200222: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/antisepticos
+20211007_200223: 20:02:23 Scroll nro: 1
+20211007_200225: 20:02:25 Scroll nro: 2
+20211007_200227: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal
+20211007_200228: 20:02:28 Scroll nro: 1
+20211007_200230: 20:02:30 Scroll nro: 2
+20211007_200232: 20:02:32 Scroll nro: 3
+20211007_200234: 20:02:34 Scroll nro: 4
+20211007_200236: 20:02:36 Scroll nro: 5
+20211007_200238: 20:02:38 Scroll nro: 6
+20211007_200241: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/descongestionantes
+20211007_200242: 20:02:42 Scroll nro: 1
+20211007_200244: 20:02:44 Scroll nro: 2
+20211007_200246: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/garganta
+20211007_200247: 20:02:47 Scroll nro: 1
+20211007_200249: 20:02:49 Scroll nro: 2
+20211007_200252: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/gripa
+20211007_200253: 20:02:53 Scroll nro: 1
+20211007_200255: 20:02:55 Scroll nro: 2
+20211007_200257: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/tos
+20211007_200257: 20:02:57 Scroll nro: 1
+20211007_200259: 20:02:59 Scroll nro: 2
+20211007_200301: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/bienestar-digestivo
+20211007_200303: 20:03:03 Scroll nro: 1
+20211007_200305: 20:03:05 Scroll nro: 2
+20211007_200307: 20:03:07 Scroll nro: 3
+20211007_200309: 20:03:09 Scroll nro: 4
+20211007_200311: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual
+20211007_200312: 20:03:12 Scroll nro: 1
+20211007_200314: 20:03:14 Scroll nro: 2
+20211007_200317: 20:03:17 Scroll nro: 3
+20211007_200319: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/lubricantes-y-dispositivos
+20211007_200319: 20:03:19 Scroll nro: 1
+20211007_200321: 20:03:21 Scroll nro: 2
+20211007_200323: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/preservativos
+20211007_200324: 20:03:24 Scroll nro: 1
+20211007_200326: 20:03:26 Scroll nro: 2
+20211007_200328: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/pruebas-de-embarazo
+20211007_200329: 20:03:29 Scroll nro: 1
+20211007_200331: 20:03:31 Scroll nro: 2
+20211007_200333: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/cremas-y-ovulos
+20211007_200334: 20:03:34 Scroll nro: 1
+20211007_200336: 20:03:36 Scroll nro: 2
+20211007_200338: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa
+20211007_200339: 20:03:39 Scroll nro: 1
+20211007_200341: 20:03:41 Scroll nro: 2
+20211007_200343: 20:03:43 Scroll nro: 3
+20211007_200345: 20:03:45 Scroll nro: 4
+20211007_200347: 20:03:47 Scroll nro: 5
+20211007_200349: 20:03:49 Scroll nro: 6
+20211007_200351: 20:03:51 Scroll nro: 7
+20211007_200354: 20:03:54 Scroll nro: 8
+20211007_200356: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/naturales
+20211007_200358: 20:03:58 Scroll nro: 1
+20211007_200400: 20:04:00 Scroll nro: 2
+20211007_200402: 20:04:02 Scroll nro: 3
+20211007_200404: 20:04:04 Scroll nro: 4
+20211007_200406: 20:04:06 Scroll nro: 5
+20211007_200408: 20:04:08 Scroll nro: 6
+20211007_200411: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/homeopaticos
+20211007_200413: 20:04:13 Scroll nro: 1
+20211007_200415: 20:04:15 Scroll nro: 2
+20211007_200417: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos
+20211007_200418: 20:04:18 Scroll nro: 1
+20211007_200420: 20:04:20 Scroll nro: 2
+20211007_200422: 20:04:22 Scroll nro: 3
+20211007_200424: 20:04:24 Scroll nro: 4
+20211007_200426: 20:04:26 Scroll nro: 5
+20211007_200428: 20:04:28 Scroll nro: 6
+20211007_200430: 20:04:30 Scroll nro: 7
+20211007_200432: 20:04:32 Scroll nro: 8
+20211007_200435: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-corporal
+20211007_200437: 20:04:37 Scroll nro: 1
+20211007_200439: 20:04:39 Scroll nro: 2
+20211007_200441: 20:04:41 Scroll nro: 3
+20211007_200443: 20:04:43 Scroll nro: 4
+20211007_200446: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-capilar
+20211007_200446: 20:04:46 Scroll nro: 1
+20211007_200448: 20:04:48 Scroll nro: 2
+20211007_200450: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-facial
+20211007_200451: 20:04:51 Scroll nro: 1
+20211007_200453: 20:04:53 Scroll nro: 2
+20211007_200455: 20:04:55 Scroll nro: 3
+20211007_200457: 20:04:57 Scroll nro: 4
+20211007_200500: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/proteccion-solar
+20211007_200500: 20:05:00 Scroll nro: 1
+20211007_200502: 20:05:02 Scroll nro: 2
+20211007_200504: 20:05:04 Scroll nro: 3
+20211007_200506: Working on https://www.drogueriascolsubsidio.com/medicamentos/formulados
+20211007_200507: 20:05:07 Scroll nro: 1
+20211007_200509: 20:05:09 Scroll nro: 2
+20211007_200511: 20:05:11 Scroll nro: 3
+20211007_200514: 20:05:14 Scroll nro: 4
+20211007_200516: 20:05:16 Scroll nro: 5
+20211007_200518: 20:05:18 Scroll nro: 6
+20211007_200520: 20:05:20 Scroll nro: 7
+20211007_200522: 20:05:22 Scroll nro: 8
+20211007_200524: 20:05:24 Scroll nro: 9
+20211007_200526: 20:05:26 Scroll nro: 10
+20211007_200528: 20:05:28 Scroll nro: 11
+20211007_200530: 20:05:30 Scroll nro: 12
+20211007_200533: 20:05:33 Scroll nro: 13
+20211007_200535: 20:05:35 Scroll nro: 14
+20211007_200537: 20:05:37 Scroll nro: 15
+20211007_200539: 20:05:39 Scroll nro: 16
+20211007_200541: 20:05:41 Scroll nro: 17
+20211007_200543: 20:05:43 Scroll nro: 18
+20211007_200546: 20:05:46 Scroll nro: 19
+20211007_200548: 20:05:48 Scroll nro: 20
+20211007_200550: 20:05:50 Scroll nro: 21
+20211007_200552: 20:05:52 Scroll nro: 22
+20211007_200554: 20:05:54 Scroll nro: 23
+20211007_200558: 20:05:58 Scroll nro: 24
+20211007_200601: 20:06:01 Scroll nro: 25
+20211007_200604: 20:06:04 Scroll nro: 26
+20211007_200607: 20:06:07 Scroll nro: 27
+20211007_200610: 20:06:10 Scroll nro: 28
+20211007_200613: 20:06:13 Scroll nro: 29
+20211007_200615: 20:06:15 Scroll nro: 30
+20211007_200618: 20:06:18 Scroll nro: 31
+20211007_200621: 20:06:21 Scroll nro: 32
+20211007_200623: 20:06:23 Scroll nro: 33
+20211007_200628: 20:06:28 Scroll nro: 34
+20211007_200630: 20:06:30 Scroll nro: 35
+20211007_200640: Working on https://www.drogueriascolsubsidio.com/activacion/mka
+20211007_200642: 20:06:42 Scroll nro: 1
+20211007_200644: 20:06:44 Scroll nro: 2
+20211007_200646: 20:06:46 Scroll nro: 3
+20211007_200648: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable
+20211007_200650: 20:06:50 Scroll nro: 1
+20211007_200652: 20:06:52 Scroll nro: 2
+20211007_200654: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/vitaminas
+20211007_200655: 20:06:55 Scroll nro: 1
+20211007_200657: 20:06:57 Scroll nro: 2
+20211007_200659: 20:06:59 Scroll nro: 3
+20211007_200701: 20:07:01 Scroll nro: 4
+20211007_200703: 20:07:03 Scroll nro: 5
+20211007_200705: 20:07:05 Scroll nro: 6
+20211007_200707: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/suplementos
+20211007_200709: 20:07:09 Scroll nro: 1
+20211007_200711: 20:07:11 Scroll nro: 2
+20211007_200713: 20:07:13 Scroll nro: 3
+20211007_200715: 20:07:15 Scroll nro: 4
+20211007_200717: 20:07:17 Scroll nro: 5
+20211007_200719: 20:07:19 Scroll nro: 6
+20211007_200722: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/nutricion-deportiva
+20211007_200723: 20:07:23 Scroll nro: 1
+20211007_200725: 20:07:25 Scroll nro: 2
+20211007_200727: 20:07:27 Scroll nro: 3
+20211007_200729: Working on https://www.drogueriascolsubsidio.com/activacion/vitamina-c-la-sante
+20211007_200730: 20:07:30 Scroll nro: 1
+20211007_200732: Working on https://www.drogueriascolsubsidio.com/belleza
+20211007_200734: 20:07:34 Scroll nro: 1
+20211007_200736: 20:07:36 Scroll nro: 2
+20211007_200738: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos
+20211007_200740: 20:07:40 Scroll nro: 1
+20211007_200742: 20:07:42 Scroll nro: 2
+20211007_200744: 20:07:44 Scroll nro: 3
+20211007_200746: 20:07:46 Scroll nro: 4
+20211007_200748: 20:07:48 Scroll nro: 5
+20211007_200750: 20:07:50 Scroll nro: 6
+20211007_200752: 20:07:52 Scroll nro: 7
+20211007_200754: 20:07:54 Scroll nro: 8
+20211007_200756: 20:07:56 Scroll nro: 9
+20211007_200758: 20:07:58 Scroll nro: 10
+20211007_200800: 20:08:00 Scroll nro: 11
+20211007_200804: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/ojos
+20211007_200805: 20:08:05 Scroll nro: 1
+20211007_200807: 20:08:07 Scroll nro: 2
+20211007_200809: 20:08:09 Scroll nro: 3
+20211007_200811: 20:08:11 Scroll nro: 4
+20211007_200813: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/labios
+20211007_200814: 20:08:14 Scroll nro: 1
+20211007_200817: 20:08:17 Scroll nro: 2
+20211007_200819: 20:08:19 Scroll nro: 3
+20211007_200821: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/rostro
+20211007_200822: 20:08:22 Scroll nro: 1
+20211007_200824: 20:08:24 Scroll nro: 2
+20211007_200826: 20:08:26 Scroll nro: 3
+20211007_200828: 20:08:28 Scroll nro: 4
+20211007_200831: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/unas
+20211007_200832: 20:08:32 Scroll nro: 1
+20211007_200834: 20:08:34 Scroll nro: 2
+20211007_200836: Working on https://www.drogueriascolsubsidio.com/belleza/dermocosmetica
+20211007_200838: 20:08:38 Scroll nro: 1
+20211007_200840: 20:08:40 Scroll nro: 2
+20211007_200842: 20:08:42 Scroll nro: 3
+20211007_200844: 20:08:44 Scroll nro: 4
+20211007_200846: 20:08:46 Scroll nro: 5
+20211007_200848: 20:08:48 Scroll nro: 6
+20211007_200850: Working on https://www.drogueriascolsubsidio.com/activacion/isdin-fotoproteccion
+20211007_200852: 20:08:52 Scroll nro: 1
+20211007_200854: 20:08:54 Scroll nro: 2
+20211007_200856: 20:08:56 Scroll nro: 3
+20211007_200858: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes
+20211007_200900: 20:09:00 Scroll nro: 1
+20211007_200902: 20:09:02 Scroll nro: 2
+20211007_200904: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion
+20211007_200905: 20:09:05 Scroll nro: 1
+20211007_200907: 20:09:07 Scroll nro: 2
+20211007_200909: 20:09:09 Scroll nro: 3
+20211007_200911: 20:09:11 Scroll nro: 4
+20211007_200913: 20:09:13 Scroll nro: 5
+20211007_200915: 20:09:15 Scroll nro: 6
+20211007_200917: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/formulas-infantiles
+20211007_200918: 20:09:18 Scroll nro: 1
+20211007_200920: 20:09:20 Scroll nro: 2
+20211007_200922: 20:09:22 Scroll nro: 3
+20211007_200925: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/compotas-y-cerales
+20211007_200926: 20:09:26 Scroll nro: 1
+20211007_200928: 20:09:28 Scroll nro: 2
+20211007_200930: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/accesorios
+20211007_200931: 20:09:31 Scroll nro: 1
+20211007_200933: 20:09:33 Scroll nro: 2
+20211007_200935: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-de-la-mama
+20211007_200936: 20:09:36 Scroll nro: 1
+20211007_200938: 20:09:38 Scroll nro: 2
+20211007_200941: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-del-bebe
+20211007_200941: 20:09:41 Scroll nro: 1
+20211007_200943: 20:09:43 Scroll nro: 2
+20211007_200946: 20:09:46 Scroll nro: 3
+20211007_200948: 20:09:48 Scroll nro: 4
+20211007_200950: Working on https://www.drogueriascolsubsidio.com/activacion/winny
+20211007_200951: 20:09:51 Scroll nro: 1
+20211007_200953: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal
+20211007_200956: 20:09:56 Scroll nro: 1
+20211007_200958: 20:09:58 Scroll nro: 2
+20211007_201000: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral
+20211007_201001: 20:10:01 Scroll nro: 1
+20211007_201003: 20:10:03 Scroll nro: 2
+20211007_201005: 20:10:05 Scroll nro: 3
+20211007_201007: 20:10:07 Scroll nro: 4
+20211007_201009: 20:10:09 Scroll nro: 5
+20211007_201011: 20:10:11 Scroll nro: 6
+20211007_201014: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cremas-dentales
+20211007_201015: 20:10:15 Scroll nro: 1
+20211007_201017: 20:10:17 Scroll nro: 2
+20211007_201019: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cepillos-dentales
+20211007_201020: 20:10:20 Scroll nro: 1
+20211007_201022: 20:10:22 Scroll nro: 2
+20211007_201024: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/enjuagues-bucales
+20211007_201025: 20:10:25 Scroll nro: 1
+20211007_201027: 20:10:27 Scroll nro: 2
+20211007_201029: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/sedas-dentales
+20211007_201031: 20:10:31 Scroll nro: 1
+20211007_201033: 20:10:33 Scroll nro: 2
+20211007_201036: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/especializados
+20211007_201036: 20:10:36 Scroll nro: 1
+20211007_201038: 20:10:38 Scroll nro: 2
+20211007_201040: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel
+20211007_201041: 20:10:41 Scroll nro: 1
+20211007_201043: 20:10:43 Scroll nro: 2
+20211007_201045: 20:10:45 Scroll nro: 3
+20211007_201048: 20:10:48 Scroll nro: 4
+20211007_201050: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/proteccion-solar
+20211007_201051: 20:10:51 Scroll nro: 1
+20211007_201053: 20:10:53 Scroll nro: 2
+20211007_201055: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-corporal-repelentes-e-insecticidas
+20211007_201056: 20:10:56 Scroll nro: 1
+20211007_201058: 20:10:58 Scroll nro: 2
+20211007_201100: 20:11:00 Scroll nro: 3
+20211007_201102: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-facial
+20211007_201103: 20:11:03 Scroll nro: 1
+20211007_201105: 20:11:05 Scroll nro: 2
+20211007_201108: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal
+20211007_201109: 20:11:09 Scroll nro: 1
+20211007_201111: 20:11:11 Scroll nro: 2
+20211007_201113: 20:11:13 Scroll nro: 3
+20211007_201115: 20:11:15 Scroll nro: 4
+20211007_201117: 20:11:17 Scroll nro: 5
+20211007_201119: 20:11:19 Scroll nro: 6
+20211007_201121: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/desodorantes
+20211007_201122: 20:11:22 Scroll nro: 1
+20211007_201124: 20:11:24 Scroll nro: 2
+20211007_201127: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/jabones-y-gel-antibacterial
+20211007_201127: 20:11:27 Scroll nro: 1
+20211007_201129: 20:11:29 Scroll nro: 2
+20211007_201132: 20:11:32 Scroll nro: 3
+20211007_201134: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/afeitada-y-depilacion
+20211007_201135: 20:11:35 Scroll nro: 1
+20211007_201137: 20:11:37 Scroll nro: 2
+20211007_201139: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/cuidado-para-pies
+20211007_201140: 20:11:40 Scroll nro: 1
+20211007_201142: 20:11:42 Scroll nro: 2
+20211007_201144: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/panuelos-faciales
+20211007_201145: 20:11:45 Scroll nro: 1
+20211007_201147: 20:11:47 Scroll nro: 2
+20211007_201149: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina
+20211007_201150: 20:11:50 Scroll nro: 1
+20211007_201152: 20:11:52 Scroll nro: 2
+20211007_201154: 20:11:54 Scroll nro: 3
+20211007_201157: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/higiene-intima
+20211007_201159: 20:11:59 Scroll nro: 1
+20211007_201201: 20:12:01 Scroll nro: 2
+20211007_201203: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/protectores
+20211007_201204: 20:12:04 Scroll nro: 1
+20211007_201206: 20:12:06 Scroll nro: 2
+20211007_201208: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/tampones
+20211007_201209: 20:12:09 Scroll nro: 1
+20211007_201211: 20:12:11 Scroll nro: 2
+20211007_201213: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/toallas
+20211007_201213: 20:12:13 Scroll nro: 1
+20211007_201215: 20:12:15 Scroll nro: 2
+20211007_201218: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-del-cabello
+20211007_201218: 20:12:18 Scroll nro: 1
+20211007_201220: 20:12:20 Scroll nro: 2
+20211007_201222: 20:12:22 Scroll nro: 3
+20211007_201225: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/incontinencia
+20211007_201226: 20:12:26 Scroll nro: 1
+20211007_201228: 20:12:28 Scroll nro: 2
+20211007_201230: Working on https://www.drogueriascolsubsidio.com/activacion/PnG
+20211007_201232: 20:12:32 Scroll nro: 1
+20211007_201234: 20:12:34 Scroll nro: 2
+20211007_201236: 20:12:36 Scroll nro: 3
+20211007_201239: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa
+20211007_201241: 20:12:41 Scroll nro: 1
+20211007_201243: 20:12:43 Scroll nro: 2
+20211007_201246: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/terapia-respiratoria
+20211007_201247: 20:12:47 Scroll nro: 1
+20211007_201249: 20:12:49 Scroll nro: 2
+20211007_201251: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/ortopedia-y-movilidad
+20211007_201252: 20:12:52 Scroll nro: 1
+20211007_201254: 20:12:54 Scroll nro: 2
+20211007_201256: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/fisioterapia-y-rehabilitacion
+20211007_201257: 20:12:57 Scroll nro: 1
+20211007_201259: 20:12:59 Scroll nro: 2
+20211007_201301: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/medicion-y-diagnostico
+20211007_201302: 20:13:02 Scroll nro: 1
+20211007_201304: 20:13:04 Scroll nro: 2
+20211007_201306: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/accesorios-medicos
+20211007_201307: 20:13:07 Scroll nro: 1
+20211007_201309: 20:13:09 Scroll nro: 2
+20211007_201311: 20:13:11 Scroll nro: 3
+20211007_201313: 20:13:13 Scroll nro: 4
+20211007_201315: 20:13:15 Scroll nro: 5
+20211007_201317: 20:13:17 Scroll nro: 6
+20211007_201320: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas
+20211007_201322: 20:13:22 Scroll nro: 1
+20211007_201324: 20:13:24 Scroll nro: 2
+20211007_201326: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/snacks
+20211007_201327: 20:13:27 Scroll nro: 1
+20211007_201329: 20:13:29 Scroll nro: 2
+20211007_201331: 20:13:31 Scroll nro: 3
+20211007_201333: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/dulces-y-chocolates
+20211007_201334: 20:13:34 Scroll nro: 1
+20211007_201336: 20:13:36 Scroll nro: 2
+20211007_201338: 20:13:38 Scroll nro: 3
+20211007_201340: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/helados
+20211007_201341: 20:13:41 Scroll nro: 1
+20211007_201343: 20:13:43 Scroll nro: 2
+20211007_201345: 20:13:45 Scroll nro: 3
+20211007_201348: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/lacteos
+20211007_201348: 20:13:48 Scroll nro: 1
+20211007_201350: 20:13:50 Scroll nro: 2
+20211007_201353: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/bebidas
+20211007_201354: 20:13:54 Scroll nro: 1
+20211007_201356: 20:13:56 Scroll nro: 2
+20211007_201358: 20:13:58 Scroll nro: 3
+20211007_201400: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-de-la-piel
+20211007_201401: 20:14:01 Scroll nro: 1
+20211007_201403: 20:14:03 Scroll nro: 2
+20211007_201405: 20:14:05 Scroll nro: 3
+20211007_201407: Working on https://www.drogueriascolsubsidio.com/loreal/productos/cuidado-facial
+20211007_201408: 20:14:08 Scroll nro: 1
+20211007_201410: 20:14:10 Scroll nro: 2
+20211007_201412: 20:14:12 Scroll nro: 3
+20211007_201414: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar
+20211007_201415: 20:14:15 Scroll nro: 1
+20211007_201417: 20:14:17 Scroll nro: 2
+20211007_201419: 20:14:19 Scroll nro: 3
+20211007_201421: Working on https://www.drogueriascolsubsidio.com/loreal/maquillaje
+20211007_201423: 20:14:23 Scroll nro: 1
+20211007_201425: 20:14:25 Scroll nro: 2
+20211007_201427: 20:14:27 Scroll nro: 3
+20211007_201429: 20:14:29 Scroll nro: 4
+20211007_201431: 20:14:31 Scroll nro: 5
+20211007_201433: 20:14:33 Scroll nro: 6
+20211007_201436: Working on https://www.drogueriascolsubsidio.com/loreal/productos/rostro
+20211007_201436: 20:14:36 Scroll nro: 1
+20211007_201438: 20:14:38 Scroll nro: 2
+20211007_201440: 20:14:40 Scroll nro: 3
+20211007_201443: Working on https://www.drogueriascolsubsidio.com/loreal/productos/ojos
+20211007_201443: 20:14:43 Scroll nro: 1
+20211007_201445: 20:14:45 Scroll nro: 2
+20211007_201447: 20:14:47 Scroll nro: 3
+20211007_201449: Working on https://www.drogueriascolsubsidio.com/loreal/productos/labios
+20211007_201450: 20:14:50 Scroll nro: 1
+20211007_201452: 20:14:52 Scroll nro: 2
+20211007_201454: 20:14:54 Scroll nro: 3
+20211007_201456: Working on https://www.drogueriascolsubsidio.com/loreal/productos/unas
+20211007_201457: 20:14:57 Scroll nro: 1
+20211007_201459: 20:14:59 Scroll nro: 2
+20211007_201501: 20:15:01 Scroll nro: 3
+20211007_201503: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/shampoo-acondicionadores
+20211007_201504: 20:15:04 Scroll nro: 1
+20211007_201506: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/tratamientos
+20211007_201506: 20:15:06 Scroll nro: 1
+20211007_201508: 20:15:08 Scroll nro: 2
+20211007_201510: 20:15:10 Scroll nro: 3
+20211007_201513: Working on https://www.drogueriascolsubsidio.com/loreal/dermocosmetica
+20211007_201514: 20:15:14 Scroll nro: 1
+20211007_201516: 20:15:16 Scroll nro: 2
+20211007_201518: 20:15:18 Scroll nro: 3
+20211007_201520: Lenght of productDataList: 100
+20211007_201520: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211007_201520: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211007_201520: Time Elapsed: 0:14:55.692029
+20211007_201520: Starting process of loading data to PostgreSQL...
+20211007_201520: Working on interval [0, 500] last Interval: [11000, 11389]
+20211007_201522: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.649372
+20211007_201522: Working on interval [500, 1000] last Interval: [11000, 11389]
+20211007_201524: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.627656
+20211007_201524: Working on interval [1000, 1500] last Interval: [11000, 11389]
+20211007_201525: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.558355
+20211007_201525: Working on interval [1500, 2000] last Interval: [11000, 11389]
+20211007_201527: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.453662
+20211007_201527: Working on interval [2000, 2500] last Interval: [11000, 11389]
+20211007_201529: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:01.635734
+20211007_201529: Working on interval [2500, 3000] last Interval: [11000, 11389]
+20211007_201530: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.627248
+20211007_201530: Working on interval [3000, 3500] last Interval: [11000, 11389]
+20211007_201532: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:01.841393
+20211007_201532: Working on interval [3500, 4000] last Interval: [11000, 11389]
+20211007_201534: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.492667
+20211007_201534: Working on interval [4000, 4500] last Interval: [11000, 11389]
+20211007_201535: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.550564
+20211007_201535: Working on interval [4500, 5000] last Interval: [11000, 11389]
+20211007_201538: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:02.747352
+20211007_201538: Working on interval [5000, 5500] last Interval: [11000, 11389]
+20211007_201540: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.631877
+20211007_201540: Working on interval [5500, 6000] last Interval: [11000, 11389]
+20211007_201541: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.537062
+20211007_201541: Working on interval [6000, 6500] last Interval: [11000, 11389]
+20211007_201543: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.782855
+20211007_201543: Working on interval [6500, 7000] last Interval: [11000, 11389]
+20211007_201545: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.712012
+20211007_201545: Working on interval [7000, 7500] last Interval: [11000, 11389]
+20211007_201547: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.858339
+20211007_201547: Working on interval [7500, 8000] last Interval: [11000, 11389]
+20211007_201549: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:02.119903
+20211007_201549: Working on interval [8000, 8500] last Interval: [11000, 11389]
+20211007_201551: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.932716
+20211007_201551: Working on interval [8500, 9000] last Interval: [11000, 11389]
+20211007_201552: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.714939
+20211007_201552: Working on interval [9000, 9500] last Interval: [11000, 11389]
+20211007_201554: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.703929
+20211007_201554: Working on interval [9500, 10000] last Interval: [11000, 11389]
+20211007_201556: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:02.238890
+20211007_201556: Working on interval [10000, 10500] last Interval: [11000, 11389]
+20211007_201558: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.508748
+20211007_201558: Working on interval [10500, 11000] last Interval: [11000, 11389]
+20211007_201600: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.668644
+20211007_201600: Working on interval [11000, 11389] last Interval: [11000, 11389]
+20211007_201602: Results of interval [11000, 11389]: Successful - OK, 389 rows affected. - 0:00:01.945562
+20211007_201602: Finshed process loading data to PostgreSQL
+20211007_201602: Time Elapsed: 0:00:41.325598
+20211007_201602: Total Time Elapsed: 0:15:37.033627
+20211007_230025: Starting web crawling and scraping process with https://www.drogueriascolsubsidio.com
+20211007_230025: Creating a list of Category URLs.
+20211007_230034: Starting process with each URL.
+20211007_230035: Working on https://www.drogueriascolsubsidio.com/medicamentos
+20211007_230040: 23:00:40 Scroll nro: 1
+20211007_230042: 23:00:42 Scroll nro: 2
+20211007_230044: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre
+20211007_230046: 23:00:46 Scroll nro: 1
+20211007_230048: 23:00:48 Scroll nro: 2
+20211007_230050: 23:00:50 Scroll nro: 3
+20211007_230052: 23:00:52 Scroll nro: 4
+20211007_230054: 23:00:54 Scroll nro: 5
+20211007_230056: 23:00:56 Scroll nro: 6
+20211007_230058: 23:00:58 Scroll nro: 7
+20211007_230100: 23:01:00 Scroll nro: 8
+20211007_230102: 23:01:02 Scroll nro: 9
+20211007_230104: 23:01:04 Scroll nro: 10
+20211007_230106: 23:01:06 Scroll nro: 11
+20211007_230108: 23:01:08 Scroll nro: 12
+20211007_230110: 23:01:10 Scroll nro: 13
+20211007_230113: 23:01:13 Scroll nro: 14
+20211007_230115: 23:01:15 Scroll nro: 15
+20211007_230118: 23:01:18 Scroll nro: 16
+20211007_230120: 23:01:20 Scroll nro: 17
+20211007_230128: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor
+20211007_230128: 23:01:28 Scroll nro: 1
+20211007_230130: 23:01:30 Scroll nro: 2
+20211007_230132: 23:01:32 Scroll nro: 3
+20211007_230134: 23:01:34 Scroll nro: 4
+20211007_230136: 23:01:36 Scroll nro: 5
+20211007_230139: 23:01:39 Scroll nro: 6
+20211007_230141: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-fuerte
+20211007_230142: 23:01:42 Scroll nro: 1
+20211007_230144: 23:01:44 Scroll nro: 2
+20211007_230146: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-general
+20211007_230147: 23:01:47 Scroll nro: 1
+20211007_230149: 23:01:49 Scroll nro: 2
+20211007_230151: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/abdominal-y-colico
+20211007_230152: 23:01:52 Scroll nro: 1
+20211007_230154: 23:01:54 Scroll nro: 2
+20211007_230156: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/alivio-del-dolor/dolor-ninos
+20211007_230157: 23:01:57 Scroll nro: 1
+20211007_230159: 23:01:59 Scroll nro: 2
+20211007_230201: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios
+20211007_230202: 23:02:02 Scroll nro: 1
+20211007_230204: 23:02:04 Scroll nro: 2
+20211007_230206: 23:02:06 Scroll nro: 3
+20211007_230208: 23:02:08 Scroll nro: 4
+20211007_230210: 23:02:10 Scroll nro: 5
+20211007_230212: 23:02:12 Scroll nro: 6
+20211007_230215: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/algodon-curas-gasas-y-vendas
+20211007_230216: 23:02:16 Scroll nro: 1
+20211007_230218: 23:02:18 Scroll nro: 2
+20211007_230220: 23:02:20 Scroll nro: 3
+20211007_230222: 23:02:22 Scroll nro: 4
+20211007_230224: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/botiquin-y-primeros-auxilios/antisepticos
+20211007_230225: 23:02:25 Scroll nro: 1
+20211007_230227: 23:02:27 Scroll nro: 2
+20211007_230229: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal
+20211007_230229: 23:02:29 Scroll nro: 1
+20211007_230231: 23:02:31 Scroll nro: 2
+20211007_230233: 23:02:33 Scroll nro: 3
+20211007_230235: 23:02:35 Scroll nro: 4
+20211007_230238: 23:02:38 Scroll nro: 5
+20211007_230240: 23:02:40 Scroll nro: 6
+20211007_230242: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/descongestionantes
+20211007_230243: 23:02:43 Scroll nro: 1
+20211007_230245: 23:02:45 Scroll nro: 2
+20211007_230247: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/garganta
+20211007_230248: 23:02:48 Scroll nro: 1
+20211007_230250: 23:02:50 Scroll nro: 2
+20211007_230252: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/gripa
+20211007_230253: 23:02:53 Scroll nro: 1
+20211007_230255: 23:02:55 Scroll nro: 2
+20211007_230258: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/cuidado-gripal/tos
+20211007_230258: 23:02:58 Scroll nro: 1
+20211007_230300: 23:03:00 Scroll nro: 2
+20211007_230302: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre/bienestar-digestivo
+20211007_230303: 23:03:03 Scroll nro: 1
+20211007_230305: 23:03:05 Scroll nro: 2
+20211007_230307: 23:03:07 Scroll nro: 3
+20211007_230309: 23:03:09 Scroll nro: 4
+20211007_230311: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual
+20211007_230312: 23:03:12 Scroll nro: 1
+20211007_230314: 23:03:14 Scroll nro: 2
+20211007_230316: 23:03:16 Scroll nro: 3
+20211007_230318: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/lubricantes-y-dispositivos
+20211007_230319: 23:03:19 Scroll nro: 1
+20211007_230321: 23:03:21 Scroll nro: 2
+20211007_230323: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/preservativos
+20211007_230323: 23:03:23 Scroll nro: 1
+20211007_230325: 23:03:25 Scroll nro: 2
+20211007_230328: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/pruebas-de-embarazo
+20211007_230329: 23:03:29 Scroll nro: 1
+20211007_230331: 23:03:31 Scroll nro: 2
+20211007_230333: Working on https://www.drogueriascolsubsidio.com/medicamentos/salud-sexual/cremas-y-ovulos
+20211007_230333: 23:03:33 Scroll nro: 1
+20211007_230335: 23:03:35 Scroll nro: 2
+20211007_230337: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa
+20211007_230338: 23:03:38 Scroll nro: 1
+20211007_230340: 23:03:40 Scroll nro: 2
+20211007_230342: 23:03:42 Scroll nro: 3
+20211007_230344: 23:03:44 Scroll nro: 4
+20211007_230346: 23:03:46 Scroll nro: 5
+20211007_230348: 23:03:48 Scroll nro: 6
+20211007_230350: 23:03:50 Scroll nro: 7
+20211007_230352: 23:03:52 Scroll nro: 8
+20211007_230355: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/naturales
+20211007_230356: 23:03:56 Scroll nro: 1
+20211007_230358: 23:03:58 Scroll nro: 2
+20211007_230400: 23:04:00 Scroll nro: 3
+20211007_230402: 23:04:02 Scroll nro: 4
+20211007_230404: 23:04:04 Scroll nro: 5
+20211007_230406: 23:04:06 Scroll nro: 6
+20211007_230409: Working on https://www.drogueriascolsubsidio.com/medicamentos/medicina-alternativa/homeopaticos
+20211007_230409: 23:04:09 Scroll nro: 1
+20211007_230411: 23:04:11 Scroll nro: 2
+20211007_230413: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos
+20211007_230414: 23:04:14 Scroll nro: 1
+20211007_230416: 23:04:16 Scroll nro: 2
+20211007_230418: 23:04:18 Scroll nro: 3
+20211007_230420: 23:04:20 Scroll nro: 4
+20211007_230422: 23:04:22 Scroll nro: 5
+20211007_230424: 23:04:24 Scroll nro: 6
+20211007_230426: 23:04:26 Scroll nro: 7
+20211007_230428: 23:04:28 Scroll nro: 8
+20211007_230431: 23:04:31 Scroll nro: 9
+20211007_230433: 23:04:33 Scroll nro: 10
+20211007_230436: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-corporal
+20211007_230441: 23:04:41 Scroll nro: 1
+20211007_230443: 23:04:43 Scroll nro: 2
+20211007_230445: 23:04:45 Scroll nro: 3
+20211007_230447: 23:04:47 Scroll nro: 4
+20211007_230450: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-capilar
+20211007_230450: 23:04:50 Scroll nro: 1
+20211007_230452: 23:04:52 Scroll nro: 2
+20211007_230455: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/cuidado-facial
+20211007_230456: 23:04:56 Scroll nro: 1
+20211007_230458: 23:04:58 Scroll nro: 2
+20211007_230500: 23:05:00 Scroll nro: 3
+20211007_230502: 23:05:02 Scroll nro: 4
+20211007_230505: Working on https://www.drogueriascolsubsidio.com/medicamentos/dermatologicos/proteccion-solar
+20211007_230505: 23:05:05 Scroll nro: 1
+20211007_230507: 23:05:07 Scroll nro: 2
+20211007_230509: 23:05:09 Scroll nro: 3
+20211007_230511: Working on https://www.drogueriascolsubsidio.com/medicamentos/formulados
+20211007_230513: 23:05:13 Scroll nro: 1
+20211007_230515: 23:05:15 Scroll nro: 2
+20211007_230517: 23:05:17 Scroll nro: 3
+20211007_230519: 23:05:19 Scroll nro: 4
+20211007_230521: 23:05:21 Scroll nro: 5
+20211007_230523: 23:05:23 Scroll nro: 6
+20211007_230525: 23:05:25 Scroll nro: 7
+20211007_230527: 23:05:27 Scroll nro: 8
+20211007_230529: 23:05:29 Scroll nro: 9
+20211007_230531: 23:05:31 Scroll nro: 10
+20211007_230534: 23:05:34 Scroll nro: 11
+20211007_230536: 23:05:36 Scroll nro: 12
+20211007_230538: 23:05:38 Scroll nro: 13
+20211007_230540: 23:05:40 Scroll nro: 14
+20211007_230542: 23:05:42 Scroll nro: 15
+20211007_230544: 23:05:44 Scroll nro: 16
+20211007_230546: 23:05:46 Scroll nro: 17
+20211007_230549: 23:05:49 Scroll nro: 18
+20211007_230552: 23:05:52 Scroll nro: 19
+20211007_230554: 23:05:54 Scroll nro: 20
+20211007_230557: 23:05:57 Scroll nro: 21
+20211007_230559: 23:05:59 Scroll nro: 22
+20211007_230601: 23:06:01 Scroll nro: 23
+20211007_230603: 23:06:03 Scroll nro: 24
+20211007_230605: 23:06:05 Scroll nro: 25
+20211007_230607: 23:06:07 Scroll nro: 26
+20211007_230610: 23:06:10 Scroll nro: 27
+20211007_230614: 23:06:14 Scroll nro: 28
+20211007_230617: 23:06:17 Scroll nro: 29
+20211007_230619: 23:06:19 Scroll nro: 30
+20211007_230622: 23:06:22 Scroll nro: 31
+20211007_230625: 23:06:25 Scroll nro: 32
+20211007_230628: 23:06:28 Scroll nro: 33
+20211007_230632: 23:06:32 Scroll nro: 34
+20211007_230634: 23:06:34 Scroll nro: 35
+20211007_230636: 23:06:36 Scroll nro: 36
+20211007_230641: 23:06:41 Scroll nro: 37
+20211007_230645: 23:06:45 Scroll nro: 38
+20211007_230649: 23:06:49 Scroll nro: 39
+20211007_230654: 23:06:54 Scroll nro: 40
+20211007_230658: 23:06:58 Scroll nro: 41
+20211007_230702: 23:07:02 Scroll nro: 42
+20211007_230708: 23:07:08 Scroll nro: 43
+20211007_230711: 23:07:11 Scroll nro: 44
+20211007_230719: Working on https://www.drogueriascolsubsidio.com/activacion/mka
+20211007_230720: 23:07:20 Scroll nro: 1
+20211007_230722: 23:07:22 Scroll nro: 2
+20211007_230724: 23:07:24 Scroll nro: 3
+20211007_230726: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable
+20211007_230731: 23:07:31 Scroll nro: 1
+20211007_230733: 23:07:33 Scroll nro: 2
+20211007_230736: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/vitaminas
+20211007_230736: 23:07:36 Scroll nro: 1
+20211007_230738: 23:07:38 Scroll nro: 2
+20211007_230740: 23:07:40 Scroll nro: 3
+20211007_230742: 23:07:42 Scroll nro: 4
+20211007_230744: 23:07:44 Scroll nro: 5
+20211007_230746: 23:07:46 Scroll nro: 6
+20211007_230749: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/suplementos
+20211007_230750: 23:07:50 Scroll nro: 1
+20211007_230752: 23:07:52 Scroll nro: 2
+20211007_230754: 23:07:54 Scroll nro: 3
+20211007_230756: 23:07:56 Scroll nro: 4
+20211007_230758: 23:07:58 Scroll nro: 5
+20211007_230800: 23:08:00 Scroll nro: 6
+20211007_230803: Working on https://www.drogueriascolsubsidio.com/nutricion-y-vida-saludable/nutricion-deportiva
+20211007_230804: 23:08:04 Scroll nro: 1
+20211007_230806: 23:08:06 Scroll nro: 2
+20211007_230808: Working on https://www.drogueriascolsubsidio.com/activacion/vitamina-c-la-sante
+20211007_230809: 23:08:09 Scroll nro: 1
+20211007_230811: 23:08:11 Scroll nro: 2
+20211007_230813: 23:08:13 Scroll nro: 3
+20211007_230815: Working on https://www.drogueriascolsubsidio.com/belleza
+20211007_230817: 23:08:17 Scroll nro: 1
+20211007_230819: 23:08:19 Scroll nro: 2
+20211007_230821: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos
+20211007_230822: 23:08:22 Scroll nro: 1
+20211007_230824: 23:08:24 Scroll nro: 2
+20211007_230826: 23:08:26 Scroll nro: 3
+20211007_230828: 23:08:28 Scroll nro: 4
+20211007_230830: 23:08:30 Scroll nro: 5
+20211007_230832: 23:08:32 Scroll nro: 6
+20211007_230834: 23:08:34 Scroll nro: 7
+20211007_230836: 23:08:36 Scroll nro: 8
+20211007_230838: 23:08:38 Scroll nro: 9
+20211007_230840: 23:08:40 Scroll nro: 10
+20211007_230843: 23:08:43 Scroll nro: 11
+20211007_230845: 23:08:45 Scroll nro: 12
+20211007_230848: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/ojos
+20211007_230849: 23:08:49 Scroll nro: 1
+20211007_230851: 23:08:51 Scroll nro: 2
+20211007_230853: 23:08:53 Scroll nro: 3
+20211007_230855: 23:08:55 Scroll nro: 4
+20211007_230857: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/labios
+20211007_230858: 23:08:58 Scroll nro: 1
+20211007_230900: 23:09:00 Scroll nro: 2
+20211007_230902: 23:09:02 Scroll nro: 3
+20211007_230904: 23:09:04 Scroll nro: 4
+20211007_230906: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/rostro
+20211007_230907: 23:09:07 Scroll nro: 1
+20211007_230909: 23:09:09 Scroll nro: 2
+20211007_230911: 23:09:11 Scroll nro: 3
+20211007_230913: 23:09:13 Scroll nro: 4
+20211007_230915: 23:09:15 Scroll nro: 5
+20211007_230917: 23:09:17 Scroll nro: 6
+20211007_230920: Working on https://www.drogueriascolsubsidio.com/belleza/cosmeticos/unas
+20211007_230920: 23:09:20 Scroll nro: 1
+20211007_230922: 23:09:22 Scroll nro: 2
+20211007_230924: Working on https://www.drogueriascolsubsidio.com/belleza/dermocosmetica
+20211007_230926: 23:09:26 Scroll nro: 1
+20211007_230928: 23:09:28 Scroll nro: 2
+20211007_230930: 23:09:30 Scroll nro: 3
+20211007_230933: Working on https://www.drogueriascolsubsidio.com/activacion/isdin-fotoproteccion
+20211007_230933: 23:09:33 Scroll nro: 1
+20211007_230936: 23:09:36 Scroll nro: 2
+20211007_230938: 23:09:38 Scroll nro: 3
+20211007_230940: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes
+20211007_230942: 23:09:42 Scroll nro: 1
+20211007_230944: 23:09:44 Scroll nro: 2
+20211007_230946: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion
+20211007_230947: 23:09:47 Scroll nro: 1
+20211007_230949: 23:09:49 Scroll nro: 2
+20211007_230951: 23:09:51 Scroll nro: 3
+20211007_230953: 23:09:53 Scroll nro: 4
+20211007_230955: 23:09:55 Scroll nro: 5
+20211007_230957: 23:09:57 Scroll nro: 6
+20211007_231000: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/formulas-infantiles
+20211007_231001: 23:10:01 Scroll nro: 1
+20211007_231003: 23:10:03 Scroll nro: 2
+20211007_231005: 23:10:05 Scroll nro: 3
+20211007_231007: 23:10:07 Scroll nro: 4
+20211007_231009: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/alimentacion/compotas-y-cerales
+20211007_231013: 23:10:13 Scroll nro: 1
+20211007_231015: 23:10:15 Scroll nro: 2
+20211007_231017: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/accesorios
+20211007_231022: 23:10:22 Scroll nro: 1
+20211007_231024: 23:10:24 Scroll nro: 2
+20211007_231026: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-de-la-mama
+20211007_231030: 23:10:30 Scroll nro: 1
+20211007_231032: 23:10:32 Scroll nro: 2
+20211007_231035: Working on https://www.drogueriascolsubsidio.com/mamas-y-bebes/cuidado-del-bebe
+20211007_231038: 23:10:38 Scroll nro: 1
+20211007_231040: 23:10:40 Scroll nro: 2
+20211007_231042: 23:10:42 Scroll nro: 3
+20211007_231044: 23:10:44 Scroll nro: 4
+20211007_231046: 23:10:46 Scroll nro: 5
+20211007_231048: Working on https://www.drogueriascolsubsidio.com/activacion/winny
+20211007_231049: 23:10:49 Scroll nro: 1
+20211007_231051: 23:10:51 Scroll nro: 2
+20211007_231053: 23:10:53 Scroll nro: 3
+20211007_231055: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal
+20211007_231105: 23:11:05 Scroll nro: 1
+20211007_231107: 23:11:07 Scroll nro: 2
+20211007_231109: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral
+20211007_231110: 23:11:10 Scroll nro: 1
+20211007_231112: 23:11:12 Scroll nro: 2
+20211007_231114: 23:11:14 Scroll nro: 3
+20211007_231116: 23:11:16 Scroll nro: 4
+20211007_231118: 23:11:18 Scroll nro: 5
+20211007_231120: 23:11:20 Scroll nro: 6
+20211007_231123: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cremas-dentales
+20211007_231123: 23:11:23 Scroll nro: 1
+20211007_231125: 23:11:25 Scroll nro: 2
+20211007_231127: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/cepillos-dentales
+20211007_231129: 23:11:29 Scroll nro: 1
+20211007_231131: 23:11:31 Scroll nro: 2
+20211007_231134: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/enjuagues-bucales
+20211007_231135: 23:11:35 Scroll nro: 1
+20211007_231137: 23:11:37 Scroll nro: 2
+20211007_231139: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/sedas-dentales
+20211007_231139: 23:11:39 Scroll nro: 1
+20211007_231141: 23:11:41 Scroll nro: 2
+20211007_231143: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-oral/especializados
+20211007_231144: 23:11:44 Scroll nro: 1
+20211007_231146: 23:11:46 Scroll nro: 2
+20211007_231148: 23:11:48 Scroll nro: 3
+20211007_231150: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel
+20211007_231152: 23:11:52 Scroll nro: 1
+20211007_231154: 23:11:54 Scroll nro: 2
+20211007_231156: 23:11:56 Scroll nro: 3
+20211007_231158: 23:11:58 Scroll nro: 4
+20211007_231200: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/proteccion-solar
+20211007_231201: 23:12:01 Scroll nro: 1
+20211007_231203: 23:12:03 Scroll nro: 2
+20211007_231205: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-corporal-repelentes-e-insecticidas
+20211007_231205: 23:12:05 Scroll nro: 1
+20211007_231207: 23:12:07 Scroll nro: 2
+20211007_231209: 23:12:09 Scroll nro: 3
+20211007_231212: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-de-la-piel/cuidado-facial
+20211007_231213: 23:12:13 Scroll nro: 1
+20211007_231215: 23:12:15 Scroll nro: 2
+20211007_231217: 23:12:17 Scroll nro: 3
+20211007_231219: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal
+20211007_231219: 23:12:19 Scroll nro: 1
+20211007_231221: 23:12:21 Scroll nro: 2
+20211007_231223: 23:12:23 Scroll nro: 3
+20211007_231226: 23:12:26 Scroll nro: 4
+20211007_231228: 23:12:28 Scroll nro: 5
+20211007_231230: 23:12:30 Scroll nro: 6
+20211007_231232: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/desodorantes
+20211007_231233: 23:12:33 Scroll nro: 1
+20211007_231235: 23:12:35 Scroll nro: 2
+20211007_231237: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/jabones-y-gel-antibacterial
+20211007_231237: 23:12:37 Scroll nro: 1
+20211007_231239: 23:12:39 Scroll nro: 2
+20211007_231241: 23:12:41 Scroll nro: 3
+20211007_231244: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/afeitada-y-depilacion
+20211007_231250: 23:12:50 Scroll nro: 1
+20211007_231252: 23:12:52 Scroll nro: 2
+20211007_231254: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/cuidado-para-pies
+20211007_231256: 23:12:56 Scroll nro: 1
+20211007_231258: 23:12:58 Scroll nro: 2
+20211007_231300: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/aseo-personal/panuelos-faciales
+20211007_231301: 23:13:01 Scroll nro: 1
+20211007_231303: 23:13:03 Scroll nro: 2
+20211007_231305: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina
+20211007_231306: 23:13:06 Scroll nro: 1
+20211007_231308: 23:13:08 Scroll nro: 2
+20211007_231311: 23:13:11 Scroll nro: 3
+20211007_231313: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/higiene-intima
+20211007_231313: 23:13:13 Scroll nro: 1
+20211007_231315: 23:13:15 Scroll nro: 2
+20211007_231317: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/protectores
+20211007_231319: 23:13:19 Scroll nro: 1
+20211007_231321: 23:13:21 Scroll nro: 2
+20211007_231323: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/tampones
+20211007_231323: 23:13:23 Scroll nro: 1
+20211007_231325: 23:13:25 Scroll nro: 2
+20211007_231327: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/proteccion-femenina/toallas
+20211007_231328: 23:13:28 Scroll nro: 1
+20211007_231330: 23:13:30 Scroll nro: 2
+20211007_231333: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/cuidado-del-cabello
+20211007_231334: 23:13:34 Scroll nro: 1
+20211007_231336: 23:13:36 Scroll nro: 2
+20211007_231338: 23:13:38 Scroll nro: 3
+20211007_231340: Working on https://www.drogueriascolsubsidio.com/higiene-y-cuidado-personal/incontinencia
+20211007_231341: 23:13:41 Scroll nro: 1
+20211007_231343: 23:13:43 Scroll nro: 2
+20211007_231345: Working on https://www.drogueriascolsubsidio.com/activacion/PnG
+20211007_231346: 23:13:46 Scroll nro: 1
+20211007_231348: 23:13:48 Scroll nro: 2
+20211007_231350: 23:13:50 Scroll nro: 3
+20211007_231352: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa
+20211007_231354: 23:13:54 Scroll nro: 1
+20211007_231356: 23:13:56 Scroll nro: 2
+20211007_231359: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/terapia-respiratoria
+20211007_231400: 23:14:00 Scroll nro: 1
+20211007_231402: 23:14:02 Scroll nro: 2
+20211007_231404: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/ortopedia-y-movilidad
+20211007_231405: 23:14:05 Scroll nro: 1
+20211007_231407: 23:14:07 Scroll nro: 2
+20211007_231410: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/fisioterapia-y-rehabilitacion
+20211007_231411: 23:14:11 Scroll nro: 1
+20211007_231413: 23:14:13 Scroll nro: 2
+20211007_231415: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/medicion-y-diagnostico
+20211007_231416: 23:14:16 Scroll nro: 1
+20211007_231418: 23:14:18 Scroll nro: 2
+20211007_231420: 23:14:20 Scroll nro: 3
+20211007_231422: Working on https://www.drogueriascolsubsidio.com/equipos-de-cuidado-en-casa/accesorios-medicos
+20211007_231425: 23:14:25 Scroll nro: 1
+20211007_231427: 23:14:27 Scroll nro: 2
+20211007_231429: 23:14:29 Scroll nro: 3
+20211007_231431: 23:14:31 Scroll nro: 4
+20211007_231433: 23:14:33 Scroll nro: 5
+20211007_231435: 23:14:35 Scroll nro: 6
+20211007_231437: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas
+20211007_231439: 23:14:39 Scroll nro: 1
+20211007_231442: 23:14:42 Scroll nro: 2
+20211007_231444: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/snacks
+20211007_231445: 23:14:45 Scroll nro: 1
+20211007_231447: 23:14:47 Scroll nro: 2
+20211007_231449: 23:14:49 Scroll nro: 3
+20211007_231451: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/dulces-y-chocolates
+20211007_231452: 23:14:52 Scroll nro: 1
+20211007_231454: 23:14:54 Scroll nro: 2
+20211007_231456: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/helados
+20211007_231456: 23:14:56 Scroll nro: 1
+20211007_231459: 23:14:59 Scroll nro: 2
+20211007_231501: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/lacteos
+20211007_231502: 23:15:02 Scroll nro: 1
+20211007_231504: 23:15:04 Scroll nro: 2
+20211007_231506: Working on https://www.drogueriascolsubsidio.com/alimentos-y-bebidas/bebidas
+20211007_231506: 23:15:06 Scroll nro: 1
+20211007_231508: 23:15:08 Scroll nro: 2
+20211007_231510: 23:15:10 Scroll nro: 3
+20211007_231513: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-de-la-piel
+20211007_231513: 23:15:13 Scroll nro: 1
+20211007_231515: 23:15:15 Scroll nro: 2
+20211007_231517: 23:15:17 Scroll nro: 3
+20211007_231519: Working on https://www.drogueriascolsubsidio.com/loreal/productos/cuidado-facial
+20211007_231521: 23:15:21 Scroll nro: 1
+20211007_231523: 23:15:23 Scroll nro: 2
+20211007_231525: 23:15:25 Scroll nro: 3
+20211007_231527: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar
+20211007_231528: 23:15:28 Scroll nro: 1
+20211007_231530: 23:15:30 Scroll nro: 2
+20211007_231533: Working on https://www.drogueriascolsubsidio.com/loreal/maquillaje
+20211007_231533: 23:15:33 Scroll nro: 1
+20211007_231535: 23:15:35 Scroll nro: 2
+20211007_231537: 23:15:37 Scroll nro: 3
+20211007_231539: 23:15:39 Scroll nro: 4
+20211007_231541: 23:15:41 Scroll nro: 5
+20211007_231543: 23:15:43 Scroll nro: 6
+20211007_231546: Working on https://www.drogueriascolsubsidio.com/loreal/productos/rostro
+20211007_231548: 23:15:48 Scroll nro: 1
+20211007_231550: 23:15:50 Scroll nro: 2
+20211007_231553: Working on https://www.drogueriascolsubsidio.com/loreal/productos/ojos
+20211007_231554: 23:15:54 Scroll nro: 1
+20211007_231556: 23:15:56 Scroll nro: 2
+20211007_231558: 23:15:58 Scroll nro: 3
+20211007_231600: Working on https://www.drogueriascolsubsidio.com/loreal/productos/labios
+20211007_231600: 23:16:00 Scroll nro: 1
+20211007_231602: 23:16:02 Scroll nro: 2
+20211007_231604: 23:16:04 Scroll nro: 3
+20211007_231607: Working on https://www.drogueriascolsubsidio.com/loreal/productos/unas
+20211007_231608: 23:16:08 Scroll nro: 1
+20211007_231610: 23:16:10 Scroll nro: 2
+20211007_231612: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/shampoo-acondicionadores
+20211007_231613: 23:16:13 Scroll nro: 1
+20211007_231615: 23:16:15 Scroll nro: 2
+20211007_231617: 23:16:17 Scroll nro: 3
+20211007_231619: Working on https://www.drogueriascolsubsidio.com/loreal/cuidado-capilar/tratamientos
+20211007_231620: 23:16:20 Scroll nro: 1
+20211007_231622: 23:16:22 Scroll nro: 2
+20211007_231624: 23:16:24 Scroll nro: 3
+20211007_231626: Working on https://www.drogueriascolsubsidio.com/loreal/dermocosmetica
+20211007_231626: 23:16:26 Scroll nro: 1
+20211007_231628: 23:16:28 Scroll nro: 2
+20211007_231631: 23:16:31 Scroll nro: 3
+20211007_231633: Lenght of productDataList: 100
+20211007_231633: Saving the web scraping results from https://www.drogueriascolsubsidio.com into a csv file.
+20211007_231633: Finshed process of web crawling and scraping into https://www.drogueriascolsubsidio.com
+20211007_231633: Time Elapsed: 0:16:08.282061
+20211007_231633: Starting process of loading data to PostgreSQL...
+20211007_231633: Working on interval [0, 500] last Interval: [12000, 12179]
+20211007_231635: Results of interval [0, 500]: Successful - OK, 500 rows affected. - 0:00:01.771349
+20211007_231635: Working on interval [500, 1000] last Interval: [12000, 12179]
+20211007_231636: Results of interval [500, 1000]: Successful - OK, 500 rows affected. - 0:00:01.483670
+20211007_231636: Working on interval [1000, 1500] last Interval: [12000, 12179]
+20211007_231638: Results of interval [1000, 1500]: Successful - OK, 500 rows affected. - 0:00:01.711775
+20211007_231638: Working on interval [1500, 2000] last Interval: [12000, 12179]
+20211007_231640: Results of interval [1500, 2000]: Successful - OK, 500 rows affected. - 0:00:01.572147
+20211007_231640: Working on interval [2000, 2500] last Interval: [12000, 12179]
+20211007_231644: Results of interval [2000, 2500]: Successful - OK, 500 rows affected. - 0:00:04.025205
+20211007_231644: Working on interval [2500, 3000] last Interval: [12000, 12179]
+20211007_231645: Results of interval [2500, 3000]: Successful - OK, 500 rows affected. - 0:00:01.561960
+20211007_231645: Working on interval [3000, 3500] last Interval: [12000, 12179]
+20211007_231648: Results of interval [3000, 3500]: Successful - OK, 500 rows affected. - 0:00:02.211297
+20211007_231648: Working on interval [3500, 4000] last Interval: [12000, 12179]
+20211007_231649: Results of interval [3500, 4000]: Successful - OK, 500 rows affected. - 0:00:01.486774
+20211007_231649: Working on interval [4000, 4500] last Interval: [12000, 12179]
+20211007_231651: Results of interval [4000, 4500]: Successful - OK, 500 rows affected. - 0:00:01.481243
+20211007_231651: Working on interval [4500, 5000] last Interval: [12000, 12179]
+20211007_231652: Results of interval [4500, 5000]: Successful - OK, 500 rows affected. - 0:00:01.486687
+20211007_231652: Working on interval [5000, 5500] last Interval: [12000, 12179]
+20211007_231654: Results of interval [5000, 5500]: Successful - OK, 500 rows affected. - 0:00:01.522319
+20211007_231654: Working on interval [5500, 6000] last Interval: [12000, 12179]
+20211007_231655: Results of interval [5500, 6000]: Successful - OK, 500 rows affected. - 0:00:01.597557
+20211007_231655: Working on interval [6000, 6500] last Interval: [12000, 12179]
+20211007_231657: Results of interval [6000, 6500]: Successful - OK, 500 rows affected. - 0:00:01.566329
+20211007_231657: Working on interval [6500, 7000] last Interval: [12000, 12179]
+20211007_231659: Results of interval [6500, 7000]: Successful - OK, 500 rows affected. - 0:00:01.558315
+20211007_231659: Working on interval [7000, 7500] last Interval: [12000, 12179]
+20211007_231700: Results of interval [7000, 7500]: Successful - OK, 500 rows affected. - 0:00:01.517293
+20211007_231700: Working on interval [7500, 8000] last Interval: [12000, 12179]
+20211007_231702: Results of interval [7500, 8000]: Successful - OK, 500 rows affected. - 0:00:01.673409
+20211007_231702: Working on interval [8000, 8500] last Interval: [12000, 12179]
+20211007_231703: Results of interval [8000, 8500]: Successful - OK, 500 rows affected. - 0:00:01.492699
+20211007_231703: Working on interval [8500, 9000] last Interval: [12000, 12179]
+20211007_231705: Results of interval [8500, 9000]: Successful - OK, 500 rows affected. - 0:00:01.610423
+20211007_231705: Working on interval [9000, 9500] last Interval: [12000, 12179]
+20211007_231707: Results of interval [9000, 9500]: Successful - OK, 500 rows affected. - 0:00:01.527579
+20211007_231707: Working on interval [9500, 10000] last Interval: [12000, 12179]
+20211007_231708: Results of interval [9500, 10000]: Successful - OK, 500 rows affected. - 0:00:01.709939
+20211007_231708: Working on interval [10000, 10500] last Interval: [12000, 12179]
+20211007_231710: Results of interval [10000, 10500]: Successful - OK, 500 rows affected. - 0:00:01.613509
+20211007_231710: Working on interval [10500, 11000] last Interval: [12000, 12179]
+20211007_231712: Results of interval [10500, 11000]: Successful - OK, 500 rows affected. - 0:00:01.595236
+20211007_231712: Working on interval [11000, 11500] last Interval: [12000, 12179]
+20211007_231713: Results of interval [11000, 11500]: Successful - OK, 500 rows affected. - 0:00:01.519517
+20211007_231713: Working on interval [11500, 12000] last Interval: [12000, 12179]
+20211007_231715: Results of interval [11500, 12000]: Successful - OK, 500 rows affected. - 0:00:01.628566
+20211007_231715: Working on interval [12000, 12179] last Interval: [12000, 12179]
+20211007_231716: Results of interval [12000, 12179]: Successful - OK, 179 rows affected. - 0:00:01.407583
+20211007_231716: Finshed process loading data to PostgreSQL
+20211007_231716: Time Elapsed: 0:00:43.144344
+20211007_231716: Total Time Elapsed: 0:16:51.437404
