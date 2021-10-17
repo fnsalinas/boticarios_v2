@@ -1,0 +1,37 @@
+20211017_093839: Starting web crawling and scraping process with https://www.drogueriascafam.com.co
+20211017_093839: Creating a list of Category URLs.
+20211017_093846: Starting process with each URL.
+20211017_093848: Working on https://www.drogueriascafam.com.co/5--medicamentos
+20211017_093851: Starting process with each URL.
+20211017_093852: Working on https://www.drogueriascolsubsidio.com/medicamentos
+20211017_093855: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=0
+20211017_093900: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=1
+20211017_093902: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=2
+20211017_093902: 09:39:02 Scroll nro: 1
+20211017_093904: 09:39:04 Scroll nro: 2
+20211017_093905: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=3
+20211017_093907: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=4
+20211017_093909: Working on https://www.drogueriascolsubsidio.com/medicamentos/venta-libre
+20211017_093909: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=5
+20211017_093910: 09:39:10 Scroll nro: 1
+20211017_093911: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=6
+20211017_093912: 09:39:12 Scroll nro: 2
+20211017_093912: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=7
+20211017_093914: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=8
+20211017_093914: 09:39:14 Scroll nro: 3
+20211017_093915: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=9
+20211017_093916: 09:39:16 Scroll nro: 4
+20211017_093917: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=10
+20211017_093918: 09:39:18 Scroll nro: 5
+20211017_093918: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=11
+20211017_093920: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=12
+20211017_093920: 09:39:20 Scroll nro: 6
+20211017_093921: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=13
+20211017_093923: 09:39:23 Scroll nro: 7
+20211017_093923: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=14
+20211017_093925: 09:39:25 Scroll nro: 8
+20211017_093925: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=15
+20211017_093926: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=16
+20211017_093927: 09:39:27 Scroll nro: 9
+20211017_093928: Working on https://www.drogueriascafam.com.co/5--medicamentos?p=17
+20211017_093929: 09:39:29 Scroll nro: 10
